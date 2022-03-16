@@ -27,7 +27,7 @@ def main():
         print("Found checkpoint. Loading weights")
         model.load_weights(checkpoint_dir)
 
-    model.compile(optimizer='rmsprop', loss='categorical_crossentropy')
+    model.compile(optimizer='adam', loss='categorical_crossentropy')
 
     callbacks = [
         tf.keras.callbacks.EarlyStopping(patience=5),

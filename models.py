@@ -15,9 +15,14 @@ class MatchPredictorModel(keras.Model, ABC):
         self.model = self._get_network()
 
     def _get_conv_block(self, inputs):
-        a = layers.Conv1D(32, 7, padding='same', activation='relu')(inputs)
+        a = layers.Conv1D(16, 7, padding='same', activation='relu')(inputs)
+        a = layers.BatchNormalization()(a)
         a = layers.MaxPool1D()(a)  # 36
-        a = layers.Conv1D(64, 5, padding='same', activation='relu')(a)
+        a = layers.Conv1D(32, 5, padding='same', activation='relu')(a)
+        a = layers.BatchNormalization()(a)
+        a = layers.MaxPool1D()(a)  # 18
+        a = layers.Conv1D(64, 3, padding='same', activation='relu')(a)
+        a = layers.BatchNormalization()(a)
         a = layers.MaxPool1D()(a)  # 18
         a = layers.Conv1D(128, 3, padding='same', activation='relu')(a)
         a = layers.GlobalAveragePooling1D()(a)  # 128
