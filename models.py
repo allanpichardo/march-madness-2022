@@ -15,21 +15,17 @@ class MatchPredictorModel(keras.Model, ABC):
         self.model = self._get_network()
 
     def _get_conv_block(self, inputs):
-        a = layers.Conv1D(8, 7, padding='same', activation='relu')(inputs)
+        a = layers.Conv1D(64, 3, padding='same', activation='relu')(inputs)
+        a = layers.BatchNormalization()(a)
+        a = layers.MaxPool1D()(a)  # 36
+        a = layers.Conv1D(128, 3, padding='same', activation='relu')(a)
         a = layers.BatchNormalization()(a)
         a = layers.MaxPool1D()(a)  # 18
-        a = layers.Conv1D(16, 5, padding='same', activation='relu')(a)
+        a = layers.Conv1D(256, 3, padding='same', activation='relu')(a)
         a = layers.BatchNormalization()(a)
-        a = layers.MaxPool1D()(a)  # 9
-        a = layers.Conv1D(32, 3, padding='same', activation='relu')(a)
-        a = layers.BatchNormalization()(a)
-        a = layers.MaxPool1D()(a)  # 4
-        a = layers.Conv1D(64, 3, padding='same', activation='relu')(a)
-        a = layers.MaxPool1D()(a)  # 2
-        a = layers.BatchNormalization()(a)
-        a = layers.Conv1D(128, 3, padding='same', activation='relu')(a)
-        a = layers.MaxPool1D()(a)  # 1
-        a = layers.Flatten()(a)
+        a = layers.MaxPool1D()(a)  # 18
+        a = layers.Conv1D(512, 3, padding='same', activation='relu')(a)
+        a = layers.GlobalMaxPooling1D()(a)  # 128
         return a
 
     def _get_network(self):
@@ -45,7 +41,7 @@ class MatchPredictorModel(keras.Model, ABC):
         hb = layers.Concatenate()([home_b, b])
 
         x = layers.Concatenate()([ha, hb])
-        x = layers.Dense(512, activation='relu')(x)
+        x = layers.Dense(128, activation='relu')(x)
         x = layers.Dense(2, activation='softmax')(x)
 
         return keras.Model([stats_a, home_a, stats_b, home_b], x)

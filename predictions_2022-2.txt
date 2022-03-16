@@ -1,0 +1,2278 @@
+Akron vs Alabama >> 0.6736361980438232 Probability for Alabama win
+Akron vs Arizona >> 0.9602143168449402 Probability for Arizona win
+Akron vs Arkansas >> 0.8633537888526917 Probability for Arkansas win
+Akron vs Auburn >> 0.9260306358337402 Probability for Auburn win
+Akron vs Baylor >> 0.9340819716453552 Probability for Baylor win
+Akron vs Boise St >> 0.8707309365272522 Probability for Boise St win
+Akron vs Bryant >> 0.601565420627594 Probability for Bryant win
+Akron vs Chattanooga >> 0.8558078408241272 Probability for Chattanooga win
+Akron vs Colgate >> 0.7754917144775391 Probability for Colgate win
+Akron vs Colorado St >> 0.8430724740028381 Probability for Colorado St win
+Akron vs Connecticut >> 0.8223370313644409 Probability for Connecticut win
+Akron vs Creighton >> 0.802361786365509 Probability for Creighton win
+Akron vs CS Fullerton >> 0.6905621886253357 Probability for CS Fullerton win
+Akron vs Davidson >> 0.9089570045471191 Probability for Davidson win
+Akron vs Delaware >> 0.7126032114028931 Probability for Delaware win
+Akron vs Duke >> 0.9019113779067993 Probability for Duke win
+Akron vs Georgia St >> 0.6906831860542297 Probability for Georgia St win
+Akron vs Gonzaga >> 0.9620887041091919 Probability for Gonzaga win
+Akron vs Houston >> 0.9594625234603882 Probability for Houston win
+Akron vs Illinois >> 0.8581292629241943 Probability for Illinois win
+Akron vs Indiana >> 0.7771216034889221 Probability for Indiana win
+Akron vs Iowa >> 0.9362069368362427 Probability for Iowa win
+Akron vs Iowa St >> 0.6970642805099487 Probability for Iowa St win
+Akron vs Jacksonville St >> 0.7007026672363281 Probability for Jacksonville St win
+Akron vs Kansas >> 0.9173126816749573 Probability for Kansas win
+Akron vs Kentucky >> 0.9281507730484009 Probability for Kentucky win
+Akron vs Longwood >> 0.8586433529853821 Probability for Longwood win
+Akron vs Loyola-Chicago >> 0.8318668007850647 Probability for Loyola-Chicago win
+Akron vs LSU >> 0.8670209646224976 Probability for LSU win
+Akron vs Marquette >> 0.7438929677009583 Probability for Marquette win
+Akron vs Memphis >> 0.8762525916099548 Probability for Memphis win
+Akron vs Miami FL >> 0.8101074695587158 Probability for Miami FL win
+Akron vs Michigan >> 0.7642013430595398 Probability for Michigan win
+Akron vs Michigan St >> 0.7014490365982056 Probability for Michigan St win
+Akron vs Montana St >> 0.8740351796150208 Probability for Montana St win
+Akron vs Murray St >> 0.9496431350708008 Probability for Murray St win
+Akron vs New Mexico St >> 0.8490930795669556 Probability for New Mexico St win
+Akron vs Norfolk St >> 0.7347127199172974 Probability for Norfolk St win
+Akron vs North Carolina >> 0.7575573921203613 Probability for North Carolina win
+Akron vs Notre Dame >> 0.751009464263916 Probability for Notre Dame win
+Akron vs Ohio St >> 0.8918665647506714 Probability for Ohio St win
+Akron vs Providence >> 0.75595623254776 Probability for Providence win
+Akron vs Purdue >> 0.8506122827529907 Probability for Purdue win
+Akron vs Richmond >> 0.7662172913551331 Probability for Richmond win
+Akron vs Rutgers >> 0.699026882648468 Probability for Rutgers win
+Akron vs S Dakota St >> 0.9297811388969421 Probability for S Dakota St win
+Akron vs San Diego St >> 0.8676534295082092 Probability for San Diego St win
+Akron vs San Francisco >> 0.855124831199646 Probability for San Francisco win
+Akron vs Seton Hall >> 0.7072065472602844 Probability for Seton Hall win
+Akron vs St Mary's CA >> 0.907484233379364 Probability for St Mary's CA win
+Akron vs St Peter's >> 0.7746551036834717 Probability for St Peter's win
+Akron vs TAM C. Christi >> 0.6779847741127014 Probability for TAM C. Christi win
+Akron vs TCU >> 0.8362258076667786 Probability for TCU win
+Akron vs Tennessee >> 0.903354823589325 Probability for Tennessee win
+Akron vs Texas >> 0.8849834203720093 Probability for Texas win
+Akron vs Texas Tech >> 0.7993161082267761 Probability for Texas Tech win
+Akron vs TX Southern >> 0.7121801972389221 Probability for TX Southern win
+Akron vs UAB >> 0.8791197538375854 Probability for UAB win
+Akron vs UCLA >> 0.9298532605171204 Probability for UCLA win
+Akron vs USC >> 0.8641849756240845 Probability for USC win
+Akron vs Vermont >> 0.9564822912216187 Probability for Vermont win
+Akron vs Villanova >> 0.8874174356460571 Probability for Villanova win
+Akron vs Virginia Tech >> 0.8754074573516846 Probability for Virginia Tech win
+Akron vs Wisconsin >> 0.7641503214836121 Probability for Wisconsin win
+Akron vs Wright St >> 0.6657019257545471 Probability for Wright St win
+Akron vs Wyoming >> 0.8423166871070862 Probability for Wyoming win
+Akron vs Yale >> 0.7109123468399048 Probability for Yale win
+Alabama vs Arizona >> 0.96825110912323 Probability for Arizona win
+Alabama vs Arkansas >> 0.8746932148933411 Probability for Arkansas win
+Alabama vs Auburn >> 0.9265074729919434 Probability for Auburn win
+Alabama vs Baylor >> 0.9329843521118164 Probability for Baylor win
+Alabama vs Boise St >> 0.8833048939704895 Probability for Boise St win
+Alabama vs Bryant >> 0.6269196271896362 Probability for Bryant win
+Alabama vs Chattanooga >> 0.8579080104827881 Probability for Chattanooga win
+Alabama vs Colgate >> 0.7942782640457153 Probability for Colgate win
+Alabama vs Colorado St >> 0.8507505655288696 Probability for Colorado St win
+Alabama vs Connecticut >> 0.8351156711578369 Probability for Connecticut win
+Alabama vs Creighton >> 0.8158179521560669 Probability for Creighton win
+Alabama vs CS Fullerton >> 0.7011285424232483 Probability for CS Fullerton win
+Alabama vs Davidson >> 0.910902738571167 Probability for Davidson win
+Alabama vs Delaware >> 0.7291083335876465 Probability for Delaware win
+Alabama vs Duke >> 0.9044730067253113 Probability for Duke win
+Alabama vs Georgia St >> 0.7448391318321228 Probability for Georgia St win
+Alabama vs Gonzaga >> 0.9636437296867371 Probability for Gonzaga win
+Alabama vs Houston >> 0.9627901911735535 Probability for Houston win
+Alabama vs Illinois >> 0.8642246127128601 Probability for Illinois win
+Alabama vs Indiana >> 0.7852280735969543 Probability for Indiana win
+Alabama vs Iowa >> 0.9360708594322205 Probability for Iowa win
+Alabama vs Iowa St >> 0.7218046188354492 Probability for Iowa St win
+Alabama vs Jacksonville St >> 0.7327114343643188 Probability for Jacksonville St win
+Alabama vs Kansas >> 0.9225308299064636 Probability for Kansas win
+Alabama vs Kentucky >> 0.9324105978012085 Probability for Kentucky win
+Alabama vs Longwood >> 0.8617592453956604 Probability for Longwood win
+Alabama vs Loyola-Chicago >> 0.830794095993042 Probability for Loyola-Chicago win
+Alabama vs LSU >> 0.8747783303260803 Probability for LSU win
+Alabama vs Marquette >> 0.7691280245780945 Probability for Marquette win
+Alabama vs Memphis >> 0.877439558506012 Probability for Memphis win
+Alabama vs Miami FL >> 0.8115967512130737 Probability for Miami FL win
+Alabama vs Michigan >> 0.765765368938446 Probability for Michigan win
+Alabama vs Michigan St >> 0.7393154501914978 Probability for Michigan St win
+Alabama vs Montana St >> 0.8708978295326233 Probability for Montana St win
+Alabama vs Murray St >> 0.9522585272789001 Probability for Murray St win
+Alabama vs New Mexico St >> 0.8517343997955322 Probability for New Mexico St win
+Alabama vs Norfolk St >> 0.7266508936882019 Probability for Norfolk St win
+Alabama vs North Carolina >> 0.7541419863700867 Probability for North Carolina win
+Alabama vs Notre Dame >> 0.7650917172431946 Probability for Notre Dame win
+Alabama vs Ohio St >> 0.8888060450553894 Probability for Ohio St win
+Alabama vs Providence >> 0.7710145115852356 Probability for Providence win
+Alabama vs Purdue >> 0.8504006266593933 Probability for Purdue win
+Alabama vs Richmond >> 0.7782513499259949 Probability for Richmond win
+Alabama vs Rutgers >> 0.7389719486236572 Probability for Rutgers win
+Alabama vs S Dakota St >> 0.9313548803329468 Probability for S Dakota St win
+Alabama vs San Diego St >> 0.8698195815086365 Probability for San Diego St win
+Alabama vs San Francisco >> 0.8668911457061768 Probability for San Francisco win
+Alabama vs Seton Hall >> 0.7180569767951965 Probability for Seton Hall win
+Alabama vs St Mary's CA >> 0.9172348380088806 Probability for St Mary's CA win
+Alabama vs St Peter's >> 0.7811270952224731 Probability for St Peter's win
+Alabama vs TAM C. Christi >> 0.7264422178268433 Probability for TAM C. Christi win
+Alabama vs TCU >> 0.8460354208946228 Probability for TCU win
+Alabama vs Tennessee >> 0.9039654731750488 Probability for Tennessee win
+Alabama vs Texas >> 0.8842675685882568 Probability for Texas win
+Alabama vs Texas Tech >> 0.8275725245475769 Probability for Texas Tech win
+Alabama vs TX Southern >> 0.7273855209350586 Probability for TX Southern win
+Alabama vs UAB >> 0.8734758496284485 Probability for UAB win
+Alabama vs UCLA >> 0.9373628497123718 Probability for UCLA win
+Alabama vs USC >> 0.8739323019981384 Probability for USC win
+Alabama vs Vermont >> 0.9589915871620178 Probability for Vermont win
+Alabama vs Villanova >> 0.8912010788917542 Probability for Villanova win
+Alabama vs Virginia Tech >> 0.8824027180671692 Probability for Virginia Tech win
+Alabama vs Wisconsin >> 0.7779818773269653 Probability for Wisconsin win
+Alabama vs Wright St >> 0.716619074344635 Probability for Wright St win
+Alabama vs Wyoming >> 0.8387606739997864 Probability for Wyoming win
+Alabama vs Yale >> 0.7338467836380005 Probability for Yale win
+Arizona vs Arkansas >> 0.6751121878623962 Probability for Arizona win
+Arizona vs Auburn >> 0.5028460025787354 Probability for Auburn win
+Arizona vs Baylor >> 0.508586049079895 Probability for Baylor win
+Arizona vs Boise St >> 0.6568445563316345 Probability for Arizona win
+Arizona vs Bryant >> 0.8943465352058411 Probability for Arizona win
+Arizona vs Chattanooga >> 0.6969079375267029 Probability for Arizona win
+Arizona vs Colgate >> 0.7930957078933716 Probability for Arizona win
+Arizona vs Colorado St >> 0.696075439453125 Probability for Arizona win
+Arizona vs Connecticut >> 0.7213695645332336 Probability for Arizona win
+Arizona vs Creighton >> 0.7393773794174194 Probability for Arizona win
+Arizona vs CS Fullerton >> 0.8455626368522644 Probability for Arizona win
+Arizona vs Davidson >> 0.5454301238059998 Probability for Arizona win
+Arizona vs Delaware >> 0.8171461224555969 Probability for Arizona win
+Arizona vs Duke >> 0.6067343354225159 Probability for Arizona win
+Arizona vs Georgia St >> 0.8264765739440918 Probability for Arizona win
+Arizona vs Gonzaga >> 0.6512619853019714 Probability for Gonzaga win
+Arizona vs Houston >> 0.6586015820503235 Probability for Houston win
+Arizona vs Illinois >> 0.6979339718818665 Probability for Arizona win
+Arizona vs Indiana >> 0.7947108149528503 Probability for Arizona win
+Arizona vs Iowa >> 0.522322952747345 Probability for Iowa win
+Arizona vs Iowa St >> 0.8423882126808167 Probability for Arizona win
+Arizona vs Jacksonville St >> 0.8269902467727661 Probability for Arizona win
+Arizona vs Kansas >> 0.5103833675384521 Probability for Arizona win
+Arizona vs Kentucky >> 0.5141324996948242 Probability for Arizona win
+Arizona vs Longwood >> 0.7007098197937012 Probability for Arizona win
+Arizona vs Loyola-Chicago >> 0.7113351225852966 Probability for Arizona win
+Arizona vs LSU >> 0.6503220796585083 Probability for Arizona win
+Arizona vs Marquette >> 0.8035023808479309 Probability for Arizona win
+Arizona vs Memphis >> 0.6387442350387573 Probability for Arizona win
+Arizona vs Miami FL >> 0.7508285641670227 Probability for Arizona win
+Arizona vs Michigan >> 0.8115136623382568 Probability for Arizona win
+Arizona vs Michigan St >> 0.8292006850242615 Probability for Arizona win
+Arizona vs Montana St >> 0.6760132312774658 Probability for Arizona win
+Arizona vs Murray St >> 0.585705041885376 Probability for Murray St win
+Arizona vs New Mexico St >> 0.6988427639007568 Probability for Arizona win
+Arizona vs Norfolk St >> 0.8214148879051208 Probability for Arizona win
+Arizona vs North Carolina >> 0.8112298846244812 Probability for Arizona win
+Arizona vs Notre Dame >> 0.8026425242424011 Probability for Arizona win
+Arizona vs Ohio St >> 0.6278919577598572 Probability for Arizona win
+Arizona vs Providence >> 0.8047254085540771 Probability for Arizona win
+Arizona vs Purdue >> 0.7007591128349304 Probability for Arizona win
+Arizona vs Richmond >> 0.7969549298286438 Probability for Arizona win
+Arizona vs Rutgers >> 0.8245358467102051 Probability for Arizona win
+Arizona vs S Dakota St >> 0.5024436116218567 Probability for S Dakota St win
+Arizona vs San Diego St >> 0.6564816832542419 Probability for Arizona win
+Arizona vs San Francisco >> 0.6820289492607117 Probability for Arizona win
+Arizona vs Seton Hall >> 0.8462689518928528 Probability for Arizona win
+Arizona vs St Mary's CA >> 0.588810920715332 Probability for Arizona win
+Arizona vs St Peter's >> 0.7793235778808594 Probability for Arizona win
+Arizona vs TAM C. Christi >> 0.8309803605079651 Probability for Arizona win
+Arizona vs TCU >> 0.6993072032928467 Probability for Arizona win
+Arizona vs Tennessee >> 0.5659008622169495 Probability for Arizona win
+Arizona vs Texas >> 0.6328608393669128 Probability for Arizona win
+Arizona vs Texas Tech >> 0.7659103870391846 Probability for Arizona win
+Arizona vs TX Southern >> 0.8235459923744202 Probability for Arizona win
+Arizona vs UAB >> 0.6574697494506836 Probability for Arizona win
+Arizona vs UCLA >> 0.5241476893424988 Probability for UCLA win
+Arizona vs USC >> 0.660201370716095 Probability for Arizona win
+Arizona vs Vermont >> 0.6182120442390442 Probability for Vermont win
+Arizona vs Villanova >> 0.5900388956069946 Probability for Arizona win
+Arizona vs Virginia Tech >> 0.6476762890815735 Probability for Arizona win
+Arizona vs Wisconsin >> 0.7881149053573608 Probability for Arizona win
+Arizona vs Wright St >> 0.8494018912315369 Probability for Arizona win
+Arizona vs Wyoming >> 0.7145980596542358 Probability for Arizona win
+Arizona vs Yale >> 0.8305983543395996 Probability for Arizona win
+Arkansas vs Auburn >> 0.742624819278717 Probability for Auburn win
+Arkansas vs Baylor >> 0.7715844511985779 Probability for Baylor win
+Arkansas vs Boise St >> 0.6208105683326721 Probability for Boise St win
+Arkansas vs Bryant >> 0.7354874610900879 Probability for Arkansas win
+Arkansas vs Chattanooga >> 0.579395055770874 Probability for Chattanooga win
+Arkansas vs Colgate >> 0.5360125303268433 Probability for Arkansas win
+Arkansas vs Colorado St >> 0.5568069219589233 Probability for Colorado St win
+Arkansas vs Connecticut >> 0.5741088390350342 Probability for Connecticut win
+Arkansas vs Creighton >> 0.5078287124633789 Probability for Arkansas win
+Arkansas vs CS Fullerton >> 0.6486133933067322 Probability for Arkansas win
+Arkansas vs Davidson >> 0.6940372586250305 Probability for Davidson win
+Arkansas vs Delaware >> 0.6170275807380676 Probability for Arkansas win
+Arkansas vs Duke >> 0.6834475994110107 Probability for Duke win
+Arkansas vs Georgia St >> 0.6507427096366882 Probability for Arkansas win
+Arkansas vs Gonzaga >> 0.8668495416641235 Probability for Gonzaga win
+Arkansas vs Houston >> 0.8713715076446533 Probability for Houston win
+Arkansas vs Illinois >> 0.5809086561203003 Probability for Illinois win
+Arkansas vs Indiana >> 0.5598333477973938 Probability for Arkansas win
+Arkansas vs Iowa >> 0.7770460247993469 Probability for Iowa win
+Arkansas vs Iowa St >> 0.6480410695075989 Probability for Arkansas win
+Arkansas vs Jacksonville St >> 0.6405391693115234 Probability for Arkansas win
+Arkansas vs Kansas >> 0.7270104885101318 Probability for Kansas win
+Arkansas vs Kentucky >> 0.7583905458450317 Probability for Kentucky win
+Arkansas vs Longwood >> 0.583207905292511 Probability for Longwood win
+Arkansas vs Loyola-Chicago >> 0.5689919590950012 Probability for Loyola-Chicago win
+Arkansas vs LSU >> 0.607707142829895 Probability for LSU win
+Arkansas vs Marquette >> 0.5899739265441895 Probability for Arkansas win
+Arkansas vs Memphis >> 0.623365581035614 Probability for Memphis win
+Arkansas vs Miami FL >> 0.5060322880744934 Probability for Arkansas win
+Arkansas vs Michigan >> 0.569506049156189 Probability for Arkansas win
+Arkansas vs Michigan St >> 0.6397908926010132 Probability for Arkansas win
+Arkansas vs Montana St >> 0.6230524778366089 Probability for Montana St win
+Arkansas vs Murray St >> 0.8179354071617126 Probability for Murray St win
+Arkansas vs New Mexico St >> 0.5743562579154968 Probability for New Mexico St win
+Arkansas vs Norfolk St >> 0.602914035320282 Probability for Arkansas win
+Arkansas vs North Carolina >> 0.576219916343689 Probability for Arkansas win
+Arkansas vs Notre Dame >> 0.5876490473747253 Probability for Arkansas win
+Arkansas vs Ohio St >> 0.6691054701805115 Probability for Ohio St win
+Arkansas vs Providence >> 0.579800009727478 Probability for Arkansas win
+Arkansas vs Purdue >> 0.570467472076416 Probability for Purdue win
+Arkansas vs Richmond >> 0.5900369882583618 Probability for Arkansas win
+Arkansas vs Rutgers >> 0.630897581577301 Probability for Arkansas win
+Arkansas vs S Dakota St >> 0.759134829044342 Probability for S Dakota St win
+Arkansas vs San Diego St >> 0.6148673892021179 Probability for San Diego St win
+Arkansas vs San Francisco >> 0.5851366519927979 Probability for San Francisco win
+Arkansas vs Seton Hall >> 0.6434865593910217 Probability for Arkansas win
+Arkansas vs St Mary's CA >> 0.7063286900520325 Probability for St Mary's CA win
+Arkansas vs St Peter's >> 0.5535945296287537 Probability for Arkansas win
+Arkansas vs TAM C. Christi >> 0.6321465969085693 Probability for Arkansas win
+Arkansas vs TCU >> 0.5483148097991943 Probability for TCU win
+Arkansas vs Tennessee >> 0.6954480409622192 Probability for Tennessee win
+Arkansas vs Texas >> 0.6591067910194397 Probability for Texas win
+Arkansas vs Texas Tech >> 0.5137771964073181 Probability for Texas Tech win
+Arkansas vs TX Southern >> 0.6366852521896362 Probability for Arkansas win
+Arkansas vs UAB >> 0.6340182423591614 Probability for UAB win
+Arkansas vs UCLA >> 0.7642602920532227 Probability for UCLA win
+Arkansas vs USC >> 0.6095114350318909 Probability for USC win
+Arkansas vs Vermont >> 0.8512594699859619 Probability for Vermont win
+Arkansas vs Villanova >> 0.667090892791748 Probability for Villanova win
+Arkansas vs Virginia Tech >> 0.6419934034347534 Probability for Virginia Tech win
+Arkansas vs Wisconsin >> 0.5598697662353516 Probability for Arkansas win
+Arkansas vs Wright St >> 0.6788331270217896 Probability for Arkansas win
+Arkansas vs Wyoming >> 0.5607152581214905 Probability for Wyoming win
+Arkansas vs Yale >> 0.6559984087944031 Probability for Arkansas win
+Auburn vs Baylor >> 0.6816560626029968 Probability for Baylor win
+Auburn vs Boise St >> 0.5464383363723755 Probability for Boise St win
+Auburn vs Bryant >> 0.8004589080810547 Probability for Auburn win
+Auburn vs Chattanooga >> 0.5150496363639832 Probability for Auburn win
+Auburn vs Colgate >> 0.6225311756134033 Probability for Auburn win
+Auburn vs Colorado St >> 0.5245839357376099 Probability for Auburn win
+Auburn vs Connecticut >> 0.5624948143959045 Probability for Auburn win
+Auburn vs Creighton >> 0.5639294981956482 Probability for Auburn win
+Auburn vs CS Fullerton >> 0.7271397113800049 Probability for Auburn win
+Auburn vs Davidson >> 0.6338376402854919 Probability for Davidson win
+Auburn vs Delaware >> 0.6819120645523071 Probability for Auburn win
+Auburn vs Duke >> 0.5878799557685852 Probability for Duke win
+Auburn vs Georgia St >> 0.6720775365829468 Probability for Auburn win
+Auburn vs Gonzaga >> 0.7984889149665833 Probability for Gonzaga win
+Auburn vs Houston >> 0.8014256358146667 Probability for Houston win
+Auburn vs Illinois >> 0.5186215043067932 Probability for Auburn win
+Auburn vs Indiana >> 0.6337717771530151 Probability for Auburn win
+Auburn vs Iowa >> 0.6881483793258667 Probability for Iowa win
+Auburn vs Iowa St >> 0.7052550911903381 Probability for Auburn win
+Auburn vs Jacksonville St >> 0.6714581251144409 Probability for Auburn win
+Auburn vs Kansas >> 0.6545910835266113 Probability for Kansas win
+Auburn vs Kentucky >> 0.6725351810455322 Probability for Kentucky win
+Auburn vs Longwood >> 0.513850748538971 Probability for Auburn win
+Auburn vs Loyola-Chicago >> 0.562304675579071 Probability for Auburn win
+Auburn vs LSU >> 0.5186232924461365 Probability for LSU win
+Auburn vs Marquette >> 0.6505758166313171 Probability for Auburn win
+Auburn vs Memphis >> 0.5273233652114868 Probability for Memphis win
+Auburn vs Miami FL >> 0.5724769234657288 Probability for Auburn win
+Auburn vs Michigan >> 0.6521106958389282 Probability for Auburn win
+Auburn vs Michigan St >> 0.6829890012741089 Probability for Auburn win
+Auburn vs Montana St >> 0.5128347277641296 Probability for Montana St win
+Auburn vs Murray St >> 0.7430257797241211 Probability for Murray St win
+Auburn vs New Mexico St >> 0.5308693647384644 Probability for Auburn win
+Auburn vs Norfolk St >> 0.699417769908905 Probability for Auburn win
+Auburn vs North Carolina >> 0.6771888732910156 Probability for Auburn win
+Auburn vs Notre Dame >> 0.6569154262542725 Probability for Auburn win
+Auburn vs Ohio St >> 0.5554978847503662 Probability for Ohio St win
+Auburn vs Providence >> 0.6499422788619995 Probability for Auburn win
+Auburn vs Purdue >> 0.539386510848999 Probability for Auburn win
+Auburn vs Richmond >> 0.6353701949119568 Probability for Auburn win
+Auburn vs Rutgers >> 0.6748862862586975 Probability for Auburn win
+Auburn vs S Dakota St >> 0.6812165379524231 Probability for S Dakota St win
+Auburn vs San Diego St >> 0.5212347507476807 Probability for San Diego St win
+Auburn vs San Francisco >> 0.5029677748680115 Probability for Auburn win
+Auburn vs Seton Hall >> 0.7204050421714783 Probability for Auburn win
+Auburn vs St Mary's CA >> 0.6315393447875977 Probability for St Mary's CA win
+Auburn vs St Peter's >> 0.6277040243148804 Probability for Auburn win
+Auburn vs TAM C. Christi >> 0.6855984926223755 Probability for Auburn win
+Auburn vs TCU >> 0.5316241383552551 Probability for Auburn win
+Auburn vs Tennessee >> 0.6032038927078247 Probability for Tennessee win
+Auburn vs Texas >> 0.5457810759544373 Probability for Texas win
+Auburn vs Texas Tech >> 0.577846109867096 Probability for Auburn win
+Auburn vs TX Southern >> 0.6775332093238831 Probability for Auburn win
+Auburn vs UAB >> 0.5218209624290466 Probability for UAB win
+Auburn vs UCLA >> 0.6995900273323059 Probability for UCLA win
+Auburn vs USC >> 0.5301995873451233 Probability for USC win
+Auburn vs Vermont >> 0.7852153778076172 Probability for Vermont win
+Auburn vs Villanova >> 0.5829624533653259 Probability for Villanova win
+Auburn vs Virginia Tech >> 0.536909818649292 Probability for Virginia Tech win
+Auburn vs Wisconsin >> 0.6280173063278198 Probability for Auburn win
+Auburn vs Wright St >> 0.7214933037757874 Probability for Auburn win
+Auburn vs Wyoming >> 0.5456047654151917 Probability for Auburn win
+Auburn vs Yale >> 0.6852731108665466 Probability for Auburn win
+Baylor vs Boise St >> 0.5527063608169556 Probability for Boise St win
+Baylor vs Bryant >> 0.7941176891326904 Probability for Baylor win
+Baylor vs Chattanooga >> 0.5149793028831482 Probability for Chattanooga win
+Baylor vs Colgate >> 0.6158270239830017 Probability for Baylor win
+Baylor vs Colorado St >> 0.5149956941604614 Probability for Baylor win
+Baylor vs Connecticut >> 0.5335697531700134 Probability for Baylor win
+Baylor vs Creighton >> 0.5758851766586304 Probability for Baylor win
+Baylor vs CS Fullerton >> 0.7140822410583496 Probability for Baylor win
+Baylor vs Davidson >> 0.6313394904136658 Probability for Davidson win
+Baylor vs Delaware >> 0.7024063467979431 Probability for Baylor win
+Baylor vs Duke >> 0.6053103804588318 Probability for Duke win
+Baylor vs Georgia St >> 0.6940258145332336 Probability for Baylor win
+Baylor vs Gonzaga >> 0.8181112408638 Probability for Gonzaga win
+Baylor vs Houston >> 0.8102484345436096 Probability for Houston win
+Baylor vs Illinois >> 0.5062941908836365 Probability for Baylor win
+Baylor vs Indiana >> 0.6315279006958008 Probability for Baylor win
+Baylor vs Iowa >> 0.7104405164718628 Probability for Iowa win
+Baylor vs Iowa St >> 0.7144602537155151 Probability for Baylor win
+Baylor vs Jacksonville St >> 0.6982170343399048 Probability for Baylor win
+Baylor vs Kansas >> 0.6654309630393982 Probability for Kansas win
+Baylor vs Kentucky >> 0.6886517405509949 Probability for Kentucky win
+Baylor vs Longwood >> 0.5038540363311768 Probability for Longwood win
+Baylor vs Loyola-Chicago >> 0.5259708762168884 Probability for Baylor win
+Baylor vs LSU >> 0.5305016040802002 Probability for LSU win
+Baylor vs Marquette >> 0.672061562538147 Probability for Baylor win
+Baylor vs Memphis >> 0.5440904498100281 Probability for Memphis win
+Baylor vs Miami FL >> 0.5862127542495728 Probability for Baylor win
+Baylor vs Michigan >> 0.6535437703132629 Probability for Baylor win
+Baylor vs Michigan St >> 0.692000687122345 Probability for Baylor win
+Baylor vs Montana St >> 0.5374007821083069 Probability for Montana St win
+Baylor vs Murray St >> 0.761023759841919 Probability for Murray St win
+Baylor vs New Mexico St >> 0.5123767256736755 Probability for Baylor win
+Baylor vs Norfolk St >> 0.6842264533042908 Probability for Baylor win
+Baylor vs North Carolina >> 0.6581472754478455 Probability for Baylor win
+Baylor vs Notre Dame >> 0.6612597107887268 Probability for Baylor win
+Baylor vs Ohio St >> 0.5865666270256042 Probability for Ohio St win
+Baylor vs Providence >> 0.6463707685470581 Probability for Baylor win
+Baylor vs Purdue >> 0.5126667022705078 Probability for Baylor win
+Baylor vs Richmond >> 0.6611095070838928 Probability for Baylor win
+Baylor vs Rutgers >> 0.6922492980957031 Probability for Baylor win
+Baylor vs S Dakota St >> 0.6950660943984985 Probability for S Dakota St win
+Baylor vs San Diego St >> 0.5231902599334717 Probability for San Diego St win
+Baylor vs San Francisco >> 0.5130069255828857 Probability for San Francisco win
+Baylor vs Seton Hall >> 0.7127662897109985 Probability for Baylor win
+Baylor vs St Mary's CA >> 0.6399961709976196 Probability for St Mary's CA win
+Baylor vs St Peter's >> 0.6360396146774292 Probability for Baylor win
+Baylor vs TAM C. Christi >> 0.7130721807479858 Probability for Baylor win
+Baylor vs TCU >> 0.5262525677680969 Probability for Baylor win
+Baylor vs Tennessee >> 0.6145676374435425 Probability for Tennessee win
+Baylor vs Texas >> 0.565920889377594 Probability for Texas win
+Baylor vs Texas Tech >> 0.594319224357605 Probability for Baylor win
+Baylor vs TX Southern >> 0.6945752501487732 Probability for Baylor win
+Baylor vs UAB >> 0.549338698387146 Probability for UAB win
+Baylor vs UCLA >> 0.7077574729919434 Probability for UCLA win
+Baylor vs USC >> 0.53680020570755 Probability for USC win
+Baylor vs Vermont >> 0.8020238876342773 Probability for Vermont win
+Baylor vs Villanova >> 0.5598627328872681 Probability for Villanova win
+Baylor vs Virginia Tech >> 0.5503743886947632 Probability for Virginia Tech win
+Baylor vs Wisconsin >> 0.6434376239776611 Probability for Baylor win
+Baylor vs Wright St >> 0.7275853753089905 Probability for Baylor win
+Baylor vs Wyoming >> 0.5278000235557556 Probability for Baylor win
+Baylor vs Yale >> 0.694331169128418 Probability for Baylor win
+Boise St vs Bryant >> 0.5920755863189697 Probability for Boise St win
+Boise St vs Chattanooga >> 0.7417576909065247 Probability for Chattanooga win
+Boise St vs Colgate >> 0.6069514751434326 Probability for Colgate win
+Boise St vs Colorado St >> 0.7307420372962952 Probability for Colorado St win
+Boise St vs Connecticut >> 0.6797358393669128 Probability for Connecticut win
+Boise St vs Creighton >> 0.6822651624679565 Probability for Creighton win
+Boise St vs CS Fullerton >> 0.5197315812110901 Probability for CS Fullerton win
+Boise St vs Davidson >> 0.8423692584037781 Probability for Davidson win
+Boise St vs Delaware >> 0.5817220211029053 Probability for Delaware win
+Boise St vs Duke >> 0.7986932396888733 Probability for Duke win
+Boise St vs Georgia St >> 0.5577859282493591 Probability for Georgia St win
+Boise St vs Gonzaga >> 0.9183247089385986 Probability for Gonzaga win
+Boise St vs Houston >> 0.9156672358512878 Probability for Houston win
+Boise St vs Illinois >> 0.7266780138015747 Probability for Illinois win
+Boise St vs Indiana >> 0.6151721477508545 Probability for Indiana win
+Boise St vs Iowa >> 0.865907609462738 Probability for Iowa win
+Boise St vs Iowa St >> 0.5325271487236023 Probability for Iowa St win
+Boise St vs Jacksonville St >> 0.5748264789581299 Probability for Jacksonville St win
+Boise St vs Kansas >> 0.8547965884208679 Probability for Kansas win
+Boise St vs Kentucky >> 0.8553475141525269 Probability for Kentucky win
+Boise St vs Longwood >> 0.7320974469184875 Probability for Longwood win
+Boise St vs Loyola-Chicago >> 0.6739004850387573 Probability for Loyola-Chicago win
+Boise St vs LSU >> 0.7640753984451294 Probability for LSU win
+Boise St vs Marquette >> 0.6139485239982605 Probability for Marquette win
+Boise St vs Memphis >> 0.7760576605796814 Probability for Memphis win
+Boise St vs Miami FL >> 0.6916558146476746 Probability for Miami FL win
+Boise St vs Michigan >> 0.5871673822402954 Probability for Michigan win
+Boise St vs Michigan St >> 0.5652581453323364 Probability for Michigan St win
+Boise St vs Montana St >> 0.7528956532478333 Probability for Montana St win
+Boise St vs Murray St >> 0.8919148445129395 Probability for Murray St win
+Boise St vs New Mexico St >> 0.7280267477035522 Probability for New Mexico St win
+Boise St vs Norfolk St >> 0.5779992938041687 Probability for Norfolk St win
+Boise St vs North Carolina >> 0.5913019776344299 Probability for North Carolina win
+Boise St vs Notre Dame >> 0.6119694709777832 Probability for Notre Dame win
+Boise St vs Ohio St >> 0.78471839427948 Probability for Ohio St win
+Boise St vs Providence >> 0.6193966865539551 Probability for Providence win
+Boise St vs Purdue >> 0.724557638168335 Probability for Purdue win
+Boise St vs Richmond >> 0.6320800185203552 Probability for Richmond win
+Boise St vs Rutgers >> 0.568309485912323 Probability for Rutgers win
+Boise St vs S Dakota St >> 0.8649546504020691 Probability for S Dakota St win
+Boise St vs San Diego St >> 0.761145293712616 Probability for San Diego St win
+Boise St vs San Francisco >> 0.743486762046814 Probability for San Francisco win
+Boise St vs Seton Hall >> 0.5407049655914307 Probability for Seton Hall win
+Boise St vs St Mary's CA >> 0.8182746767997742 Probability for St Mary's CA win
+Boise St vs St Peter's >> 0.6384599804878235 Probability for St Peter's win
+Boise St vs TAM C. Christi >> 0.5337245464324951 Probability for TAM C. Christi win
+Boise St vs TCU >> 0.7206968069076538 Probability for TCU win
+Boise St vs Tennessee >> 0.815138041973114 Probability for Tennessee win
+Boise St vs Texas >> 0.7803171277046204 Probability for Texas win
+Boise St vs Texas Tech >> 0.6431944370269775 Probability for Texas Tech win
+Boise St vs TX Southern >> 0.5747352242469788 Probability for TX Southern win
+Boise St vs UAB >> 0.7605828642845154 Probability for UAB win
+Boise St vs UCLA >> 0.868431806564331 Probability for UCLA win
+Boise St vs USC >> 0.7609097957611084 Probability for USC win
+Boise St vs Vermont >> 0.9110280871391296 Probability for Vermont win
+Boise St vs Villanova >> 0.7920966744422913 Probability for Villanova win
+Boise St vs Virginia Tech >> 0.7665156722068787 Probability for Virginia Tech win
+Boise St vs Wisconsin >> 0.6313465237617493 Probability for Wisconsin win
+Boise St vs Wright St >> 0.5078752636909485 Probability for Wright St win
+Boise St vs Wyoming >> 0.7115349173545837 Probability for Wyoming win
+Boise St vs Yale >> 0.5639597773551941 Probability for Yale win
+Bryant vs Chattanooga >> 0.8249026536941528 Probability for Chattanooga win
+Bryant vs Colgate >> 0.7413644194602966 Probability for Colgate win
+Bryant vs Colorado St >> 0.8160979747772217 Probability for Colorado St win
+Bryant vs Connecticut >> 0.8125760555267334 Probability for Connecticut win
+Bryant vs Creighton >> 0.7625700831413269 Probability for Creighton win
+Bryant vs CS Fullerton >> 0.6233490705490112 Probability for CS Fullerton win
+Bryant vs Davidson >> 0.8898890018463135 Probability for Davidson win
+Bryant vs Delaware >> 0.6472427845001221 Probability for Delaware win
+Bryant vs Duke >> 0.878271758556366 Probability for Duke win
+Bryant vs Georgia St >> 0.6623704433441162 Probability for Georgia St win
+Bryant vs Gonzaga >> 0.9556737542152405 Probability for Gonzaga win
+Bryant vs Houston >> 0.9584947228431702 Probability for Houston win
+Bryant vs Illinois >> 0.822241485118866 Probability for Illinois win
+Bryant vs Indiana >> 0.7367403507232666 Probability for Indiana win
+Bryant vs Iowa >> 0.917853057384491 Probability for Iowa win
+Bryant vs Iowa St >> 0.637222945690155 Probability for Iowa St win
+Bryant vs Jacksonville St >> 0.6552295684814453 Probability for Jacksonville St win
+Bryant vs Kansas >> 0.8989301919937134 Probability for Kansas win
+Bryant vs Kentucky >> 0.9101443886756897 Probability for Kentucky win
+Bryant vs Longwood >> 0.8247678279876709 Probability for Longwood win
+Bryant vs Loyola-Chicago >> 0.819526731967926 Probability for Loyola-Chicago win
+Bryant vs LSU >> 0.8331652283668518 Probability for LSU win
+Bryant vs Marquette >> 0.6817365884780884 Probability for Marquette win
+Bryant vs Memphis >> 0.8425183296203613 Probability for Memphis win
+Bryant vs Miami FL >> 0.7556929588317871 Probability for Miami FL win
+Bryant vs Michigan >> 0.7116277813911438 Probability for Michigan win
+Bryant vs Michigan St >> 0.6451261043548584 Probability for Michigan St win
+Bryant vs Montana St >> 0.8437440395355225 Probability for Montana St win
+Bryant vs Murray St >> 0.9379826784133911 Probability for Murray St win
+Bryant vs New Mexico St >> 0.8144292235374451 Probability for New Mexico St win
+Bryant vs Norfolk St >> 0.6777013540267944 Probability for Norfolk St win
+Bryant vs North Carolina >> 0.7030373215675354 Probability for North Carolina win
+Bryant vs Notre Dame >> 0.7133143544197083 Probability for Notre Dame win
+Bryant vs Ohio St >> 0.8676865696907043 Probability for Ohio St win
+Bryant vs Providence >> 0.7024692296981812 Probability for Providence win
+Bryant vs Purdue >> 0.8157432079315186 Probability for Purdue win
+Bryant vs Richmond >> 0.7123159170150757 Probability for Richmond win
+Bryant vs Rutgers >> 0.645810604095459 Probability for Rutgers win
+Bryant vs S Dakota St >> 0.9176036715507507 Probability for S Dakota St win
+Bryant vs San Diego St >> 0.8407631516456604 Probability for San Diego St win
+Bryant vs San Francisco >> 0.8245482444763184 Probability for San Francisco win
+Bryant vs Seton Hall >> 0.6496912240982056 Probability for Seton Hall win
+Bryant vs St Mary's CA >> 0.8924964666366577 Probability for St Mary's CA win
+Bryant vs St Peter's >> 0.7341878414154053 Probability for St Peter's win
+Bryant vs TAM C. Christi >> 0.6360572576522827 Probability for TAM C. Christi win
+Bryant vs TCU >> 0.7949060201644897 Probability for TCU win
+Bryant vs Tennessee >> 0.8848533630371094 Probability for Tennessee win
+Bryant vs Texas >> 0.8685580492019653 Probability for Texas win
+Bryant vs Texas Tech >> 0.7885640859603882 Probability for Texas Tech win
+Bryant vs TX Southern >> 0.66685551404953 Probability for TX Southern win
+Bryant vs UAB >> 0.8467432856559753 Probability for UAB win
+Bryant vs UCLA >> 0.9154707789421082 Probability for UCLA win
+Bryant vs USC >> 0.8210394382476807 Probability for USC win
+Bryant vs Vermont >> 0.9493290781974792 Probability for Vermont win
+Bryant vs Villanova >> 0.8784971833229065 Probability for Villanova win
+Bryant vs Virginia Tech >> 0.8579494953155518 Probability for Virginia Tech win
+Bryant vs Wisconsin >> 0.7074805498123169 Probability for Wisconsin win
+Bryant vs Wright St >> 0.6166229248046875 Probability for Wright St win
+Bryant vs Wyoming >> 0.8085349202156067 Probability for Wyoming win
+Bryant vs Yale >> 0.6615424156188965 Probability for Yale win
+Chattanooga vs Colgate >> 0.5090716481208801 Probability for Chattanooga win
+Chattanooga vs Colorado St >> 0.6104863286018372 Probability for Colorado St win
+Chattanooga vs Connecticut >> 0.5652420520782471 Probability for Connecticut win
+Chattanooga vs Creighton >> 0.5572062134742737 Probability for Creighton win
+Chattanooga vs CS Fullerton >> 0.6013002991676331 Probability for Chattanooga win
+Chattanooga vs Davidson >> 0.7494453191757202 Probability for Davidson win
+Chattanooga vs Delaware >> 0.5526508688926697 Probability for Chattanooga win
+Chattanooga vs Duke >> 0.7060378789901733 Probability for Duke win
+Chattanooga vs Georgia St >> 0.5581784248352051 Probability for Chattanooga win
+Chattanooga vs Gonzaga >> 0.8685358166694641 Probability for Gonzaga win
+Chattanooga vs Houston >> 0.8647775053977966 Probability for Houston win
+Chattanooga vs Illinois >> 0.6171352863311768 Probability for Illinois win
+Chattanooga vs Indiana >> 0.513575553894043 Probability for Chattanooga win
+Chattanooga vs Iowa >> 0.7909972667694092 Probability for Iowa win
+Chattanooga vs Iowa St >> 0.5811117887496948 Probability for Chattanooga win
+Chattanooga vs Jacksonville St >> 0.5558053255081177 Probability for Chattanooga win
+Chattanooga vs Kansas >> 0.7735751271247864 Probability for Kansas win
+Chattanooga vs Kentucky >> 0.7793043255805969 Probability for Kentucky win
+Chattanooga vs Longwood >> 0.6218293905258179 Probability for Longwood win
+Chattanooga vs Loyola-Chicago >> 0.5578869581222534 Probability for Loyola-Chicago win
+Chattanooga vs LSU >> 0.6513716578483582 Probability for LSU win
+Chattanooga vs Marquette >> 0.5166590809822083 Probability for Chattanooga win
+Chattanooga vs Memphis >> 0.6635438799858093 Probability for Memphis win
+Chattanooga vs Miami FL >> 0.5613011717796326 Probability for Miami FL win
+Chattanooga vs Michigan >> 0.527067244052887 Probability for Chattanooga win
+Chattanooga vs Michigan St >> 0.5614106059074402 Probability for Chattanooga win
+Chattanooga vs Montana St >> 0.6453317999839783 Probability for Montana St win
+Chattanooga vs Murray St >> 0.8303232789039612 Probability for Murray St win
+Chattanooga vs New Mexico St >> 0.5982471108436584 Probability for New Mexico St win
+Chattanooga vs Norfolk St >> 0.5609166622161865 Probability for Chattanooga win
+Chattanooga vs North Carolina >> 0.5425705909729004 Probability for Chattanooga win
+Chattanooga vs Notre Dame >> 0.5341495275497437 Probability for Chattanooga win
+Chattanooga vs Ohio St >> 0.6795088052749634 Probability for Ohio St win
+Chattanooga vs Providence >> 0.5155518054962158 Probability for Chattanooga win
+Chattanooga vs Purdue >> 0.5997081398963928 Probability for Purdue win
+Chattanooga vs Richmond >> 0.5117284059524536 Probability for Chattanooga win
+Chattanooga vs Rutgers >> 0.5665528774261475 Probability for Chattanooga win
+Chattanooga vs S Dakota St >> 0.7846534848213196 Probability for S Dakota St win
+Chattanooga vs San Diego St >> 0.6504926085472107 Probability for San Diego St win
+Chattanooga vs San Francisco >> 0.6215694546699524 Probability for San Francisco win
+Chattanooga vs Seton Hall >> 0.5946775674819946 Probability for Chattanooga win
+Chattanooga vs St Mary's CA >> 0.7302560806274414 Probability for St Mary's CA win
+Chattanooga vs St Peter's >> 0.5042625069618225 Probability for Chattanooga win
+Chattanooga vs TAM C. Christi >> 0.5748899579048157 Probability for Chattanooga win
+Chattanooga vs TCU >> 0.5951293706893921 Probability for TCU win
+Chattanooga vs Tennessee >> 0.7210883498191833 Probability for Tennessee win
+Chattanooga vs Texas >> 0.6747527122497559 Probability for Texas win
+Chattanooga vs Texas Tech >> 0.5146723985671997 Probability for Texas Tech win
+Chattanooga vs TX Southern >> 0.5652896165847778 Probability for Chattanooga win
+Chattanooga vs UAB >> 0.6552104353904724 Probability for UAB win
+Chattanooga vs UCLA >> 0.7858778834342957 Probability for UCLA win
+Chattanooga vs USC >> 0.6553077697753906 Probability for USC win
+Chattanooga vs Vermont >> 0.8577070236206055 Probability for Vermont win
+Chattanooga vs Villanova >> 0.6844890713691711 Probability for Villanova win
+Chattanooga vs Virginia Tech >> 0.6607224941253662 Probability for Virginia Tech win
+Chattanooga vs Wisconsin >> 0.503028154373169 Probability for Wisconsin win
+Chattanooga vs Wright St >> 0.621869683265686 Probability for Chattanooga win
+Chattanooga vs Wyoming >> 0.584867000579834 Probability for Wyoming win
+Chattanooga vs Yale >> 0.5736187100410461 Probability for Chattanooga win
+Colgate vs Colorado St >> 0.7662712335586548 Probability for Colorado St win
+Colgate vs Connecticut >> 0.7407277822494507 Probability for Connecticut win
+Colgate vs Creighton >> 0.7210683822631836 Probability for Creighton win
+Colgate vs CS Fullerton >> 0.5821457505226135 Probability for CS Fullerton win
+Colgate vs Davidson >> 0.8653581738471985 Probability for Davidson win
+Colgate vs Delaware >> 0.6359724998474121 Probability for Delaware win
+Colgate vs Duke >> 0.8415195345878601 Probability for Duke win
+Colgate vs Georgia St >> 0.6081341505050659 Probability for Georgia St win
+Colgate vs Gonzaga >> 0.9376309514045715 Probability for Gonzaga win
+Colgate vs Houston >> 0.9394989013671875 Probability for Houston win
+Colgate vs Illinois >> 0.7748016119003296 Probability for Illinois win
+Colgate vs Indiana >> 0.6738170385360718 Probability for Indiana win
+Colgate vs Iowa >> 0.8940441012382507 Probability for Iowa win
+Colgate vs Iowa St >> 0.5813354849815369 Probability for Iowa St win
+Colgate vs Jacksonville St >> 0.6132892966270447 Probability for Jacksonville St win
+Colgate vs Kansas >> 0.8778759837150574 Probability for Kansas win
+Colgate vs Kentucky >> 0.8827136754989624 Probability for Kentucky win
+Colgate vs Longwood >> 0.7808782458305359 Probability for Longwood win
+Colgate vs Loyola-Chicago >> 0.7497552633285522 Probability for Loyola-Chicago win
+Colgate vs LSU >> 0.7876271605491638 Probability for LSU win
+Colgate vs Marquette >> 0.657002329826355 Probability for Marquette win
+Colgate vs Memphis >> 0.8108167052268982 Probability for Memphis win
+Colgate vs Miami FL >> 0.7329705357551575 Probability for Miami FL win
+Colgate vs Michigan >> 0.6684015393257141 Probability for Michigan win
+Colgate vs Michigan St >> 0.6110773086547852 Probability for Michigan St win
+Colgate vs Montana St >> 0.799504280090332 Probability for Montana St win
+Colgate vs Murray St >> 0.9162243008613586 Probability for Murray St win
+Colgate vs New Mexico St >> 0.7706847190856934 Probability for New Mexico St win
+Colgate vs Norfolk St >> 0.6239106059074402 Probability for Norfolk St win
+Colgate vs North Carolina >> 0.6512824296951294 Probability for North Carolina win
+Colgate vs Notre Dame >> 0.6483047008514404 Probability for Notre Dame win
+Colgate vs Ohio St >> 0.8335061073303223 Probability for Ohio St win
+Colgate vs Providence >> 0.6668833494186401 Probability for Providence win
+Colgate vs Purdue >> 0.7648429870605469 Probability for Purdue win
+Colgate vs Richmond >> 0.6655191779136658 Probability for Richmond win
+Colgate vs Rutgers >> 0.6162586808204651 Probability for Rutgers win
+Colgate vs S Dakota St >> 0.8914662599563599 Probability for S Dakota St win
+Colgate vs San Diego St >> 0.7989110350608826 Probability for San Diego St win
+Colgate vs San Francisco >> 0.7876731157302856 Probability for San Francisco win
+Colgate vs Seton Hall >> 0.598835289478302 Probability for Seton Hall win
+Colgate vs St Mary's CA >> 0.8629588484764099 Probability for St Mary's CA win
+Colgate vs St Peter's >> 0.6778023838996887 Probability for St Peter's win
+Colgate vs TAM C. Christi >> 0.599388062953949 Probability for TAM C. Christi win
+Colgate vs TCU >> 0.7618979215621948 Probability for TCU win
+Colgate vs Tennessee >> 0.8476107120513916 Probability for Tennessee win
+Colgate vs Texas >> 0.8183272480964661 Probability for Texas win
+Colgate vs Texas Tech >> 0.7135405540466309 Probability for Texas Tech win
+Colgate vs TX Southern >> 0.6169142723083496 Probability for TX Southern win
+Colgate vs UAB >> 0.8098111152648926 Probability for UAB win
+Colgate vs UCLA >> 0.8930022716522217 Probability for UCLA win
+Colgate vs USC >> 0.8007007837295532 Probability for USC win
+Colgate vs Vermont >> 0.9344180226325989 Probability for Vermont win
+Colgate vs Villanova >> 0.8357640504837036 Probability for Villanova win
+Colgate vs Virginia Tech >> 0.8206920027732849 Probability for Virginia Tech win
+Colgate vs Wisconsin >> 0.6782591938972473 Probability for Wisconsin win
+Colgate vs Wright St >> 0.5647588968276978 Probability for Wright St win
+Colgate vs Wyoming >> 0.7604936361312866 Probability for Wyoming win
+Colgate vs Yale >> 0.6056246161460876 Probability for Yale win
+Colorado St vs Connecticut >> 0.649788498878479 Probability for Connecticut win
+Colorado St vs Creighton >> 0.612419843673706 Probability for Creighton win
+Colorado St vs CS Fullerton >> 0.5533770322799683 Probability for Colorado St win
+Colorado St vs Davidson >> 0.7954452037811279 Probability for Davidson win
+Colorado St vs Delaware >> 0.5093848705291748 Probability for Colorado St win
+Colorado St vs Duke >> 0.7667897939682007 Probability for Duke win
+Colorado St vs Georgia St >> 0.5225771069526672 Probability for Colorado St win
+Colorado St vs Gonzaga >> 0.9081591963768005 Probability for Gonzaga win
+Colorado St vs Houston >> 0.9084559679031372 Probability for Houston win
+Colorado St vs Illinois >> 0.6774886846542358 Probability for Illinois win
+Colorado St vs Indiana >> 0.5596500039100647 Probability for Indiana win
+Colorado St vs Iowa >> 0.8409023284912109 Probability for Iowa win
+Colorado St vs Iowa St >> 0.5503327250480652 Probability for Colorado St win
+Colorado St vs Jacksonville St >> 0.5133556127548218 Probability for Colorado St win
+Colorado St vs Kansas >> 0.8104907870292664 Probability for Kansas win
+Colorado St vs Kentucky >> 0.8253868818283081 Probability for Kentucky win
+Colorado St vs Longwood >> 0.6812748908996582 Probability for Longwood win
+Colorado St vs Loyola-Chicago >> 0.6799625158309937 Probability for Loyola-Chicago win
+Colorado St vs LSU >> 0.7135947346687317 Probability for LSU win
+Colorado St vs Marquette >> 0.531399667263031 Probability for Marquette win
+Colorado St vs Memphis >> 0.7242767214775085 Probability for Memphis win
+Colorado St vs Miami FL >> 0.6152386665344238 Probability for Miami FL win
+Colorado St vs Michigan >> 0.5363513827323914 Probability for Michigan win
+Colorado St vs Michigan St >> 0.5179335474967957 Probability for Colorado St win
+Colorado St vs Montana St >> 0.714479386806488 Probability for Montana St win
+Colorado St vs Murray St >> 0.8729132413864136 Probability for Murray St win
+Colorado St vs New Mexico St >> 0.671710193157196 Probability for New Mexico St win
+Colorado St vs Norfolk St >> 0.509543776512146 Probability for Norfolk St win
+Colorado St vs North Carolina >> 0.5268623232841492 Probability for North Carolina win
+Colorado St vs Notre Dame >> 0.5400140285491943 Probability for Notre Dame win
+Colorado St vs Ohio St >> 0.7563326954841614 Probability for Ohio St win
+Colorado St vs Providence >> 0.5485996007919312 Probability for Providence win
+Colorado St vs Purdue >> 0.6678367257118225 Probability for Purdue win
+Colorado St vs Richmond >> 0.5535927414894104 Probability for Richmond win
+Colorado St vs Rutgers >> 0.5030111074447632 Probability for Colorado St win
+Colorado St vs S Dakota St >> 0.831443190574646 Probability for S Dakota St win
+Colorado St vs San Diego St >> 0.7099425196647644 Probability for San Diego St win
+Colorado St vs San Francisco >> 0.6878840923309326 Probability for San Francisco win
+Colorado St vs Seton Hall >> 0.5369101166725159 Probability for Colorado St win
+Colorado St vs St Mary's CA >> 0.7811069488525391 Probability for St Mary's CA win
+Colorado St vs St Peter's >> 0.5669382214546204 Probability for St Peter's win
+Colorado St vs TAM C. Christi >> 0.5394162535667419 Probability for Colorado St win
+Colorado St vs TCU >> 0.6568548083305359 Probability for TCU win
+Colorado St vs Tennessee >> 0.7853284478187561 Probability for Tennessee win
+Colorado St vs Texas >> 0.7464171051979065 Probability for Texas win
+Colorado St vs Texas Tech >> 0.6040058135986328 Probability for Texas Tech win
+Colorado St vs TX Southern >> 0.5175038576126099 Probability for Colorado St win
+Colorado St vs UAB >> 0.7238131761550903 Probability for UAB win
+Colorado St vs UCLA >> 0.8367857336997986 Probability for UCLA win
+Colorado St vs USC >> 0.7019938826560974 Probability for USC win
+Colorado St vs Vermont >> 0.8973410725593567 Probability for Vermont win
+Colorado St vs Villanova >> 0.7551184892654419 Probability for Villanova win
+Colorado St vs Virginia Tech >> 0.7320157885551453 Probability for Virginia Tech win
+Colorado St vs Wisconsin >> 0.554829478263855 Probability for Wisconsin win
+Colorado St vs Wright St >> 0.5579466819763184 Probability for Colorado St win
+Colorado St vs Wyoming >> 0.6590116620063782 Probability for Wyoming win
+Colorado St vs Yale >> 0.5171576738357544 Probability for Colorado St win
+Connecticut vs Creighton >> 0.631017804145813 Probability for Creighton win
+Connecticut vs CS Fullerton >> 0.5286914110183716 Probability for Connecticut win
+Connecticut vs Davidson >> 0.807666540145874 Probability for Davidson win
+Connecticut vs Delaware >> 0.5035914182662964 Probability for Connecticut win
+Connecticut vs Duke >> 0.769507884979248 Probability for Duke win
+Connecticut vs Georgia St >> 0.5029687881469727 Probability for Georgia St win
+Connecticut vs Gonzaga >> 0.9071902632713318 Probability for Gonzaga win
+Connecticut vs Houston >> 0.9092592000961304 Probability for Houston win
+Connecticut vs Illinois >> 0.6867189407348633 Probability for Illinois win
+Connecticut vs Indiana >> 0.5662294626235962 Probability for Indiana win
+Connecticut vs Iowa >> 0.8377476930618286 Probability for Iowa win
+Connecticut vs Iowa St >> 0.5174258351325989 Probability for Connecticut win
+Connecticut vs Jacksonville St >> 0.5143419504165649 Probability for Connecticut win
+Connecticut vs Kansas >> 0.8203030824661255 Probability for Kansas win
+Connecticut vs Kentucky >> 0.8314398527145386 Probability for Kentucky win
+Connecticut vs Longwood >> 0.6837558746337891 Probability for Longwood win
+Connecticut vs Loyola-Chicago >> 0.6709768176078796 Probability for Loyola-Chicago win
+Connecticut vs LSU >> 0.7223881483078003 Probability for LSU win
+Connecticut vs Marquette >> 0.545246422290802 Probability for Marquette win
+Connecticut vs Memphis >> 0.7332823872566223 Probability for Memphis win
+Connecticut vs Miami FL >> 0.6295621991157532 Probability for Miami FL win
+Connecticut vs Michigan >> 0.5270170569419861 Probability for Michigan win
+Connecticut vs Michigan St >> 0.5128719806671143 Probability for Michigan St win
+Connecticut vs Montana St >> 0.7176141142845154 Probability for Montana St win
+Connecticut vs Murray St >> 0.8738176822662354 Probability for Murray St win
+Connecticut vs New Mexico St >> 0.6775256395339966 Probability for New Mexico St win
+Connecticut vs Norfolk St >> 0.5156784653663635 Probability for Norfolk St win
+Connecticut vs North Carolina >> 0.5328188538551331 Probability for North Carolina win
+Connecticut vs Notre Dame >> 0.551322877407074 Probability for Notre Dame win
+Connecticut vs Ohio St >> 0.7547816634178162 Probability for Ohio St win
+Connecticut vs Providence >> 0.5544348955154419 Probability for Providence win
+Connecticut vs Purdue >> 0.6774381995201111 Probability for Purdue win
+Connecticut vs Richmond >> 0.5579074621200562 Probability for Richmond win
+Connecticut vs Rutgers >> 0.5032158493995667 Probability for Rutgers win
+Connecticut vs S Dakota St >> 0.835814356803894 Probability for S Dakota St win
+Connecticut vs San Diego St >> 0.7183865308761597 Probability for San Diego St win
+Connecticut vs San Francisco >> 0.7038365006446838 Probability for San Francisco win
+Connecticut vs Seton Hall >> 0.5261554718017578 Probability for Connecticut win
+Connecticut vs St Mary's CA >> 0.7949808239936829 Probability for St Mary's CA win
+Connecticut vs St Peter's >> 0.5807714462280273 Probability for St Peter's win
+Connecticut vs TAM C. Christi >> 0.5084547996520996 Probability for Connecticut win
+Connecticut vs TCU >> 0.6602570414543152 Probability for TCU win
+Connecticut vs Tennessee >> 0.7911625504493713 Probability for Tennessee win
+Connecticut vs Texas >> 0.7486495971679688 Probability for Texas win
+Connecticut vs Texas Tech >> 0.6216727495193481 Probability for Texas Tech win
+Connecticut vs TX Southern >> 0.5095666646957397 Probability for TX Southern win
+Connecticut vs UAB >> 0.7217255234718323 Probability for UAB win
+Connecticut vs UCLA >> 0.8442632555961609 Probability for UCLA win
+Connecticut vs USC >> 0.7002521753311157 Probability for USC win
+Connecticut vs Vermont >> 0.8972662687301636 Probability for Vermont win
+Connecticut vs Villanova >> 0.7592794299125671 Probability for Villanova win
+Connecticut vs Virginia Tech >> 0.7312740683555603 Probability for Virginia Tech win
+Connecticut vs Wisconsin >> 0.5604934096336365 Probability for Wisconsin win
+Connecticut vs Wright St >> 0.5354005694389343 Probability for Connecticut win
+Connecticut vs Wyoming >> 0.6581844687461853 Probability for Wyoming win
+Connecticut vs Yale >> 0.5003443360328674 Probability for Yale win
+Creighton vs CS Fullerton >> 0.645930826663971 Probability for CS Fullerton win
+Creighton vs Davidson >> 0.8968495726585388 Probability for Davidson win
+Creighton vs Delaware >> 0.702273964881897 Probability for Delaware win
+Creighton vs Duke >> 0.8820585608482361 Probability for Duke win
+Creighton vs Georgia St >> 0.6937365531921387 Probability for Georgia St win
+Creighton vs Gonzaga >> 0.9514017105102539 Probability for Gonzaga win
+Creighton vs Houston >> 0.9484540820121765 Probability for Houston win
+Creighton vs Illinois >> 0.8257659673690796 Probability for Illinois win
+Creighton vs Indiana >> 0.7432846426963806 Probability for Indiana win
+Creighton vs Iowa >> 0.9174741506576538 Probability for Iowa win
+Creighton vs Iowa St >> 0.6516058444976807 Probability for Iowa St win
+Creighton vs Jacksonville St >> 0.6990270018577576 Probability for Jacksonville St win
+Creighton vs Kansas >> 0.9029234051704407 Probability for Kansas win
+Creighton vs Kentucky >> 0.9121783375740051 Probability for Kentucky win
+Creighton vs Longwood >> 0.8285648226737976 Probability for Longwood win
+Creighton vs Loyola-Chicago >> 0.7883796095848083 Probability for Loyola-Chicago win
+Creighton vs LSU >> 0.8464400768280029 Probability for LSU win
+Creighton vs Marquette >> 0.7273721098899841 Probability for Marquette win
+Creighton vs Memphis >> 0.8510070443153381 Probability for Memphis win
+Creighton vs Miami FL >> 0.7846279144287109 Probability for Miami FL win
+Creighton vs Michigan >> 0.731922447681427 Probability for Michigan win
+Creighton vs Michigan St >> 0.6829572916030884 Probability for Michigan St win
+Creighton vs Montana St >> 0.8427743911743164 Probability for Montana St win
+Creighton vs Murray St >> 0.9370756149291992 Probability for Murray St win
+Creighton vs New Mexico St >> 0.8182783126831055 Probability for New Mexico St win
+Creighton vs Norfolk St >> 0.689822256565094 Probability for Norfolk St win
+Creighton vs North Carolina >> 0.712498664855957 Probability for North Carolina win
+Creighton vs Notre Dame >> 0.7280527949333191 Probability for Notre Dame win
+Creighton vs Ohio St >> 0.8672938346862793 Probability for Ohio St win
+Creighton vs Providence >> 0.7292178869247437 Probability for Providence win
+Creighton vs Purdue >> 0.8193402886390686 Probability for Purdue win
+Creighton vs Richmond >> 0.7485266327857971 Probability for Richmond win
+Creighton vs Rutgers >> 0.6900312304496765 Probability for Rutgers win
+Creighton vs S Dakota St >> 0.9193906784057617 Probability for S Dakota St win
+Creighton vs San Diego St >> 0.8463612794876099 Probability for San Diego St win
+Creighton vs San Francisco >> 0.8317453265190125 Probability for San Francisco win
+Creighton vs Seton Hall >> 0.6634012460708618 Probability for Seton Hall win
+Creighton vs St Mary's CA >> 0.8901355266571045 Probability for St Mary's CA win
+Creighton vs St Peter's >> 0.7428523898124695 Probability for St Peter's win
+Creighton vs TAM C. Christi >> 0.6686252951622009 Probability for TAM C. Christi win
+Creighton vs TCU >> 0.8139721751213074 Probability for TCU win
+Creighton vs Tennessee >> 0.883329451084137 Probability for Tennessee win
+Creighton vs Texas >> 0.860366702079773 Probability for Texas win
+Creighton vs Texas Tech >> 0.7663530707359314 Probability for Texas Tech win
+Creighton vs TX Southern >> 0.6869250535964966 Probability for TX Southern win
+Creighton vs UAB >> 0.8518540263175964 Probability for UAB win
+Creighton vs UCLA >> 0.9182636141777039 Probability for UCLA win
+Creighton vs USC >> 0.8451716899871826 Probability for USC win
+Creighton vs Vermont >> 0.9448000192642212 Probability for Vermont win
+Creighton vs Villanova >> 0.8651315569877625 Probability for Villanova win
+Creighton vs Virginia Tech >> 0.8504124879837036 Probability for Virginia Tech win
+Creighton vs Wisconsin >> 0.7416715025901794 Probability for Wisconsin win
+Creighton vs Wright St >> 0.6485205292701721 Probability for Wright St win
+Creighton vs Wyoming >> 0.8074473738670349 Probability for Wyoming win
+Creighton vs Yale >> 0.6894062161445618 Probability for Yale win
+CS Fullerton vs Davidson >> 0.8869655728340149 Probability for Davidson win
+CS Fullerton vs Delaware >> 0.6617374420166016 Probability for Delaware win
+CS Fullerton vs Duke >> 0.8772442936897278 Probability for Duke win
+CS Fullerton vs Georgia St >> 0.6799613833427429 Probability for Georgia St win
+CS Fullerton vs Gonzaga >> 0.9551119804382324 Probability for Gonzaga win
+CS Fullerton vs Houston >> 0.9544106125831604 Probability for Houston win
+CS Fullerton vs Illinois >> 0.8226958513259888 Probability for Illinois win
+CS Fullerton vs Indiana >> 0.7375871539115906 Probability for Indiana win
+CS Fullerton vs Iowa >> 0.9208093285560608 Probability for Iowa win
+CS Fullerton vs Iowa St >> 0.6505932807922363 Probability for Iowa St win
+CS Fullerton vs Jacksonville St >> 0.6639357209205627 Probability for Jacksonville St win
+CS Fullerton vs Kansas >> 0.8975231051445007 Probability for Kansas win
+CS Fullerton vs Kentucky >> 0.9112383127212524 Probability for Kentucky win
+CS Fullerton vs Longwood >> 0.8242611885070801 Probability for Longwood win
+CS Fullerton vs Loyola-Chicago >> 0.816057026386261 Probability for Loyola-Chicago win
+CS Fullerton vs LSU >> 0.8364163637161255 Probability for LSU win
+CS Fullerton vs Marquette >> 0.6972256302833557 Probability for Marquette win
+CS Fullerton vs Memphis >> 0.8445417284965515 Probability for Memphis win
+CS Fullerton vs Miami FL >> 0.7674448490142822 Probability for Miami FL win
+CS Fullerton vs Michigan >> 0.7172726392745972 Probability for Michigan win
+CS Fullerton vs Michigan St >> 0.6647935509681702 Probability for Michigan St win
+CS Fullerton vs Montana St >> 0.8430815935134888 Probability for Montana St win
+CS Fullerton vs Murray St >> 0.9370085000991821 Probability for Murray St win
+CS Fullerton vs New Mexico St >> 0.8158637285232544 Probability for New Mexico St win
+CS Fullerton vs Norfolk St >> 0.6810567378997803 Probability for Norfolk St win
+CS Fullerton vs North Carolina >> 0.7082249522209167 Probability for North Carolina win
+CS Fullerton vs Notre Dame >> 0.7115066647529602 Probability for Notre Dame win
+CS Fullerton vs Ohio St >> 0.867677628993988 Probability for Ohio St win
+CS Fullerton vs Providence >> 0.7072879672050476 Probability for Providence win
+CS Fullerton vs Purdue >> 0.8155428767204285 Probability for Purdue win
+CS Fullerton vs Richmond >> 0.7129127383232117 Probability for Richmond win
+CS Fullerton vs Rutgers >> 0.6688149571418762 Probability for Rutgers win
+CS Fullerton vs S Dakota St >> 0.9147008657455444 Probability for S Dakota St win
+CS Fullerton vs San Diego St >> 0.8383026123046875 Probability for San Diego St win
+CS Fullerton vs San Francisco >> 0.8262630105018616 Probability for San Francisco win
+CS Fullerton vs Seton Hall >> 0.6508939266204834 Probability for Seton Hall win
+CS Fullerton vs St Mary's CA >> 0.8904574513435364 Probability for St Mary's CA win
+CS Fullerton vs St Peter's >> 0.736732006072998 Probability for St Peter's win
+CS Fullerton vs TAM C. Christi >> 0.6530161499977112 Probability for TAM C. Christi win
+CS Fullerton vs TCU >> 0.8030185699462891 Probability for TCU win
+CS Fullerton vs Tennessee >> 0.8828856348991394 Probability for Tennessee win
+CS Fullerton vs Texas >> 0.8603595495223999 Probability for Texas win
+CS Fullerton vs Texas Tech >> 0.7838971018791199 Probability for Texas Tech win
+CS Fullerton vs TX Southern >> 0.6609400510787964 Probability for TX Southern win
+CS Fullerton vs UAB >> 0.8476224541664124 Probability for UAB win
+CS Fullerton vs UCLA >> 0.9172001481056213 Probability for UCLA win
+CS Fullerton vs USC >> 0.8362098336219788 Probability for USC win
+CS Fullerton vs Vermont >> 0.9490172266960144 Probability for Vermont win
+CS Fullerton vs Villanova >> 0.8753252029418945 Probability for Villanova win
+CS Fullerton vs Virginia Tech >> 0.8560843467712402 Probability for Virginia Tech win
+CS Fullerton vs Wisconsin >> 0.7194170355796814 Probability for Wisconsin win
+CS Fullerton vs Wright St >> 0.6436768174171448 Probability for Wright St win
+CS Fullerton vs Wyoming >> 0.8050988912582397 Probability for Wyoming win
+CS Fullerton vs Yale >> 0.6669942736625671 Probability for Yale win
+Davidson vs Delaware >> 0.6448549032211304 Probability for Davidson win
+Davidson vs Duke >> 0.6417161822319031 Probability for Duke win
+Davidson vs Georgia St >> 0.6351307034492493 Probability for Davidson win
+Davidson vs Gonzaga >> 0.8397082686424255 Probability for Gonzaga win
+Davidson vs Houston >> 0.8444245457649231 Probability for Houston win
+Davidson vs Illinois >> 0.5517761707305908 Probability for Illinois win
+Davidson vs Indiana >> 0.5707874298095703 Probability for Davidson win
+Davidson vs Iowa >> 0.7394770979881287 Probability for Iowa win
+Davidson vs Iowa St >> 0.6691250801086426 Probability for Davidson win
+Davidson vs Jacksonville St >> 0.6562889218330383 Probability for Davidson win
+Davidson vs Kansas >> 0.7067040801048279 Probability for Kansas win
+Davidson vs Kentucky >> 0.7386366724967957 Probability for Kentucky win
+Davidson vs Longwood >> 0.5572272539138794 Probability for Longwood win
+Davidson vs Loyola-Chicago >> 0.5108723640441895 Probability for Loyola-Chicago win
+Davidson vs LSU >> 0.5914305448532104 Probability for LSU win
+Davidson vs Marquette >> 0.6080342531204224 Probability for Davidson win
+Davidson vs Memphis >> 0.6029636859893799 Probability for Memphis win
+Davidson vs Miami FL >> 0.5298025012016296 Probability for Davidson win
+Davidson vs Michigan >> 0.5814048051834106 Probability for Davidson win
+Davidson vs Michigan St >> 0.6467772722244263 Probability for Davidson win
+Davidson vs Montana St >> 0.5873847603797913 Probability for Montana St win
+Davidson vs Murray St >> 0.7946009039878845 Probability for Murray St win
+Davidson vs New Mexico St >> 0.5300578474998474 Probability for New Mexico St win
+Davidson vs Norfolk St >> 0.62591952085495 Probability for Davidson win
+Davidson vs North Carolina >> 0.6015899181365967 Probability for Davidson win
+Davidson vs Notre Dame >> 0.6201872825622559 Probability for Davidson win
+Davidson vs Ohio St >> 0.6153625845909119 Probability for Ohio St win
+Davidson vs Providence >> 0.5893844962120056 Probability for Davidson win
+Davidson vs Purdue >> 0.5421273112297058 Probability for Purdue win
+Davidson vs Richmond >> 0.5620342493057251 Probability for Davidson win
+Davidson vs Rutgers >> 0.6476972699165344 Probability for Davidson win
+Davidson vs S Dakota St >> 0.7281337380409241 Probability for S Dakota St win
+Davidson vs San Diego St >> 0.5630585551261902 Probability for San Diego St win
+Davidson vs San Francisco >> 0.5538005232810974 Probability for San Francisco win
+Davidson vs Seton Hall >> 0.6552239656448364 Probability for Davidson win
+Davidson vs St Mary's CA >> 0.6829544305801392 Probability for St Mary's CA win
+Davidson vs St Peter's >> 0.5858822464942932 Probability for Davidson win
+Davidson vs TAM C. Christi >> 0.6697841286659241 Probability for Davidson win
+Davidson vs TCU >> 0.5250920057296753 Probability for TCU win
+Davidson vs Tennessee >> 0.6586944460868835 Probability for Tennessee win
+Davidson vs Texas >> 0.6078943014144897 Probability for Texas win
+Davidson vs Texas Tech >> 0.5544748902320862 Probability for Davidson win
+Davidson vs TX Southern >> 0.6474668979644775 Probability for Davidson win
+Davidson vs UAB >> 0.602066695690155 Probability for UAB win
+Davidson vs UCLA >> 0.7352409958839417 Probability for UCLA win
+Davidson vs USC >> 0.5684462785720825 Probability for USC win
+Davidson vs Vermont >> 0.822052001953125 Probability for Vermont win
+Davidson vs Villanova >> 0.6362782120704651 Probability for Villanova win
+Davidson vs Virginia Tech >> 0.6163394451141357 Probability for Virginia Tech win
+Davidson vs Wisconsin >> 0.5949646830558777 Probability for Davidson win
+Davidson vs Wright St >> 0.6995379328727722 Probability for Davidson win
+Davidson vs Wyoming >> 0.5314651131629944 Probability for Wyoming win
+Davidson vs Yale >> 0.6448524594306946 Probability for Davidson win
+Delaware vs Duke >> 0.9129089713096619 Probability for Duke win
+Delaware vs Georgia St >> 0.7816405296325684 Probability for Georgia St win
+Delaware vs Gonzaga >> 0.9683399796485901 Probability for Gonzaga win
+Delaware vs Houston >> 0.9649960398674011 Probability for Houston win
+Delaware vs Illinois >> 0.8780186772346497 Probability for Illinois win
+Delaware vs Indiana >> 0.8099987506866455 Probability for Indiana win
+Delaware vs Iowa >> 0.9427544474601746 Probability for Iowa win
+Delaware vs Iowa St >> 0.7532593607902527 Probability for Iowa St win
+Delaware vs Jacksonville St >> 0.7628229856491089 Probability for Jacksonville St win
+Delaware vs Kansas >> 0.9314014315605164 Probability for Kansas win
+Delaware vs Kentucky >> 0.9411327838897705 Probability for Kentucky win
+Delaware vs Longwood >> 0.8810663223266602 Probability for Longwood win
+Delaware vs Loyola-Chicago >> 0.8373363614082336 Probability for Loyola-Chicago win
+Delaware vs LSU >> 0.8800246715545654 Probability for LSU win
+Delaware vs Marquette >> 0.7862319350242615 Probability for Marquette win
+Delaware vs Memphis >> 0.8899528980255127 Probability for Memphis win
+Delaware vs Miami FL >> 0.8328564763069153 Probability for Miami FL win
+Delaware vs Michigan >> 0.7992996573448181 Probability for Michigan win
+Delaware vs Michigan St >> 0.7633982300758362 Probability for Michigan St win
+Delaware vs Montana St >> 0.8856728672981262 Probability for Montana St win
+Delaware vs Murray St >> 0.9576133489608765 Probability for Murray St win
+Delaware vs New Mexico St >> 0.868800699710846 Probability for New Mexico St win
+Delaware vs Norfolk St >> 0.7537601590156555 Probability for Norfolk St win
+Delaware vs North Carolina >> 0.7902796268463135 Probability for North Carolina win
+Delaware vs Notre Dame >> 0.7994326949119568 Probability for Notre Dame win
+Delaware vs Ohio St >> 0.9028155207633972 Probability for Ohio St win
+Delaware vs Providence >> 0.789954423904419 Probability for Providence win
+Delaware vs Purdue >> 0.8735553622245789 Probability for Purdue win
+Delaware vs Richmond >> 0.7944070100784302 Probability for Richmond win
+Delaware vs Rutgers >> 0.7597669363021851 Probability for Rutgers win
+Delaware vs S Dakota St >> 0.9424712061882019 Probability for S Dakota St win
+Delaware vs San Diego St >> 0.8889145851135254 Probability for San Diego St win
+Delaware vs San Francisco >> 0.8796727657318115 Probability for San Francisco win
+Delaware vs Seton Hall >> 0.749101459980011 Probability for Seton Hall win
+Delaware vs St Mary's CA >> 0.9274430274963379 Probability for St Mary's CA win
+Delaware vs St Peter's >> 0.80936598777771 Probability for St Peter's win
+Delaware vs TAM C. Christi >> 0.7610860466957092 Probability for TAM C. Christi win
+Delaware vs TCU >> 0.8619928956031799 Probability for TCU win
+Delaware vs Tennessee >> 0.9162898659706116 Probability for Tennessee win
+Delaware vs Texas >> 0.900629997253418 Probability for Texas win
+Delaware vs Texas Tech >> 0.8332449197769165 Probability for Texas Tech win
+Delaware vs TX Southern >> 0.7504695653915405 Probability for TX Southern win
+Delaware vs UAB >> 0.8905437588691711 Probability for UAB win
+Delaware vs UCLA >> 0.9403430819511414 Probability for UCLA win
+Delaware vs USC >> 0.889365017414093 Probability for USC win
+Delaware vs Vermont >> 0.9650422930717468 Probability for Vermont win
+Delaware vs Villanova >> 0.902202844619751 Probability for Villanova win
+Delaware vs Virginia Tech >> 0.8978147506713867 Probability for Virginia Tech win
+Delaware vs Wisconsin >> 0.7947491407394409 Probability for Wisconsin win
+Delaware vs Wright St >> 0.7477445006370544 Probability for Wright St win
+Delaware vs Wyoming >> 0.8574351072311401 Probability for Wyoming win
+Delaware vs Yale >> 0.7732663154602051 Probability for Yale win
+Duke vs Georgia St >> 0.6052773594856262 Probability for Duke win
+Duke vs Gonzaga >> 0.8632523417472839 Probability for Gonzaga win
+Duke vs Houston >> 0.8605206608772278 Probability for Houston win
+Duke vs Illinois >> 0.5981723070144653 Probability for Illinois win
+Duke vs Indiana >> 0.5294954180717468 Probability for Duke win
+Duke vs Iowa >> 0.7812578678131104 Probability for Iowa win
+Duke vs Iowa St >> 0.6180778741836548 Probability for Duke win
+Duke vs Jacksonville St >> 0.5689273476600647 Probability for Duke win
+Duke vs Kansas >> 0.7571830153465271 Probability for Kansas win
+Duke vs Kentucky >> 0.7658926248550415 Probability for Kentucky win
+Duke vs Longwood >> 0.6064246892929077 Probability for Longwood win
+Duke vs Loyola-Chicago >> 0.5495479702949524 Probability for Loyola-Chicago win
+Duke vs LSU >> 0.6205945611000061 Probability for LSU win
+Duke vs Marquette >> 0.5392747521400452 Probability for Duke win
+Duke vs Memphis >> 0.6452091336250305 Probability for Memphis win
+Duke vs Miami FL >> 0.546141505241394 Probability for Miami FL win
+Duke vs Michigan >> 0.5456729531288147 Probability for Duke win
+Duke vs Michigan St >> 0.5923448801040649 Probability for Duke win
+Duke vs Montana St >> 0.6222988963127136 Probability for Montana St win
+Duke vs Murray St >> 0.8234393000602722 Probability for Murray St win
+Duke vs New Mexico St >> 0.5857121348381042 Probability for New Mexico St win
+Duke vs Norfolk St >> 0.5885179042816162 Probability for Duke win
+Duke vs North Carolina >> 0.5628403425216675 Probability for Duke win
+Duke vs Notre Dame >> 0.5473520755767822 Probability for Duke win
+Duke vs Ohio St >> 0.6722086668014526 Probability for Ohio St win
+Duke vs Providence >> 0.5342925786972046 Probability for Duke win
+Duke vs Purdue >> 0.5819714069366455 Probability for Purdue win
+Duke vs Richmond >> 0.5211206674575806 Probability for Duke win
+Duke vs Rutgers >> 0.593838095664978 Probability for Duke win
+Duke vs S Dakota St >> 0.7786048650741577 Probability for S Dakota St win
+Duke vs San Diego St >> 0.6352018713951111 Probability for San Diego St win
+Duke vs San Francisco >> 0.6078473329544067 Probability for San Francisco win
+Duke vs Seton Hall >> 0.6172300577163696 Probability for Duke win
+Duke vs St Mary's CA >> 0.7217662930488586 Probability for St Mary's CA win
+Duke vs St Peter's >> 0.5186508893966675 Probability for Duke win
+Duke vs TAM C. Christi >> 0.6019613742828369 Probability for Duke win
+Duke vs TCU >> 0.5808453559875488 Probability for TCU win
+Duke vs Tennessee >> 0.7077336311340332 Probability for Tennessee win
+Duke vs Texas >> 0.6602120995521545 Probability for Texas win
+Duke vs Texas Tech >> 0.5177288055419922 Probability for Texas Tech win
+Duke vs TX Southern >> 0.572845458984375 Probability for Duke win
+Duke vs UAB >> 0.6390007734298706 Probability for UAB win
+Duke vs UCLA >> 0.7802897095680237 Probability for UCLA win
+Duke vs USC >> 0.6334033608436584 Probability for USC win
+Duke vs Vermont >> 0.8556157946586609 Probability for Vermont win
+Duke vs Villanova >> 0.6695852875709534 Probability for Villanova win
+Duke vs Virginia Tech >> 0.6566919088363647 Probability for Virginia Tech win
+Duke vs Wisconsin >> 0.5225000381469727 Probability for Duke win
+Duke vs Wright St >> 0.6356595158576965 Probability for Duke win
+Duke vs Wyoming >> 0.5723493099212646 Probability for Wyoming win
+Duke vs Yale >> 0.5927635431289673 Probability for Duke win
+Georgia St vs Gonzaga >> 0.968982458114624 Probability for Gonzaga win
+Georgia St vs Houston >> 0.9682903289794922 Probability for Houston win
+Georgia St vs Illinois >> 0.8700449466705322 Probability for Illinois win
+Georgia St vs Indiana >> 0.8003925681114197 Probability for Indiana win
+Georgia St vs Iowa >> 0.9434413909912109 Probability for Iowa win
+Georgia St vs Iowa St >> 0.7303887009620667 Probability for Iowa St win
+Georgia St vs Jacksonville St >> 0.7437959313392639 Probability for Jacksonville St win
+Georgia St vs Kansas >> 0.9322502613067627 Probability for Kansas win
+Georgia St vs Kentucky >> 0.9367904663085938 Probability for Kentucky win
+Georgia St vs Longwood >> 0.8695220947265625 Probability for Longwood win
+Georgia St vs Loyola-Chicago >> 0.8699764013290405 Probability for Loyola-Chicago win
+Georgia St vs LSU >> 0.8872655034065247 Probability for LSU win
+Georgia St vs Marquette >> 0.7776320576667786 Probability for Marquette win
+Georgia St vs Memphis >> 0.8883830308914185 Probability for Memphis win
+Georgia St vs Miami FL >> 0.8290655612945557 Probability for Miami FL win
+Georgia St vs Michigan >> 0.7773164510726929 Probability for Michigan win
+Georgia St vs Michigan St >> 0.7469830513000488 Probability for Michigan St win
+Georgia St vs Montana St >> 0.8835275173187256 Probability for Montana St win
+Georgia St vs Murray St >> 0.9573640823364258 Probability for Murray St win
+Georgia St vs New Mexico St >> 0.8600206971168518 Probability for New Mexico St win
+Georgia St vs Norfolk St >> 0.7615465521812439 Probability for Norfolk St win
+Georgia St vs North Carolina >> 0.7704899311065674 Probability for North Carolina win
+Georgia St vs Notre Dame >> 0.7842525243759155 Probability for Notre Dame win
+Georgia St vs Ohio St >> 0.8985939621925354 Probability for Ohio St win
+Georgia St vs Providence >> 0.786841094493866 Probability for Providence win
+Georgia St vs Purdue >> 0.8650074005126953 Probability for Purdue win
+Georgia St vs Richmond >> 0.7951521873474121 Probability for Richmond win
+Georgia St vs Rutgers >> 0.7542442083358765 Probability for Rutgers win
+Georgia St vs S Dakota St >> 0.937528669834137 Probability for S Dakota St win
+Georgia St vs San Diego St >> 0.8880354166030884 Probability for San Diego St win
+Georgia St vs San Francisco >> 0.8710640668869019 Probability for San Francisco win
+Georgia St vs Seton Hall >> 0.7199782133102417 Probability for Seton Hall win
+Georgia St vs St Mary's CA >> 0.9183971285820007 Probability for St Mary's CA win
+Georgia St vs St Peter's >> 0.8047444224357605 Probability for St Peter's win
+Georgia St vs TAM C. Christi >> 0.7427776455879211 Probability for TAM C. Christi win
+Georgia St vs TCU >> 0.8568791151046753 Probability for TCU win
+Georgia St vs Tennessee >> 0.9210320711135864 Probability for Tennessee win
+Georgia St vs Texas >> 0.8983479738235474 Probability for Texas win
+Georgia St vs Texas Tech >> 0.8388035297393799 Probability for Texas Tech win
+Georgia St vs TX Southern >> 0.7498862147331238 Probability for TX Southern win
+Georgia St vs UAB >> 0.8923829793930054 Probability for UAB win
+Georgia St vs UCLA >> 0.938447117805481 Probability for UCLA win
+Georgia St vs USC >> 0.8812899589538574 Probability for USC win
+Georgia St vs Vermont >> 0.963944673538208 Probability for Vermont win
+Georgia St vs Villanova >> 0.9139807224273682 Probability for Villanova win
+Georgia St vs Virginia Tech >> 0.8947969675064087 Probability for Virginia Tech win
+Georgia St vs Wisconsin >> 0.7961358428001404 Probability for Wisconsin win
+Georgia St vs Wright St >> 0.7185670733451843 Probability for Wright St win
+Georgia St vs Wyoming >> 0.8576993942260742 Probability for Wyoming win
+Georgia St vs Yale >> 0.7406433820724487 Probability for Yale win
+Gonzaga vs Houston >> 0.5316835045814514 Probability for Houston win
+Gonzaga vs Illinois >> 0.8023865818977356 Probability for Gonzaga win
+Gonzaga vs Indiana >> 0.8753085732460022 Probability for Gonzaga win
+Gonzaga vs Iowa >> 0.6378412246704102 Probability for Gonzaga win
+Gonzaga vs Iowa St >> 0.917500913143158 Probability for Gonzaga win
+Gonzaga vs Jacksonville St >> 0.9077165722846985 Probability for Gonzaga win
+Gonzaga vs Kansas >> 0.6698634624481201 Probability for Gonzaga win
+Gonzaga vs Kentucky >> 0.6329033374786377 Probability for Gonzaga win
+Gonzaga vs Longwood >> 0.8015519380569458 Probability for Gonzaga win
+Gonzaga vs Loyola-Chicago >> 0.8270800709724426 Probability for Gonzaga win
+Gonzaga vs LSU >> 0.7699483036994934 Probability for Gonzaga win
+Gonzaga vs Marquette >> 0.8975446224212646 Probability for Gonzaga win
+Gonzaga vs Memphis >> 0.7598724961280823 Probability for Gonzaga win
+Gonzaga vs Miami FL >> 0.8602545857429504 Probability for Gonzaga win
+Gonzaga vs Michigan >> 0.8866056799888611 Probability for Gonzaga win
+Gonzaga vs Michigan St >> 0.9101183414459229 Probability for Gonzaga win
+Gonzaga vs Montana St >> 0.7829176187515259 Probability for Gonzaga win
+Gonzaga vs Murray St >> 0.5570931434631348 Probability for Gonzaga win
+Gonzaga vs New Mexico St >> 0.8210272192955017 Probability for Gonzaga win
+Gonzaga vs Norfolk St >> 0.8925157189369202 Probability for Gonzaga win
+Gonzaga vs North Carolina >> 0.8870573043823242 Probability for Gonzaga win
+Gonzaga vs Notre Dame >> 0.8990888595581055 Probability for Gonzaga win
+Gonzaga vs Ohio St >> 0.7637723684310913 Probability for Gonzaga win
+Gonzaga vs Providence >> 0.8802025318145752 Probability for Gonzaga win
+Gonzaga vs Purdue >> 0.8066721558570862 Probability for Gonzaga win
+Gonzaga vs Richmond >> 0.8814984560012817 Probability for Gonzaga win
+Gonzaga vs Rutgers >> 0.9162464141845703 Probability for Gonzaga win
+Gonzaga vs S Dakota St >> 0.6691021919250488 Probability for Gonzaga win
+Gonzaga vs San Diego St >> 0.7927315831184387 Probability for Gonzaga win
+Gonzaga vs San Francisco >> 0.8041849136352539 Probability for Gonzaga win
+Gonzaga vs Seton Hall >> 0.913413941860199 Probability for Gonzaga win
+Gonzaga vs St Mary's CA >> 0.7201924324035645 Probability for Gonzaga win
+Gonzaga vs St Peter's >> 0.8812775611877441 Probability for Gonzaga win
+Gonzaga vs TAM C. Christi >> 0.9231733083724976 Probability for Gonzaga win
+Gonzaga vs TCU >> 0.818603515625 Probability for Gonzaga win
+Gonzaga vs Tennessee >> 0.7091535925865173 Probability for Gonzaga win
+Gonzaga vs Texas >> 0.7673712372779846 Probability for Gonzaga win
+Gonzaga vs Texas Tech >> 0.8523223996162415 Probability for Gonzaga win
+Gonzaga vs TX Southern >> 0.9096972346305847 Probability for Gonzaga win
+Gonzaga vs UAB >> 0.773847758769989 Probability for Gonzaga win
+Gonzaga vs UCLA >> 0.6372054815292358 Probability for Gonzaga win
+Gonzaga vs USC >> 0.8079683184623718 Probability for Gonzaga win
+Gonzaga vs Vermont >> 0.5305837392807007 Probability for Gonzaga win
+Gonzaga vs Villanova >> 0.7411606907844543 Probability for Gonzaga win
+Gonzaga vs Virginia Tech >> 0.7569951415061951 Probability for Gonzaga win
+Gonzaga vs Wisconsin >> 0.8847545385360718 Probability for Gonzaga win
+Gonzaga vs Wright St >> 0.9312665462493896 Probability for Gonzaga win
+Gonzaga vs Wyoming >> 0.8173853754997253 Probability for Gonzaga win
+Gonzaga vs Yale >> 0.9100697636604309 Probability for Gonzaga win
+Houston vs Illinois >> 0.7416948080062866 Probability for Houston win
+Houston vs Indiana >> 0.8440127372741699 Probability for Houston win
+Houston vs Iowa >> 0.5544307231903076 Probability for Houston win
+Houston vs Iowa St >> 0.8869533538818359 Probability for Houston win
+Houston vs Jacksonville St >> 0.8753215074539185 Probability for Houston win
+Houston vs Kansas >> 0.5739291310310364 Probability for Houston win
+Houston vs Kentucky >> 0.5294875502586365 Probability for Houston win
+Houston vs Longwood >> 0.7483142018318176 Probability for Houston win
+Houston vs Loyola-Chicago >> 0.7399618029594421 Probability for Houston win
+Houston vs LSU >> 0.693652331829071 Probability for Houston win
+Houston vs Marquette >> 0.8607308864593506 Probability for Houston win
+Houston vs Memphis >> 0.6996989250183105 Probability for Houston win
+Houston vs Miami FL >> 0.8118686079978943 Probability for Houston win
+Houston vs Michigan >> 0.8568458557128906 Probability for Houston win
+Houston vs Michigan St >> 0.8815290927886963 Probability for Houston win
+Houston vs Montana St >> 0.7203773856163025 Probability for Houston win
+Houston vs Murray St >> 0.5414150953292847 Probability for Murray St win
+Houston vs New Mexico St >> 0.7573876976966858 Probability for Houston win
+Houston vs Norfolk St >> 0.857144296169281 Probability for Houston win
+Houston vs North Carolina >> 0.846016526222229 Probability for Houston win
+Houston vs Notre Dame >> 0.856936514377594 Probability for Houston win
+Houston vs Ohio St >> 0.67903733253479 Probability for Houston win
+Houston vs Providence >> 0.842353105545044 Probability for Houston win
+Houston vs Purdue >> 0.7531176209449768 Probability for Houston win
+Houston vs Richmond >> 0.843390166759491 Probability for Houston win
+Houston vs Rutgers >> 0.8859921097755432 Probability for Houston win
+Houston vs S Dakota St >> 0.5937629342079163 Probability for Houston win
+Houston vs San Diego St >> 0.7247861623764038 Probability for Houston win
+Houston vs San Francisco >> 0.7535902857780457 Probability for Houston win
+Houston vs Seton Hall >> 0.8795612454414368 Probability for Houston win
+Houston vs St Mary's CA >> 0.6422218680381775 Probability for Houston win
+Houston vs St Peter's >> 0.8364347219467163 Probability for Houston win
+Houston vs TAM C. Christi >> 0.8970614075660706 Probability for Houston win
+Houston vs TCU >> 0.77899169921875 Probability for Houston win
+Houston vs Tennessee >> 0.6167823672294617 Probability for Houston win
+Houston vs Texas >> 0.6958576440811157 Probability for Houston win
+Houston vs Texas Tech >> 0.7750294208526611 Probability for Houston win
+Houston vs TX Southern >> 0.8737753629684448 Probability for Houston win
+Houston vs UAB >> 0.7060544490814209 Probability for Houston win
+Houston vs UCLA >> 0.5681774616241455 Probability for Houston win
+Houston vs USC >> 0.750320315361023 Probability for Houston win
+Houston vs Vermont >> 0.5600500106811523 Probability for Vermont win
+Houston vs Villanova >> 0.6813008785247803 Probability for Houston win
+Houston vs Virginia Tech >> 0.697520911693573 Probability for Houston win
+Houston vs Wisconsin >> 0.8457589149475098 Probability for Houston win
+Houston vs Wright St >> 0.9026175737380981 Probability for Houston win
+Houston vs Wyoming >> 0.75974440574646 Probability for Houston win
+Houston vs Yale >> 0.8821706175804138 Probability for Houston win
+Illinois vs Indiana >> 0.5463607311248779 Probability for Indiana win
+Illinois vs Iowa >> 0.8258036971092224 Probability for Iowa win
+Illinois vs Iowa St >> 0.5414392352104187 Probability for Illinois win
+Illinois vs Jacksonville St >> 0.5080060362815857 Probability for Jacksonville St win
+Illinois vs Kansas >> 0.8029171228408813 Probability for Kansas win
+Illinois vs Kentucky >> 0.8134709000587463 Probability for Kentucky win
+Illinois vs Longwood >> 0.6649188995361328 Probability for Longwood win
+Illinois vs Loyola-Chicago >> 0.6224910616874695 Probability for Loyola-Chicago win
+Illinois vs LSU >> 0.6930345892906189 Probability for LSU win
+Illinois vs Marquette >> 0.5198166966438293 Probability for Marquette win
+Illinois vs Memphis >> 0.7010231614112854 Probability for Memphis win
+Illinois vs Miami FL >> 0.6106749176979065 Probability for Miami FL win
+Illinois vs Michigan >> 0.5168310403823853 Probability for Michigan win
+Illinois vs Michigan St >> 0.5092350840568542 Probability for Illinois win
+Illinois vs Montana St >> 0.6935409307479858 Probability for Montana St win
+Illinois vs Murray St >> 0.8607563972473145 Probability for Murray St win
+Illinois vs New Mexico St >> 0.6522403955459595 Probability for New Mexico St win
+Illinois vs Norfolk St >> 0.515937328338623 Probability for Illinois win
+Illinois vs North Carolina >> 0.504927933216095 Probability for North Carolina win
+Illinois vs Notre Dame >> 0.534715473651886 Probability for Notre Dame win
+Illinois vs Ohio St >> 0.7201092839241028 Probability for Ohio St win
+Illinois vs Providence >> 0.5326271653175354 Probability for Providence win
+Illinois vs Purdue >> 0.6547579169273376 Probability for Purdue win
+Illinois vs Richmond >> 0.531989574432373 Probability for Richmond win
+Illinois vs Rutgers >> 0.5030696988105774 Probability for Illinois win
+Illinois vs S Dakota St >> 0.8280024528503418 Probability for S Dakota St win
+Illinois vs San Diego St >> 0.7036171555519104 Probability for San Diego St win
+Illinois vs San Francisco >> 0.6816544532775879 Probability for San Francisco win
+Illinois vs Seton Hall >> 0.5521774888038635 Probability for Illinois win
+Illinois vs St Mary's CA >> 0.7827593684196472 Probability for St Mary's CA win
+Illinois vs St Peter's >> 0.5534002780914307 Probability for St Peter's win
+Illinois vs TAM C. Christi >> 0.5088873505592346 Probability for Illinois win
+Illinois vs TCU >> 0.6447961330413818 Probability for TCU win
+Illinois vs Tennessee >> 0.7733118534088135 Probability for Tennessee win
+Illinois vs Texas >> 0.729025661945343 Probability for Texas win
+Illinois vs Texas Tech >> 0.5860626101493835 Probability for Texas Tech win
+Illinois vs TX Southern >> 0.508251428604126 Probability for Illinois win
+Illinois vs UAB >> 0.7007485628128052 Probability for UAB win
+Illinois vs UCLA >> 0.8309299349784851 Probability for UCLA win
+Illinois vs USC >> 0.6970617771148682 Probability for USC win
+Illinois vs Vermont >> 0.8867473006248474 Probability for Vermont win
+Illinois vs Villanova >> 0.7451117634773254 Probability for Villanova win
+Illinois vs Virginia Tech >> 0.7086518406867981 Probability for Virginia Tech win
+Illinois vs Wisconsin >> 0.5494577884674072 Probability for Wisconsin win
+Illinois vs Wright St >> 0.5500571727752686 Probability for Illinois win
+Illinois vs Wyoming >> 0.641771674156189 Probability for Wyoming win
+Illinois vs Yale >> 0.5058714747428894 Probability for Illinois win
+Indiana vs Iowa >> 0.9331651926040649 Probability for Iowa win
+Indiana vs Iowa St >> 0.6817787289619446 Probability for Iowa St win
+Indiana vs Jacksonville St >> 0.7035315632820129 Probability for Jacksonville St win
+Indiana vs Kansas >> 0.9123221039772034 Probability for Kansas win
+Indiana vs Kentucky >> 0.9236311316490173 Probability for Kentucky win
+Indiana vs Longwood >> 0.8485040664672852 Probability for Longwood win
+Indiana vs Loyola-Chicago >> 0.8436267971992493 Probability for Loyola-Chicago win
+Indiana vs LSU >> 0.8550623655319214 Probability for LSU win
+Indiana vs Marquette >> 0.7290478348731995 Probability for Marquette win
+Indiana vs Memphis >> 0.8685280680656433 Probability for Memphis win
+Indiana vs Miami FL >> 0.7900272607803345 Probability for Miami FL win
+Indiana vs Michigan >> 0.7538391947746277 Probability for Michigan win
+Indiana vs Michigan St >> 0.690998375415802 Probability for Michigan St win
+Indiana vs Montana St >> 0.8691388368606567 Probability for Montana St win
+Indiana vs Murray St >> 0.9473620653152466 Probability for Murray St win
+Indiana vs New Mexico St >> 0.84433513879776 Probability for New Mexico St win
+Indiana vs Norfolk St >> 0.7239307165145874 Probability for Norfolk St win
+Indiana vs North Carolina >> 0.745901882648468 Probability for North Carolina win
+Indiana vs Notre Dame >> 0.75200355052948 Probability for Notre Dame win
+Indiana vs Ohio St >> 0.889920711517334 Probability for Ohio St win
+Indiana vs Providence >> 0.7342398166656494 Probability for Providence win
+Indiana vs Purdue >> 0.8411071300506592 Probability for Purdue win
+Indiana vs Richmond >> 0.7335535287857056 Probability for Richmond win
+Indiana vs Rutgers >> 0.6975941061973572 Probability for Rutgers win
+Indiana vs S Dakota St >> 0.9306883811950684 Probability for S Dakota St win
+Indiana vs San Diego St >> 0.8651421070098877 Probability for San Diego St win
+Indiana vs San Francisco >> 0.8490530252456665 Probability for San Francisco win
+Indiana vs Seton Hall >> 0.6995449662208557 Probability for Seton Hall win
+Indiana vs St Mary's CA >> 0.9089343547821045 Probability for St Mary's CA win
+Indiana vs St Peter's >> 0.770007848739624 Probability for St Peter's win
+Indiana vs TAM C. Christi >> 0.689507246017456 Probability for TAM C. Christi win
+Indiana vs TCU >> 0.8215903043746948 Probability for TCU win
+Indiana vs Tennessee >> 0.9014586210250854 Probability for Tennessee win
+Indiana vs Texas >> 0.88351970911026 Probability for Texas win
+Indiana vs Texas Tech >> 0.8073035478591919 Probability for Texas Tech win
+Indiana vs TX Southern >> 0.6911543607711792 Probability for TX Southern win
+Indiana vs UAB >> 0.8719189167022705 Probability for UAB win
+Indiana vs UCLA >> 0.9285085797309875 Probability for UCLA win
+Indiana vs USC >> 0.8558202385902405 Probability for USC win
+Indiana vs Vermont >> 0.9594748616218567 Probability for Vermont win
+Indiana vs Villanova >> 0.8910683393478394 Probability for Villanova win
+Indiana vs Virginia Tech >> 0.8778566718101501 Probability for Virginia Tech win
+Indiana vs Wisconsin >> 0.7498984336853027 Probability for Wisconsin win
+Indiana vs Wright St >> 0.6680498719215393 Probability for Wright St win
+Indiana vs Wyoming >> 0.8348785042762756 Probability for Wyoming win
+Indiana vs Yale >> 0.7067147493362427 Probability for Yale win
+Iowa vs Iowa St >> 0.790757954120636 Probability for Iowa win
+Iowa vs Jacksonville St >> 0.7763345241546631 Probability for Iowa win
+Iowa vs Kansas >> 0.5454118251800537 Probability for Kansas win
+Iowa vs Kentucky >> 0.5635973215103149 Probability for Kentucky win
+Iowa vs Longwood >> 0.6319428086280823 Probability for Iowa win
+Iowa vs Loyola-Chicago >> 0.6781831979751587 Probability for Iowa win
+Iowa vs LSU >> 0.5953598618507385 Probability for Iowa win
+Iowa vs Marquette >> 0.7580472230911255 Probability for Iowa win
+Iowa vs Memphis >> 0.587310791015625 Probability for Iowa win
+Iowa vs Miami FL >> 0.6854273676872253 Probability for Iowa win
+Iowa vs Michigan >> 0.750874936580658 Probability for Iowa win
+Iowa vs Michigan St >> 0.7764805555343628 Probability for Iowa win
+Iowa vs Montana St >> 0.6095438599586487 Probability for Iowa win
+Iowa vs Murray St >> 0.6316577196121216 Probability for Murray St win
+Iowa vs New Mexico St >> 0.6523624062538147 Probability for Iowa win
+Iowa vs Norfolk St >> 0.7837287783622742 Probability for Iowa win
+Iowa vs North Carolina >> 0.7697521448135376 Probability for Iowa win
+Iowa vs Notre Dame >> 0.7636229991912842 Probability for Iowa win
+Iowa vs Ohio St >> 0.5692811608314514 Probability for Iowa win
+Iowa vs Providence >> 0.7470043897628784 Probability for Iowa win
+Iowa vs Purdue >> 0.6538643836975098 Probability for Iowa win
+Iowa vs Richmond >> 0.7391670346260071 Probability for Iowa win
+Iowa vs Rutgers >> 0.7810457944869995 Probability for Iowa win
+Iowa vs S Dakota St >> 0.5646449327468872 Probability for S Dakota St win
+Iowa vs San Diego St >> 0.6062641739845276 Probability for Iowa win
+Iowa vs San Francisco >> 0.6308843493461609 Probability for Iowa win
+Iowa vs Seton Hall >> 0.8045492172241211 Probability for Iowa win
+Iowa vs St Mary's CA >> 0.5078383684158325 Probability for Iowa win
+Iowa vs St Peter's >> 0.7396097779273987 Probability for Iowa win
+Iowa vs TAM C. Christi >> 0.8006124496459961 Probability for Iowa win
+Iowa vs TCU >> 0.6498053669929504 Probability for Iowa win
+Iowa vs Tennessee >> 0.5255923867225647 Probability for Iowa win
+Iowa vs Texas >> 0.5784438848495483 Probability for Iowa win
+Iowa vs Texas Tech >> 0.7292314767837524 Probability for Iowa win
+Iowa vs TX Southern >> 0.7745301127433777 Probability for Iowa win
+Iowa vs UAB >> 0.600511372089386 Probability for Iowa win
+Iowa vs UCLA >> 0.5742417573928833 Probability for UCLA win
+Iowa vs USC >> 0.591877281665802 Probability for Iowa win
+Iowa vs Vermont >> 0.6798340082168579 Probability for Vermont win
+Iowa vs Villanova >> 0.5691934823989868 Probability for Iowa win
+Iowa vs Virginia Tech >> 0.5939796566963196 Probability for Iowa win
+Iowa vs Wisconsin >> 0.7375748157501221 Probability for Iowa win
+Iowa vs Wright St >> 0.8109826445579529 Probability for Iowa win
+Iowa vs Wyoming >> 0.6670259833335876 Probability for Iowa win
+Iowa vs Yale >> 0.7810661196708679 Probability for Iowa win
+Iowa St vs Jacksonville St >> 0.6258118748664856 Probability for Jacksonville St win
+Iowa St vs Kansas >> 0.8900388479232788 Probability for Kansas win
+Iowa St vs Kentucky >> 0.8980592489242554 Probability for Kentucky win
+Iowa St vs Longwood >> 0.8011302351951599 Probability for Longwood win
+Iowa St vs Loyola-Chicago >> 0.7879019379615784 Probability for Loyola-Chicago win
+Iowa St vs LSU >> 0.8207030892372131 Probability for LSU win
+Iowa St vs Marquette >> 0.6584038138389587 Probability for Marquette win
+Iowa St vs Memphis >> 0.8310902118682861 Probability for Memphis win
+Iowa St vs Miami FL >> 0.7292457222938538 Probability for Miami FL win
+Iowa St vs Michigan >> 0.6825075149536133 Probability for Michigan win
+Iowa St vs Michigan St >> 0.6244252324104309 Probability for Michigan St win
+Iowa St vs Montana St >> 0.8204481601715088 Probability for Montana St win
+Iowa St vs Murray St >> 0.930580198764801 Probability for Murray St win
+Iowa St vs New Mexico St >> 0.7916828989982605 Probability for New Mexico St win
+Iowa St vs Norfolk St >> 0.6625654101371765 Probability for Norfolk St win
+Iowa St vs North Carolina >> 0.6755305528640747 Probability for North Carolina win
+Iowa St vs Notre Dame >> 0.6761460900306702 Probability for Notre Dame win
+Iowa St vs Ohio St >> 0.8488444685935974 Probability for Ohio St win
+Iowa St vs Providence >> 0.6778205633163452 Probability for Providence win
+Iowa St vs Purdue >> 0.7954813241958618 Probability for Purdue win
+Iowa St vs Richmond >> 0.6754202842712402 Probability for Richmond win
+Iowa St vs Rutgers >> 0.6334599852561951 Probability for Rutgers win
+Iowa St vs S Dakota St >> 0.9015086889266968 Probability for S Dakota St win
+Iowa St vs San Diego St >> 0.8213227987289429 Probability for San Diego St win
+Iowa St vs San Francisco >> 0.802675724029541 Probability for San Francisco win
+Iowa St vs Seton Hall >> 0.6152651309967041 Probability for Seton Hall win
+Iowa St vs St Mary's CA >> 0.871245801448822 Probability for St Mary's CA win
+Iowa St vs St Peter's >> 0.7077943086624146 Probability for St Peter's win
+Iowa St vs TAM C. Christi >> 0.6030005812644958 Probability for TAM C. Christi win
+Iowa St vs TCU >> 0.777612030506134 Probability for TCU win
+Iowa St vs Tennessee >> 0.871147096157074 Probability for Tennessee win
+Iowa St vs Texas >> 0.8395411968231201 Probability for Texas win
+Iowa St vs Texas Tech >> 0.7455856800079346 Probability for Texas Tech win
+Iowa St vs TX Southern >> 0.6239162683486938 Probability for TX Southern win
+Iowa St vs UAB >> 0.8281089663505554 Probability for UAB win
+Iowa St vs UCLA >> 0.9015406966209412 Probability for UCLA win
+Iowa St vs USC >> 0.8067483305931091 Probability for USC win
+Iowa St vs Vermont >> 0.9404091835021973 Probability for Vermont win
+Iowa St vs Villanova >> 0.8640705943107605 Probability for Villanova win
+Iowa St vs Virginia Tech >> 0.8432741761207581 Probability for Virginia Tech win
+Iowa St vs Wisconsin >> 0.6849156022071838 Probability for Wisconsin win
+Iowa St vs Wright St >> 0.5616623759269714 Probability for Wright St win
+Iowa St vs Wyoming >> 0.7876249551773071 Probability for Wyoming win
+Iowa St vs Yale >> 0.629433810710907 Probability for Yale win
+Jacksonville St vs Kansas >> 0.862175703048706 Probability for Kansas win
+Jacksonville St vs Kentucky >> 0.8670991063117981 Probability for Kentucky win
+Jacksonville St vs Longwood >> 0.7543178200721741 Probability for Longwood win
+Jacksonville St vs Loyola-Chicago >> 0.6776082515716553 Probability for Loyola-Chicago win
+Jacksonville St vs LSU >> 0.7773143649101257 Probability for LSU win
+Jacksonville St vs Marquette >> 0.6293390393257141 Probability for Marquette win
+Jacksonville St vs Memphis >> 0.7836475372314453 Probability for Memphis win
+Jacksonville St vs Miami FL >> 0.7014873623847961 Probability for Miami FL win
+Jacksonville St vs Michigan >> 0.6230708956718445 Probability for Michigan win
+Jacksonville St vs Michigan St >> 0.5827188491821289 Probability for Michigan St win
+Jacksonville St vs Montana St >> 0.763099730014801 Probability for Montana St win
+Jacksonville St vs Murray St >> 0.9021477103233337 Probability for Murray St win
+Jacksonville St vs New Mexico St >> 0.7403385043144226 Probability for New Mexico St win
+Jacksonville St vs Norfolk St >> 0.5801281332969666 Probability for Norfolk St win
+Jacksonville St vs North Carolina >> 0.6105800867080688 Probability for North Carolina win
+Jacksonville St vs Notre Dame >> 0.6310344934463501 Probability for Notre Dame win
+Jacksonville St vs Ohio St >> 0.7998260259628296 Probability for Ohio St win
+Jacksonville St vs Providence >> 0.6357364058494568 Probability for Providence win
+Jacksonville St vs Purdue >> 0.7403379678726196 Probability for Purdue win
+Jacksonville St vs Richmond >> 0.6407918334007263 Probability for Richmond win
+Jacksonville St vs Rutgers >> 0.5841935276985168 Probability for Rutgers win
+Jacksonville St vs S Dakota St >> 0.8703306317329407 Probability for S Dakota St win
+Jacksonville St vs San Diego St >> 0.7757055163383484 Probability for San Diego St win
+Jacksonville St vs San Francisco >> 0.7554560303688049 Probability for San Francisco win
+Jacksonville St vs Seton Hall >> 0.5536326169967651 Probability for Seton Hall win
+Jacksonville St vs St Mary's CA >> 0.8395582437515259 Probability for St Mary's CA win
+Jacksonville St vs St Peter's >> 0.6482959389686584 Probability for St Peter's win
+Jacksonville St vs TAM C. Christi >> 0.5661118626594543 Probability for TAM C. Christi win
+Jacksonville St vs TCU >> 0.7346351146697998 Probability for TCU win
+Jacksonville St vs Tennessee >> 0.8156709671020508 Probability for Tennessee win
+Jacksonville St vs Texas >> 0.7815791368484497 Probability for Texas win
+Jacksonville St vs Texas Tech >> 0.6506583094596863 Probability for Texas Tech win
+Jacksonville St vs TX Southern >> 0.5792361497879028 Probability for TX Southern win
+Jacksonville St vs UAB >> 0.771847665309906 Probability for UAB win
+Jacksonville St vs UCLA >> 0.8760200142860413 Probability for UCLA win
+Jacksonville St vs USC >> 0.7750515937805176 Probability for USC win
+Jacksonville St vs Vermont >> 0.9175468683242798 Probability for Vermont win
+Jacksonville St vs Villanova >> 0.7909023761749268 Probability for Villanova win
+Jacksonville St vs Virginia Tech >> 0.7834697365760803 Probability for Virginia Tech win
+Jacksonville St vs Wisconsin >> 0.6381698846817017 Probability for Wisconsin win
+Jacksonville St vs Wright St >> 0.5420389771461487 Probability for Wright St win
+Jacksonville St vs Wyoming >> 0.7212202548980713 Probability for Wyoming win
+Jacksonville St vs Yale >> 0.5829452872276306 Probability for Yale win
+Kansas vs Kentucky >> 0.672710657119751 Probability for Kentucky win
+Kansas vs Longwood >> 0.504740297794342 Probability for Kansas win
+Kansas vs Loyola-Chicago >> 0.5921894907951355 Probability for Kansas win
+Kansas vs LSU >> 0.5322299599647522 Probability for LSU win
+Kansas vs Marquette >> 0.6292006969451904 Probability for Kansas win
+Kansas vs Memphis >> 0.5507493615150452 Probability for Memphis win
+Kansas vs Miami FL >> 0.5398159623146057 Probability for Kansas win
+Kansas vs Michigan >> 0.6312462091445923 Probability for Kansas win
+Kansas vs Michigan St >> 0.659110963344574 Probability for Kansas win
+Kansas vs Montana St >> 0.5229566693305969 Probability for Montana St win
+Kansas vs Murray St >> 0.749131441116333 Probability for Murray St win
+Kansas vs New Mexico St >> 0.5109312534332275 Probability for Kansas win
+Kansas vs Norfolk St >> 0.6743476390838623 Probability for Kansas win
+Kansas vs North Carolina >> 0.6464699506759644 Probability for Kansas win
+Kansas vs Notre Dame >> 0.635001003742218 Probability for Kansas win
+Kansas vs Ohio St >> 0.548564076423645 Probability for Ohio St win
+Kansas vs Providence >> 0.6210471391677856 Probability for Kansas win
+Kansas vs Purdue >> 0.512829601764679 Probability for Kansas win
+Kansas vs Richmond >> 0.6219517588615417 Probability for Kansas win
+Kansas vs Rutgers >> 0.6548472046852112 Probability for Kansas win
+Kansas vs S Dakota St >> 0.7017050981521606 Probability for S Dakota St win
+Kansas vs San Diego St >> 0.5477122068405151 Probability for San Diego St win
+Kansas vs San Francisco >> 0.5347350239753723 Probability for San Francisco win
+Kansas vs Seton Hall >> 0.6952500939369202 Probability for Kansas win
+Kansas vs St Mary's CA >> 0.6388557553291321 Probability for St Mary's CA win
+Kansas vs St Peter's >> 0.6021064519882202 Probability for Kansas win
+Kansas vs TAM C. Christi >> 0.6546304225921631 Probability for Kansas win
+Kansas vs TCU >> 0.5007911920547485 Probability for Kansas win
+Kansas vs Tennessee >> 0.6178275346755981 Probability for Tennessee win
+Kansas vs Texas >> 0.5537869930267334 Probability for Texas win
+Kansas vs Texas Tech >> 0.6106151938438416 Probability for Kansas win
+Kansas vs TX Southern >> 0.6620661020278931 Probability for Kansas win
+Kansas vs UAB >> 0.5328570604324341 Probability for UAB win
+Kansas vs UCLA >> 0.7260407209396362 Probability for UCLA win
+Kansas vs USC >> 0.566902220249176 Probability for USC win
+Kansas vs Vermont >> 0.7815684080123901 Probability for Vermont win
+Kansas vs Villanova >> 0.5564743280410767 Probability for Villanova win
+Kansas vs Virginia Tech >> 0.5403380990028381 Probability for Virginia Tech win
+Kansas vs Wisconsin >> 0.6003037095069885 Probability for Kansas win
+Kansas vs Wright St >> 0.6938911080360413 Probability for Kansas win
+Kansas vs Wyoming >> 0.53456050157547 Probability for Kansas win
+Kansas vs Yale >> 0.6613404750823975 Probability for Kansas win
+Kentucky vs Longwood >> 0.5907583236694336 Probability for Kentucky win
+Kentucky vs Loyola-Chicago >> 0.6032828688621521 Probability for Kentucky win
+Kentucky vs LSU >> 0.5342037081718445 Probability for Kentucky win
+Kentucky vs Marquette >> 0.7079038023948669 Probability for Kentucky win
+Kentucky vs Memphis >> 0.5318167209625244 Probability for Kentucky win
+Kentucky vs Miami FL >> 0.6344806551933289 Probability for Kentucky win
+Kentucky vs Michigan >> 0.7349576354026794 Probability for Kentucky win
+Kentucky vs Michigan St >> 0.7538064122200012 Probability for Kentucky win
+Kentucky vs Montana St >> 0.5488536953926086 Probability for Kentucky win
+Kentucky vs Murray St >> 0.687867283821106 Probability for Murray St win
+Kentucky vs New Mexico St >> 0.5837454795837402 Probability for Kentucky win
+Kentucky vs Norfolk St >> 0.7335959672927856 Probability for Kentucky win
+Kentucky vs North Carolina >> 0.7296838760375977 Probability for Kentucky win
+Kentucky vs Notre Dame >> 0.716194212436676 Probability for Kentucky win
+Kentucky vs Ohio St >> 0.5014922022819519 Probability for Kentucky win
+Kentucky vs Providence >> 0.7003440856933594 Probability for Kentucky win
+Kentucky vs Purdue >> 0.5934668183326721 Probability for Kentucky win
+Kentucky vs Richmond >> 0.6982613801956177 Probability for Kentucky win
+Kentucky vs Rutgers >> 0.7529907822608948 Probability for Kentucky win
+Kentucky vs S Dakota St >> 0.6280737519264221 Probability for S Dakota St win
+Kentucky vs San Diego St >> 0.5448431968688965 Probability for Kentucky win
+Kentucky vs San Francisco >> 0.5618388652801514 Probability for Kentucky win
+Kentucky vs Seton Hall >> 0.7709273099899292 Probability for Kentucky win
+Kentucky vs St Mary's CA >> 0.5389439463615417 Probability for St Mary's CA win
+Kentucky vs St Peter's >> 0.6918949484825134 Probability for Kentucky win
+Kentucky vs TAM C. Christi >> 0.7593815326690674 Probability for Kentucky win
+Kentucky vs TCU >> 0.6005234718322754 Probability for Kentucky win
+Kentucky vs Tennessee >> 0.5435394048690796 Probability for Tennessee win
+Kentucky vs Texas >> 0.5167039036750793 Probability for Kentucky win
+Kentucky vs Texas Tech >> 0.6719930768013 Probability for Kentucky win
+Kentucky vs TX Southern >> 0.7359098196029663 Probability for Kentucky win
+Kentucky vs UAB >> 0.543951153755188 Probability for Kentucky win
+Kentucky vs UCLA >> 0.6385519504547119 Probability for UCLA win
+Kentucky vs USC >> 0.5554096102714539 Probability for Kentucky win
+Kentucky vs Vermont >> 0.7302965521812439 Probability for Vermont win
+Kentucky vs Villanova >> 0.5051192045211792 Probability for Kentucky win
+Kentucky vs Virginia Tech >> 0.5461927056312561 Probability for Kentucky win
+Kentucky vs Wisconsin >> 0.6867899894714355 Probability for Kentucky win
+Kentucky vs Wright St >> 0.7959926128387451 Probability for Kentucky win
+Kentucky vs Wyoming >> 0.6084559559822083 Probability for Kentucky win
+Kentucky vs Yale >> 0.7625196576118469 Probability for Kentucky win
+Longwood vs Loyola-Chicago >> 0.7526952624320984 Probability for Loyola-Chicago win
+Longwood vs LSU >> 0.8048956394195557 Probability for LSU win
+Longwood vs Marquette >> 0.6736732125282288 Probability for Marquette win
+Longwood vs Memphis >> 0.8127149343490601 Probability for Memphis win
+Longwood vs Miami FL >> 0.7393491268157959 Probability for Miami FL win
+Longwood vs Michigan >> 0.67055344581604 Probability for Michigan win
+Longwood vs Michigan St >> 0.629056990146637 Probability for Michigan St win
+Longwood vs Montana St >> 0.8055269718170166 Probability for Montana St win
+Longwood vs Murray St >> 0.9159631133079529 Probability for Murray St win
+Longwood vs New Mexico St >> 0.773865818977356 Probability for New Mexico St win
+Longwood vs Norfolk St >> 0.6355449557304382 Probability for Norfolk St win
+Longwood vs North Carolina >> 0.6504842638969421 Probability for North Carolina win
+Longwood vs Notre Dame >> 0.6730970740318298 Probability for Notre Dame win
+Longwood vs Ohio St >> 0.8297531604766846 Probability for Ohio St win
+Longwood vs Providence >> 0.6765098571777344 Probability for Providence win
+Longwood vs Purdue >> 0.7688710689544678 Probability for Purdue win
+Longwood vs Richmond >> 0.6859066486358643 Probability for Richmond win
+Longwood vs Rutgers >> 0.6427539587020874 Probability for Rutgers win
+Longwood vs S Dakota St >> 0.8907812237739563 Probability for S Dakota St win
+Longwood vs San Diego St >> 0.8054560422897339 Probability for San Diego St win
+Longwood vs San Francisco >> 0.7933661937713623 Probability for San Francisco win
+Longwood vs Seton Hall >> 0.6024298667907715 Probability for Seton Hall win
+Longwood vs St Mary's CA >> 0.8648563027381897 Probability for St Mary's CA win
+Longwood vs St Peter's >> 0.6950304508209229 Probability for St Peter's win
+Longwood vs TAM C. Christi >> 0.6287716031074524 Probability for TAM C. Christi win
+Longwood vs TCU >> 0.7679458260536194 Probability for TCU win
+Longwood vs Tennessee >> 0.8532276153564453 Probability for Tennessee win
+Longwood vs Texas >> 0.8299136757850647 Probability for Texas win
+Longwood vs Texas Tech >> 0.7164486050605774 Probability for Texas Tech win
+Longwood vs TX Southern >> 0.6356924176216125 Probability for TX Southern win
+Longwood vs UAB >> 0.8078542351722717 Probability for UAB win
+Longwood vs UCLA >> 0.8968895673751831 Probability for UCLA win
+Longwood vs USC >> 0.8149428963661194 Probability for USC win
+Longwood vs Vermont >> 0.9297213554382324 Probability for Vermont win
+Longwood vs Villanova >> 0.8251848816871643 Probability for Villanova win
+Longwood vs Virginia Tech >> 0.8036009073257446 Probability for Virginia Tech win
+Longwood vs Wisconsin >> 0.6916336417198181 Probability for Wisconsin win
+Longwood vs Wright St >> 0.5987691879272461 Probability for Wright St win
+Longwood vs Wyoming >> 0.7608200907707214 Probability for Wyoming win
+Longwood vs Yale >> 0.6285425424575806 Probability for Yale win
+Loyola-Chicago vs LSU >> 0.6214774250984192 Probability for Loyola-Chicago win
+Loyola-Chicago vs Marquette >> 0.8090105652809143 Probability for Loyola-Chicago win
+Loyola-Chicago vs Memphis >> 0.6321858167648315 Probability for Loyola-Chicago win
+Loyola-Chicago vs Miami FL >> 0.7534248232841492 Probability for Loyola-Chicago win
+Loyola-Chicago vs Michigan >> 0.8067519068717957 Probability for Loyola-Chicago win
+Loyola-Chicago vs Michigan St >> 0.8397437334060669 Probability for Loyola-Chicago win
+Loyola-Chicago vs Montana St >> 0.6374046802520752 Probability for Loyola-Chicago win
+Loyola-Chicago vs Murray St >> 0.6373831629753113 Probability for Murray St win
+Loyola-Chicago vs New Mexico St >> 0.6911129355430603 Probability for Loyola-Chicago win
+Loyola-Chicago vs Norfolk St >> 0.8083624243736267 Probability for Loyola-Chicago win
+Loyola-Chicago vs North Carolina >> 0.7983108758926392 Probability for Loyola-Chicago win
+Loyola-Chicago vs Notre Dame >> 0.798170268535614 Probability for Loyola-Chicago win
+Loyola-Chicago vs Ohio St >> 0.5810921788215637 Probability for Loyola-Chicago win
+Loyola-Chicago vs Providence >> 0.8001973628997803 Probability for Loyola-Chicago win
+Loyola-Chicago vs Purdue >> 0.6711206436157227 Probability for Loyola-Chicago win
+Loyola-Chicago vs Richmond >> 0.7971998453140259 Probability for Loyola-Chicago win
+Loyola-Chicago vs Rutgers >> 0.8383318185806274 Probability for Loyola-Chicago win
+Loyola-Chicago vs S Dakota St >> 0.5179846882820129 Probability for S Dakota St win
+Loyola-Chicago vs San Diego St >> 0.6317538619041443 Probability for Loyola-Chicago win
+Loyola-Chicago vs San Francisco >> 0.6836832165718079 Probability for Loyola-Chicago win
+Loyola-Chicago vs Seton Hall >> 0.8430777192115784 Probability for Loyola-Chicago win
+Loyola-Chicago vs St Mary's CA >> 0.5517569780349731 Probability for Loyola-Chicago win
+Loyola-Chicago vs St Peter's >> 0.7762222290039062 Probability for Loyola-Chicago win
+Loyola-Chicago vs TAM C. Christi >> 0.8383243083953857 Probability for Loyola-Chicago win
+Loyola-Chicago vs TCU >> 0.723163366317749 Probability for Loyola-Chicago win
+Loyola-Chicago vs Tennessee >> 0.5265887379646301 Probability for Loyola-Chicago win
+Loyola-Chicago vs Texas >> 0.5918241739273071 Probability for Loyola-Chicago win
+Loyola-Chicago vs Texas Tech >> 0.6788737773895264 Probability for Loyola-Chicago win
+Loyola-Chicago vs TX Southern >> 0.8270145654678345 Probability for Loyola-Chicago win
+Loyola-Chicago vs UAB >> 0.6212971210479736 Probability for Loyola-Chicago win
+Loyola-Chicago vs UCLA >> 0.533980131149292 Probability for UCLA win
+Loyola-Chicago vs USC >> 0.6762091517448425 Probability for Loyola-Chicago win
+Loyola-Chicago vs Vermont >> 0.6682772040367126 Probability for Vermont win
+Loyola-Chicago vs Villanova >> 0.5419620275497437 Probability for Loyola-Chicago win
+Loyola-Chicago vs Virginia Tech >> 0.5908252596855164 Probability for Loyola-Chicago win
+Loyola-Chicago vs Wisconsin >> 0.7963569164276123 Probability for Loyola-Chicago win
+Loyola-Chicago vs Wright St >> 0.8667519092559814 Probability for Loyola-Chicago win
+Loyola-Chicago vs Wyoming >> 0.6900785565376282 Probability for Loyola-Chicago win
+Loyola-Chicago vs Yale >> 0.8398960828781128 Probability for Loyola-Chicago win
+LSU vs Marquette >> 0.5080965161323547 Probability for Marquette win
+LSU vs Memphis >> 0.692635178565979 Probability for Memphis win
+LSU vs Miami FL >> 0.5897342562675476 Probability for Miami FL win
+LSU vs Michigan >> 0.5045256018638611 Probability for LSU win
+LSU vs Michigan St >> 0.5484467148780823 Probability for LSU win
+LSU vs Montana St >> 0.6695769429206848 Probability for Montana St win
+LSU vs Murray St >> 0.8496890068054199 Probability for Murray St win
+LSU vs New Mexico St >> 0.6318017244338989 Probability for New Mexico St win
+LSU vs Norfolk St >> 0.5384502410888672 Probability for LSU win
+LSU vs North Carolina >> 0.5146363377571106 Probability for LSU win
+LSU vs Notre Dame >> 0.5048955678939819 Probability for Notre Dame win
+LSU vs Ohio St >> 0.7108837366104126 Probability for Ohio St win
+LSU vs Providence >> 0.5159031748771667 Probability for Providence win
+LSU vs Purdue >> 0.6354953050613403 Probability for Purdue win
+LSU vs Richmond >> 0.5228495001792908 Probability for Richmond win
+LSU vs Rutgers >> 0.5486869812011719 Probability for LSU win
+LSU vs S Dakota St >> 0.813210666179657 Probability for S Dakota St win
+LSU vs San Diego St >> 0.6870739459991455 Probability for San Diego St win
+LSU vs San Francisco >> 0.6648609638214111 Probability for San Francisco win
+LSU vs Seton Hall >> 0.5716947913169861 Probability for LSU win
+LSU vs St Mary's CA >> 0.7522903680801392 Probability for St Mary's CA win
+LSU vs St Peter's >> 0.5336469411849976 Probability for St Peter's win
+LSU vs TAM C. Christi >> 0.55718594789505 Probability for LSU win
+LSU vs TCU >> 0.6286981105804443 Probability for TCU win
+LSU vs Tennessee >> 0.7591260671615601 Probability for Tennessee win
+LSU vs Texas >> 0.7094767689704895 Probability for Texas win
+LSU vs Texas Tech >> 0.5641353726387024 Probability for Texas Tech win
+LSU vs TX Southern >> 0.526818037033081 Probability for LSU win
+LSU vs UAB >> 0.6800549030303955 Probability for UAB win
+LSU vs UCLA >> 0.8194971680641174 Probability for UCLA win
+LSU vs USC >> 0.6633991599082947 Probability for USC win
+LSU vs Vermont >> 0.8747084736824036 Probability for Vermont win
+LSU vs Villanova >> 0.7331911325454712 Probability for Villanova win
+LSU vs Virginia Tech >> 0.7009069919586182 Probability for Virginia Tech win
+LSU vs Wisconsin >> 0.5290605425834656 Probability for Wisconsin win
+LSU vs Wright St >> 0.6080211400985718 Probability for LSU win
+LSU vs Wyoming >> 0.6210752725601196 Probability for Wyoming win
+LSU vs Yale >> 0.5421575903892517 Probability for LSU win
+Marquette vs Memphis >> 0.8494541645050049 Probability for Memphis win
+Marquette vs Miami FL >> 0.7812098860740662 Probability for Miami FL win
+Marquette vs Michigan >> 0.7267605066299438 Probability for Michigan win
+Marquette vs Michigan St >> 0.6855297684669495 Probability for Michigan St win
+Marquette vs Montana St >> 0.8531149625778198 Probability for Montana St win
+Marquette vs Murray St >> 0.9435560703277588 Probability for Murray St win
+Marquette vs New Mexico St >> 0.8288629651069641 Probability for New Mexico St win
+Marquette vs Norfolk St >> 0.6670138239860535 Probability for Norfolk St win
+Marquette vs North Carolina >> 0.7267634272575378 Probability for North Carolina win
+Marquette vs Notre Dame >> 0.747189462184906 Probability for Notre Dame win
+Marquette vs Ohio St >> 0.8720861673355103 Probability for Ohio St win
+Marquette vs Providence >> 0.7233756184577942 Probability for Providence win
+Marquette vs Purdue >> 0.8258026242256165 Probability for Purdue win
+Marquette vs Richmond >> 0.7287315130233765 Probability for Richmond win
+Marquette vs Rutgers >> 0.6922502517700195 Probability for Rutgers win
+Marquette vs S Dakota St >> 0.9160983562469482 Probability for S Dakota St win
+Marquette vs San Diego St >> 0.8397628664970398 Probability for San Diego St win
+Marquette vs San Francisco >> 0.8344033360481262 Probability for San Francisco win
+Marquette vs Seton Hall >> 0.6746045351028442 Probability for Seton Hall win
+Marquette vs St Mary's CA >> 0.8996781706809998 Probability for St Mary's CA win
+Marquette vs St Peter's >> 0.7414203882217407 Probability for St Peter's win
+Marquette vs TAM C. Christi >> 0.6724207997322083 Probability for TAM C. Christi win
+Marquette vs TCU >> 0.8108845353126526 Probability for TCU win
+Marquette vs Tennessee >> 0.8775689601898193 Probability for Tennessee win
+Marquette vs Texas >> 0.8570362329483032 Probability for Texas win
+Marquette vs Texas Tech >> 0.7772513031959534 Probability for Texas Tech win
+Marquette vs TX Southern >> 0.6696500182151794 Probability for TX Southern win
+Marquette vs UAB >> 0.8630716800689697 Probability for UAB win
+Marquette vs UCLA >> 0.9185042381286621 Probability for UCLA win
+Marquette vs USC >> 0.8457076549530029 Probability for USC win
+Marquette vs Vermont >> 0.9493846297264099 Probability for Vermont win
+Marquette vs Villanova >> 0.8744171261787415 Probability for Villanova win
+Marquette vs Virginia Tech >> 0.858684241771698 Probability for Virginia Tech win
+Marquette vs Wisconsin >> 0.7308845520019531 Probability for Wisconsin win
+Marquette vs Wright St >> 0.6759855151176453 Probability for Wright St win
+Marquette vs Wyoming >> 0.8107656836509705 Probability for Wyoming win
+Marquette vs Yale >> 0.6845204830169678 Probability for Yale win
+Memphis vs Miami FL >> 0.6474601626396179 Probability for Miami FL win
+Memphis vs Michigan >> 0.5885028839111328 Probability for Michigan win
+Memphis vs Michigan St >> 0.5400921702384949 Probability for Michigan St win
+Memphis vs Montana St >> 0.7318482995033264 Probability for Montana St win
+Memphis vs Murray St >> 0.8835377097129822 Probability for Murray St win
+Memphis vs New Mexico St >> 0.6983981728553772 Probability for New Mexico St win
+Memphis vs Norfolk St >> 0.5308318138122559 Probability for Norfolk St win
+Memphis vs North Carolina >> 0.5553188920021057 Probability for North Carolina win
+Memphis vs Notre Dame >> 0.5752165913581848 Probability for Notre Dame win
+Memphis vs Ohio St >> 0.7642616629600525 Probability for Ohio St win
+Memphis vs Providence >> 0.5815905332565308 Probability for Providence win
+Memphis vs Purdue >> 0.6928802132606506 Probability for Purdue win
+Memphis vs Richmond >> 0.5885040163993835 Probability for Richmond win
+Memphis vs Rutgers >> 0.5488607287406921 Probability for Rutgers win
+Memphis vs S Dakota St >> 0.8498838543891907 Probability for S Dakota St win
+Memphis vs San Diego St >> 0.7378513813018799 Probability for San Diego St win
+Memphis vs San Francisco >> 0.7226618528366089 Probability for San Francisco win
+Memphis vs Seton Hall >> 0.5044530630111694 Probability for Seton Hall win
+Memphis vs St Mary's CA >> 0.8219352960586548 Probability for St Mary's CA win
+Memphis vs St Peter's >> 0.6042452454566956 Probability for St Peter's win
+Memphis vs TAM C. Christi >> 0.5425379872322083 Probability for TAM C. Christi win
+Memphis vs TCU >> 0.6934964656829834 Probability for TCU win
+Memphis vs Tennessee >> 0.7928454875946045 Probability for Tennessee win
+Memphis vs Texas >> 0.7650830149650574 Probability for Texas win
+Memphis vs Texas Tech >> 0.6224147081375122 Probability for Texas Tech win
+Memphis vs TX Southern >> 0.5455496907234192 Probability for TX Southern win
+Memphis vs UAB >> 0.7424671649932861 Probability for UAB win
+Memphis vs UCLA >> 0.8511272668838501 Probability for UCLA win
+Memphis vs USC >> 0.7483405470848083 Probability for USC win
+Memphis vs Vermont >> 0.9025788307189941 Probability for Vermont win
+Memphis vs Villanova >> 0.7711365222930908 Probability for Villanova win
+Memphis vs Virginia Tech >> 0.7494057416915894 Probability for Virginia Tech win
+Memphis vs Wisconsin >> 0.5929303765296936 Probability for Wisconsin win
+Memphis vs Wright St >> 0.5044999122619629 Probability for Memphis win
+Memphis vs Wyoming >> 0.6867362856864929 Probability for Wyoming win
+Memphis vs Yale >> 0.5342401266098022 Probability for Yale win
+Miami FL vs Michigan >> 0.638523519039154 Probability for Michigan win
+Miami FL vs Michigan St >> 0.5994219779968262 Probability for Michigan St win
+Miami FL vs Montana St >> 0.7665840983390808 Probability for Montana St win
+Miami FL vs Murray St >> 0.9010500311851501 Probability for Murray St win
+Miami FL vs New Mexico St >> 0.7339787483215332 Probability for New Mexico St win
+Miami FL vs Norfolk St >> 0.5646722316741943 Probability for Norfolk St win
+Miami FL vs North Carolina >> 0.6208978295326233 Probability for North Carolina win
+Miami FL vs Notre Dame >> 0.6083462834358215 Probability for Notre Dame win
+Miami FL vs Ohio St >> 0.7867575883865356 Probability for Ohio St win
+Miami FL vs Providence >> 0.6266517043113708 Probability for Providence win
+Miami FL vs Purdue >> 0.7260600328445435 Probability for Purdue win
+Miami FL vs Richmond >> 0.6375576257705688 Probability for Richmond win
+Miami FL vs Rutgers >> 0.6000277400016785 Probability for Rutgers win
+Miami FL vs S Dakota St >> 0.8643616437911987 Probability for S Dakota St win
+Miami FL vs San Diego St >> 0.7536181807518005 Probability for San Diego St win
+Miami FL vs San Francisco >> 0.7637175917625427 Probability for San Francisco win
+Miami FL vs Seton Hall >> 0.5693827271461487 Probability for Seton Hall win
+Miami FL vs St Mary's CA >> 0.8490167260169983 Probability for St Mary's CA win
+Miami FL vs St Peter's >> 0.6518628001213074 Probability for St Peter's win
+Miami FL vs TAM C. Christi >> 0.5901727676391602 Probability for TAM C. Christi win
+Miami FL vs TCU >> 0.7379822134971619 Probability for TCU win
+Miami FL vs Tennessee >> 0.8023713231086731 Probability for Tennessee win
+Miami FL vs Texas >> 0.7594996094703674 Probability for Texas win
+Miami FL vs Texas Tech >> 0.6807021498680115 Probability for Texas Tech win
+Miami FL vs TX Southern >> 0.5811883807182312 Probability for TX Southern win
+Miami FL vs UAB >> 0.7645291686058044 Probability for UAB win
+Miami FL vs UCLA >> 0.8807778358459473 Probability for UCLA win
+Miami FL vs USC >> 0.7892775535583496 Probability for USC win
+Miami FL vs Vermont >> 0.9135646224021912 Probability for Vermont win
+Miami FL vs Villanova >> 0.7837850451469421 Probability for Villanova win
+Miami FL vs Virginia Tech >> 0.7844014167785645 Probability for Virginia Tech win
+Miami FL vs Wisconsin >> 0.6401103734970093 Probability for Wisconsin win
+Miami FL vs Wright St >> 0.5685582160949707 Probability for Wright St win
+Miami FL vs Wyoming >> 0.6933822631835938 Probability for Wyoming win
+Miami FL vs Yale >> 0.6022083759307861 Probability for Yale win
+Michigan vs Michigan St >> 0.7193272709846497 Probability for Michigan St win
+Michigan vs Montana St >> 0.8654456734657288 Probability for Montana St win
+Michigan vs Murray St >> 0.9447397589683533 Probability for Murray St win
+Michigan vs New Mexico St >> 0.8345893621444702 Probability for New Mexico St win
+Michigan vs Norfolk St >> 0.7225057482719421 Probability for Norfolk St win
+Michigan vs North Carolina >> 0.7407848238945007 Probability for North Carolina win
+Michigan vs Notre Dame >> 0.7543863654136658 Probability for Notre Dame win
+Michigan vs Ohio St >> 0.8746562004089355 Probability for Ohio St win
+Michigan vs Providence >> 0.7509211897850037 Probability for Providence win
+Michigan vs Purdue >> 0.8422165513038635 Probability for Purdue win
+Michigan vs Richmond >> 0.7499696612358093 Probability for Richmond win
+Michigan vs Rutgers >> 0.721672773361206 Probability for Rutgers win
+Michigan vs S Dakota St >> 0.9311540722846985 Probability for S Dakota St win
+Michigan vs San Diego St >> 0.8671324253082275 Probability for San Diego St win
+Michigan vs San Francisco >> 0.8541711568832397 Probability for San Francisco win
+Michigan vs Seton Hall >> 0.6930914521217346 Probability for Seton Hall win
+Michigan vs St Mary's CA >> 0.9057008028030396 Probability for St Mary's CA win
+Michigan vs St Peter's >> 0.776779055595398 Probability for St Peter's win
+Michigan vs TAM C. Christi >> 0.7054957151412964 Probability for TAM C. Christi win
+Michigan vs TCU >> 0.8276523351669312 Probability for TCU win
+Michigan vs Tennessee >> 0.9027805328369141 Probability for Tennessee win
+Michigan vs Texas >> 0.8846994638442993 Probability for Texas win
+Michigan vs Texas Tech >> 0.792698323726654 Probability for Texas Tech win
+Michigan vs TX Southern >> 0.725636899471283 Probability for TX Southern win
+Michigan vs UAB >> 0.8705734610557556 Probability for UAB win
+Michigan vs UCLA >> 0.9290261268615723 Probability for UCLA win
+Michigan vs USC >> 0.8616500496864319 Probability for USC win
+Michigan vs Vermont >> 0.9578807353973389 Probability for Vermont win
+Michigan vs Villanova >> 0.8808992505073547 Probability for Villanova win
+Michigan vs Virginia Tech >> 0.8652438521385193 Probability for Virginia Tech win
+Michigan vs Wisconsin >> 0.7685582637786865 Probability for Wisconsin win
+Michigan vs Wright St >> 0.692276656627655 Probability for Wright St win
+Michigan vs Wyoming >> 0.8317406177520752 Probability for Wyoming win
+Michigan vs Yale >> 0.7165360450744629 Probability for Yale win
+Michigan St vs Montana St >> 0.8588531017303467 Probability for Montana St win
+Michigan St vs Murray St >> 0.9457532167434692 Probability for Murray St win
+Michigan St vs New Mexico St >> 0.8297978639602661 Probability for New Mexico St win
+Michigan St vs Norfolk St >> 0.6917886137962341 Probability for Norfolk St win
+Michigan St vs North Carolina >> 0.729888916015625 Probability for North Carolina win
+Michigan St vs Notre Dame >> 0.7418037056922913 Probability for Notre Dame win
+Michigan St vs Ohio St >> 0.869568407535553 Probability for Ohio St win
+Michigan St vs Providence >> 0.7269266247749329 Probability for Providence win
+Michigan St vs Purdue >> 0.829010009765625 Probability for Purdue win
+Michigan St vs Richmond >> 0.7438961863517761 Probability for Richmond win
+Michigan St vs Rutgers >> 0.7018705606460571 Probability for Rutgers win
+Michigan St vs S Dakota St >> 0.9235820174217224 Probability for S Dakota St win
+Michigan St vs San Diego St >> 0.8480619192123413 Probability for San Diego St win
+Michigan St vs San Francisco >> 0.8429098129272461 Probability for San Francisco win
+Michigan St vs Seton Hall >> 0.6834874749183655 Probability for Seton Hall win
+Michigan St vs St Mary's CA >> 0.9063048362731934 Probability for St Mary's CA win
+Michigan St vs St Peter's >> 0.7605795860290527 Probability for St Peter's win
+Michigan St vs TAM C. Christi >> 0.7003198266029358 Probability for TAM C. Christi win
+Michigan St vs TCU >> 0.8080201148986816 Probability for TCU win
+Michigan St vs Tennessee >> 0.8913518786430359 Probability for Tennessee win
+Michigan St vs Texas >> 0.8673915863037109 Probability for Texas win
+Michigan St vs Texas Tech >> 0.796805202960968 Probability for Texas Tech win
+Michigan St vs TX Southern >> 0.7053883075714111 Probability for TX Southern win
+Michigan St vs UAB >> 0.8612195253372192 Probability for UAB win
+Michigan St vs UCLA >> 0.9252925515174866 Probability for UCLA win
+Michigan St vs USC >> 0.8517817258834839 Probability for USC win
+Michigan St vs Vermont >> 0.9541006088256836 Probability for Vermont win
+Michigan St vs Villanova >> 0.8835470676422119 Probability for Villanova win
+Michigan St vs Virginia Tech >> 0.8559122681617737 Probability for Virginia Tech win
+Michigan St vs Wisconsin >> 0.7509080767631531 Probability for Wisconsin win
+Michigan St vs Wright St >> 0.6619122624397278 Probability for Wright St win
+Michigan St vs Wyoming >> 0.8251121044158936 Probability for Wyoming win
+Michigan St vs Yale >> 0.6917641162872314 Probability for Yale win
+Montana St vs Murray St >> 0.8300349712371826 Probability for Murray St win
+Montana St vs New Mexico St >> 0.5951706171035767 Probability for New Mexico St win
+Montana St vs Norfolk St >> 0.5853614211082458 Probability for Montana St win
+Montana St vs North Carolina >> 0.5520689487457275 Probability for Montana St win
+Montana St vs Notre Dame >> 0.5391203761100769 Probability for Montana St win
+Montana St vs Ohio St >> 0.6797287464141846 Probability for Ohio St win
+Montana St vs Providence >> 0.5357183814048767 Probability for Montana St win
+Montana St vs Purdue >> 0.600683867931366 Probability for Purdue win
+Montana St vs Richmond >> 0.5252863168716431 Probability for Montana St win
+Montana St vs Rutgers >> 0.5740893483161926 Probability for Montana St win
+Montana St vs S Dakota St >> 0.7881865501403809 Probability for S Dakota St win
+Montana St vs San Diego St >> 0.6417710185050964 Probability for San Diego St win
+Montana St vs San Francisco >> 0.6214847564697266 Probability for San Francisco win
+Montana St vs Seton Hall >> 0.6055870056152344 Probability for Montana St win
+Montana St vs St Mary's CA >> 0.7387804985046387 Probability for St Mary's CA win
+Montana St vs St Peter's >> 0.5132094025611877 Probability for Montana St win
+Montana St vs TAM C. Christi >> 0.5867606997489929 Probability for Montana St win
+Montana St vs TCU >> 0.5869205594062805 Probability for TCU win
+Montana St vs Tennessee >> 0.7091892957687378 Probability for Tennessee win
+Montana St vs Texas >> 0.676439106464386 Probability for Texas win
+Montana St vs Texas Tech >> 0.5145193934440613 Probability for Texas Tech win
+Montana St vs TX Southern >> 0.5867716073989868 Probability for Montana St win
+Montana St vs UAB >> 0.6524259448051453 Probability for UAB win
+Montana St vs UCLA >> 0.7871997356414795 Probability for UCLA win
+Montana St vs USC >> 0.6566778421401978 Probability for USC win
+Montana St vs Vermont >> 0.8622666001319885 Probability for Vermont win
+Montana St vs Villanova >> 0.6772348284721375 Probability for Villanova win
+Montana St vs Virginia Tech >> 0.6649215817451477 Probability for Virginia Tech win
+Montana St vs Wisconsin >> 0.5213947892189026 Probability for Montana St win
+Montana St vs Wright St >> 0.6089060306549072 Probability for Montana St win
+Montana St vs Wyoming >> 0.58045494556427 Probability for Wyoming win
+Montana St vs Yale >> 0.5824987888336182 Probability for Montana St win
+Murray St vs New Mexico St >> 0.7446911931037903 Probability for Murray St win
+Murray St vs Norfolk St >> 0.8546559810638428 Probability for Murray St win
+Murray St vs North Carolina >> 0.8408446311950684 Probability for Murray St win
+Murray St vs Notre Dame >> 0.844630241394043 Probability for Murray St win
+Murray St vs Ohio St >> 0.6705900430679321 Probability for Murray St win
+Murray St vs Providence >> 0.8303417563438416 Probability for Murray St win
+Murray St vs Purdue >> 0.7442324757575989 Probability for Murray St win
+Murray St vs Richmond >> 0.8315767645835876 Probability for Murray St win
+Murray St vs Rutgers >> 0.8579956293106079 Probability for Murray St win
+Murray St vs S Dakota St >> 0.5484903454780579 Probability for Murray St win
+Murray St vs San Diego St >> 0.7180534601211548 Probability for Murray St win
+Murray St vs San Francisco >> 0.7273005843162537 Probability for Murray St win
+Murray St vs Seton Hall >> 0.8709383606910706 Probability for Murray St win
+Murray St vs St Mary's CA >> 0.6161273121833801 Probability for Murray St win
+Murray St vs St Peter's >> 0.8257887959480286 Probability for Murray St win
+Murray St vs TAM C. Christi >> 0.8698102235794067 Probability for Murray St win
+Murray St vs TCU >> 0.7452253103256226 Probability for Murray St win
+Murray St vs Tennessee >> 0.6343621015548706 Probability for Murray St win
+Murray St vs Texas >> 0.6721398830413818 Probability for Murray St win
+Murray St vs Texas Tech >> 0.8010557293891907 Probability for Murray St win
+Murray St vs TX Southern >> 0.8612661957740784 Probability for Murray St win
+Murray St vs UAB >> 0.6993653774261475 Probability for Murray St win
+Murray St vs UCLA >> 0.5403546690940857 Probability for Murray St win
+Murray St vs USC >> 0.7064208984375 Probability for Murray St win
+Murray St vs Vermont >> 0.5942581295967102 Probability for Vermont win
+Murray St vs Villanova >> 0.6686374545097351 Probability for Murray St win
+Murray St vs Virginia Tech >> 0.6827874183654785 Probability for Murray St win
+Murray St vs Wisconsin >> 0.823862612247467 Probability for Murray St win
+Murray St vs Wright St >> 0.8886748552322388 Probability for Murray St win
+Murray St vs Wyoming >> 0.7548816204071045 Probability for Murray St win
+Murray St vs Yale >> 0.8655033707618713 Probability for Murray St win
+New Mexico St vs Norfolk St >> 0.5435380339622498 Probability for Norfolk St win
+New Mexico St vs North Carolina >> 0.5761988162994385 Probability for North Carolina win
+New Mexico St vs Notre Dame >> 0.5733253359794617 Probability for Notre Dame win
+New Mexico St vs Ohio St >> 0.7857390642166138 Probability for Ohio St win
+New Mexico St vs Providence >> 0.5805593132972717 Probability for Providence win
+New Mexico St vs Purdue >> 0.7108803987503052 Probability for Purdue win
+New Mexico St vs Richmond >> 0.5817893743515015 Probability for Richmond win
+New Mexico St vs Rutgers >> 0.5130921006202698 Probability for Rutgers win
+New Mexico St vs S Dakota St >> 0.8534063696861267 Probability for S Dakota St win
+New Mexico St vs San Diego St >> 0.7430806756019592 Probability for San Diego St win
+New Mexico St vs San Francisco >> 0.7341799139976501 Probability for San Francisco win
+New Mexico St vs Seton Hall >> 0.5031512975692749 Probability for Seton Hall win
+New Mexico St vs St Mary's CA >> 0.8223512768745422 Probability for St Mary's CA win
+New Mexico St vs St Peter's >> 0.597049355506897 Probability for St Peter's win
+New Mexico St vs TAM C. Christi >> 0.5038837790489197 Probability for TAM C. Christi win
+New Mexico St vs TCU >> 0.7033882141113281 Probability for TCU win
+New Mexico St vs Tennessee >> 0.8074746131896973 Probability for Tennessee win
+New Mexico St vs Texas >> 0.7774866223335266 Probability for Texas win
+New Mexico St vs Texas Tech >> 0.6541761755943298 Probability for Texas Tech win
+New Mexico St vs TX Southern >> 0.5204307436943054 Probability for TX Southern win
+New Mexico St vs UAB >> 0.7609197497367859 Probability for UAB win
+New Mexico St vs UCLA >> 0.8604166507720947 Probability for UCLA win
+New Mexico St vs USC >> 0.7418694496154785 Probability for USC win
+New Mexico St vs Vermont >> 0.9102981686592102 Probability for Vermont win
+New Mexico St vs Villanova >> 0.7766328454017639 Probability for Villanova win
+New Mexico St vs Virginia Tech >> 0.7663516998291016 Probability for Virginia Tech win
+New Mexico St vs Wisconsin >> 0.58571457862854 Probability for Wisconsin win
+New Mexico St vs Wright St >> 0.5185412764549255 Probability for New Mexico St win
+New Mexico St vs Wyoming >> 0.7074044346809387 Probability for Wyoming win
+New Mexico St vs Yale >> 0.5131296515464783 Probability for Yale win
+Norfolk St vs North Carolina >> 0.5864343643188477 Probability for North Carolina win
+Norfolk St vs Notre Dame >> 0.5962401032447815 Probability for Notre Dame win
+Norfolk St vs Ohio St >> 0.7954583168029785 Probability for Ohio St win
+Norfolk St vs Providence >> 0.5881046652793884 Probability for Providence win
+Norfolk St vs Purdue >> 0.7209529280662537 Probability for Purdue win
+Norfolk St vs Richmond >> 0.5949282050132751 Probability for Richmond win
+Norfolk St vs Rutgers >> 0.5399901270866394 Probability for Rutgers win
+Norfolk St vs S Dakota St >> 0.8658604025840759 Probability for S Dakota St win
+Norfolk St vs San Diego St >> 0.7576120495796204 Probability for San Diego St win
+Norfolk St vs San Francisco >> 0.7404466271400452 Probability for San Francisco win
+Norfolk St vs Seton Hall >> 0.5284563899040222 Probability for Seton Hall win
+Norfolk St vs St Mary's CA >> 0.8304031491279602 Probability for St Mary's CA win
+Norfolk St vs St Peter's >> 0.6208572387695312 Probability for St Peter's win
+Norfolk St vs TAM C. Christi >> 0.5284863114356995 Probability for TAM C. Christi win
+Norfolk St vs TCU >> 0.7044600248336792 Probability for TCU win
+Norfolk St vs Tennessee >> 0.8145958781242371 Probability for Tennessee win
+Norfolk St vs Texas >> 0.7874022126197815 Probability for Texas win
+Norfolk St vs Texas Tech >> 0.6510543823242188 Probability for Texas Tech win
+Norfolk St vs TX Southern >> 0.5373672246932983 Probability for TX Southern win
+Norfolk St vs UAB >> 0.7681345343589783 Probability for UAB win
+Norfolk St vs UCLA >> 0.8661444783210754 Probability for UCLA win
+Norfolk St vs USC >> 0.748839259147644 Probability for USC win
+Norfolk St vs Vermont >> 0.9142938852310181 Probability for Vermont win
+Norfolk St vs Villanova >> 0.7876228094100952 Probability for Villanova win
+Norfolk St vs Virginia Tech >> 0.7718612551689148 Probability for Virginia Tech win
+Norfolk St vs Wisconsin >> 0.6029033064842224 Probability for Wisconsin win
+Norfolk St vs Wright St >> 0.5016374588012695 Probability for Wright St win
+Norfolk St vs Wyoming >> 0.7139452695846558 Probability for Wyoming win
+Norfolk St vs Yale >> 0.5407682061195374 Probability for Yale win
+North Carolina vs Notre Dame >> 0.6186686158180237 Probability for Notre Dame win
+North Carolina vs Ohio St >> 0.8082404732704163 Probability for Ohio St win
+North Carolina vs Providence >> 0.6145164370536804 Probability for Providence win
+North Carolina vs Purdue >> 0.7288198471069336 Probability for Purdue win
+North Carolina vs Richmond >> 0.6147655248641968 Probability for Richmond win
+North Carolina vs Rutgers >> 0.5561936497688293 Probability for Rutgers win
+North Carolina vs S Dakota St >> 0.863571047782898 Probability for S Dakota St win
+North Carolina vs San Diego St >> 0.7615827918052673 Probability for San Diego St win
+North Carolina vs San Francisco >> 0.7408040165901184 Probability for San Francisco win
+North Carolina vs Seton Hall >> 0.5321705937385559 Probability for Seton Hall win
+North Carolina vs St Mary's CA >> 0.8292118310928345 Probability for St Mary's CA win
+North Carolina vs St Peter's >> 0.6232001185417175 Probability for St Peter's win
+North Carolina vs TAM C. Christi >> 0.5465251803398132 Probability for TAM C. Christi win
+North Carolina vs TCU >> 0.7161709070205688 Probability for TCU win
+North Carolina vs Tennessee >> 0.823754608631134 Probability for Tennessee win
+North Carolina vs Texas >> 0.7941248416900635 Probability for Texas win
+North Carolina vs Texas Tech >> 0.664100706577301 Probability for Texas Tech win
+North Carolina vs TX Southern >> 0.5617583990097046 Probability for TX Southern win
+North Carolina vs UAB >> 0.7746280431747437 Probability for UAB win
+North Carolina vs UCLA >> 0.8705014586448669 Probability for UCLA win
+North Carolina vs USC >> 0.7541855573654175 Probability for USC win
+North Carolina vs Vermont >> 0.9169489145278931 Probability for Vermont win
+North Carolina vs Villanova >> 0.7855046391487122 Probability for Villanova win
+North Carolina vs Virginia Tech >> 0.761786937713623 Probability for Virginia Tech win
+North Carolina vs Wisconsin >> 0.6272419095039368 Probability for Wisconsin win
+North Carolina vs Wright St >> 0.5076146125793457 Probability for Wright St win
+North Carolina vs Wyoming >> 0.7174122929573059 Probability for Wyoming win
+North Carolina vs Yale >> 0.5466049909591675 Probability for Yale win
+Notre Dame vs Ohio St >> 0.8679623007774353 Probability for Ohio St win
+Notre Dame vs Providence >> 0.7184525728225708 Probability for Providence win
+Notre Dame vs Purdue >> 0.824501633644104 Probability for Purdue win
+Notre Dame vs Richmond >> 0.7118241190910339 Probability for Richmond win
+Notre Dame vs Rutgers >> 0.6794044375419617 Probability for Rutgers win
+Notre Dame vs S Dakota St >> 0.9145371317863464 Probability for S Dakota St win
+Notre Dame vs San Diego St >> 0.8398104906082153 Probability for San Diego St win
+Notre Dame vs San Francisco >> 0.8358142375946045 Probability for San Francisco win
+Notre Dame vs Seton Hall >> 0.6611514687538147 Probability for Seton Hall win
+Notre Dame vs St Mary's CA >> 0.893897533416748 Probability for St Mary's CA win
+Notre Dame vs St Peter's >> 0.7357161045074463 Probability for St Peter's win
+Notre Dame vs TAM C. Christi >> 0.6513223052024841 Probability for TAM C. Christi win
+Notre Dame vs TCU >> 0.8082969188690186 Probability for TCU win
+Notre Dame vs Tennessee >> 0.8817628622055054 Probability for Tennessee win
+Notre Dame vs Texas >> 0.8569217324256897 Probability for Texas win
+Notre Dame vs Texas Tech >> 0.7754518985748291 Probability for Texas Tech win
+Notre Dame vs TX Southern >> 0.6571112871170044 Probability for TX Southern win
+Notre Dame vs UAB >> 0.8502741456031799 Probability for UAB win
+Notre Dame vs UCLA >> 0.9205206632614136 Probability for UCLA win
+Notre Dame vs USC >> 0.8409326076507568 Probability for USC win
+Notre Dame vs Vermont >> 0.9509656429290771 Probability for Vermont win
+Notre Dame vs Villanova >> 0.8712267279624939 Probability for Villanova win
+Notre Dame vs Virginia Tech >> 0.8600271344184875 Probability for Virginia Tech win
+Notre Dame vs Wisconsin >> 0.7097088694572449 Probability for Wisconsin win
+Notre Dame vs Wright St >> 0.6559207439422607 Probability for Wright St win
+Notre Dame vs Wyoming >> 0.8095968961715698 Probability for Wyoming win
+Notre Dame vs Yale >> 0.6799545884132385 Probability for Yale win
+Ohio St vs Providence >> 0.6169888973236084 Probability for Ohio St win
+Ohio St vs Purdue >> 0.5425442457199097 Probability for Purdue win
+Ohio St vs Richmond >> 0.6012650728225708 Probability for Ohio St win
+Ohio St vs Rutgers >> 0.6649984121322632 Probability for Ohio St win
+Ohio St vs S Dakota St >> 0.7182679176330566 Probability for S Dakota St win
+Ohio St vs San Diego St >> 0.5548337697982788 Probability for San Diego St win
+Ohio St vs San Francisco >> 0.5505923628807068 Probability for San Francisco win
+Ohio St vs Seton Hall >> 0.6726608872413635 Probability for Ohio St win
+Ohio St vs St Mary's CA >> 0.6777108311653137 Probability for St Mary's CA win
+Ohio St vs St Peter's >> 0.5885036587715149 Probability for Ohio St win
+Ohio St vs TAM C. Christi >> 0.6927990317344666 Probability for Ohio St win
+Ohio St vs TCU >> 0.5201218128204346 Probability for TCU win
+Ohio St vs Tennessee >> 0.6527901887893677 Probability for Tennessee win
+Ohio St vs Texas >> 0.5954945087432861 Probability for Texas win
+Ohio St vs Texas Tech >> 0.5467278957366943 Probability for Ohio St win
+Ohio St vs TX Southern >> 0.6726061105728149 Probability for Ohio St win
+Ohio St vs UAB >> 0.5995291471481323 Probability for UAB win
+Ohio St vs UCLA >> 0.7327301502227783 Probability for UCLA win
+Ohio St vs USC >> 0.5532674193382263 Probability for USC win
+Ohio St vs Vermont >> 0.818524181842804 Probability for Vermont win
+Ohio St vs Villanova >> 0.6481571793556213 Probability for Villanova win
+Ohio St vs Virginia Tech >> 0.6151807904243469 Probability for Virginia Tech win
+Ohio St vs Wisconsin >> 0.6279382109642029 Probability for Ohio St win
+Ohio St vs Wright St >> 0.7071306705474854 Probability for Ohio St win
+Ohio St vs Wyoming >> 0.5134268999099731 Probability for Wyoming win
+Ohio St vs Yale >> 0.6639942526817322 Probability for Ohio St win
+Providence vs Purdue >> 0.7788589000701904 Probability for Purdue win
+Providence vs Richmond >> 0.6676566004753113 Probability for Richmond win
+Providence vs Rutgers >> 0.649364173412323 Probability for Rutgers win
+Providence vs S Dakota St >> 0.8960909247398376 Probability for S Dakota St win
+Providence vs San Diego St >> 0.8069305419921875 Probability for San Diego St win
+Providence vs San Francisco >> 0.8046042919158936 Probability for San Francisco win
+Providence vs Seton Hall >> 0.6242547631263733 Probability for Seton Hall win
+Providence vs St Mary's CA >> 0.8756513595581055 Probability for St Mary's CA win
+Providence vs St Peter's >> 0.7035327553749084 Probability for St Peter's win
+Providence vs TAM C. Christi >> 0.6389307379722595 Probability for TAM C. Christi win
+Providence vs TCU >> 0.7711594700813293 Probability for TCU win
+Providence vs Tennessee >> 0.8451125621795654 Probability for Tennessee win
+Providence vs Texas >> 0.8132160305976868 Probability for Texas win
+Providence vs Texas Tech >> 0.7232709527015686 Probability for Texas Tech win
+Providence vs TX Southern >> 0.6362733244895935 Probability for TX Southern win
+Providence vs UAB >> 0.8126658797264099 Probability for UAB win
+Providence vs UCLA >> 0.9025569558143616 Probability for UCLA win
+Providence vs USC >> 0.8181797862052917 Probability for USC win
+Providence vs Vermont >> 0.9356637597084045 Probability for Vermont win
+Providence vs Villanova >> 0.8214587569236755 Probability for Villanova win
+Providence vs Virginia Tech >> 0.816474974155426 Probability for Virginia Tech win
+Providence vs Wisconsin >> 0.6919500231742859 Probability for Wisconsin win
+Providence vs Wright St >> 0.6203879714012146 Probability for Wright St win
+Providence vs Wyoming >> 0.74476158618927 Probability for Wyoming win
+Providence vs Yale >> 0.6427519917488098 Probability for Yale win
+Purdue vs Richmond >> 0.5387999415397644 Probability for Purdue win
+Purdue vs Rutgers >> 0.5845836400985718 Probability for Purdue win
+Purdue vs S Dakota St >> 0.7831096053123474 Probability for S Dakota St win
+Purdue vs San Diego St >> 0.652576744556427 Probability for San Diego St win
+Purdue vs San Francisco >> 0.6329466700553894 Probability for San Francisco win
+Purdue vs Seton Hall >> 0.6034355163574219 Probability for Purdue win
+Purdue vs St Mary's CA >> 0.735761821269989 Probability for St Mary's CA win
+Purdue vs St Peter's >> 0.5101523995399475 Probability for Purdue win
+Purdue vs TAM C. Christi >> 0.6036437153816223 Probability for Purdue win
+Purdue vs TCU >> 0.6003378033638 Probability for TCU win
+Purdue vs Tennessee >> 0.7397264838218689 Probability for Tennessee win
+Purdue vs Texas >> 0.6776636838912964 Probability for Texas win
+Purdue vs Texas Tech >> 0.531772255897522 Probability for Texas Tech win
+Purdue vs TX Southern >> 0.5714864134788513 Probability for Purdue win
+Purdue vs UAB >> 0.6612061858177185 Probability for UAB win
+Purdue vs UCLA >> 0.7969828844070435 Probability for UCLA win
+Purdue vs USC >> 0.6505711078643799 Probability for USC win
+Purdue vs Vermont >> 0.8638820052146912 Probability for Vermont win
+Purdue vs Villanova >> 0.682931661605835 Probability for Villanova win
+Purdue vs Virginia Tech >> 0.6615055799484253 Probability for Virginia Tech win
+Purdue vs Wisconsin >> 0.5113630294799805 Probability for Purdue win
+Purdue vs Wright St >> 0.6592013835906982 Probability for Purdue win
+Purdue vs Wyoming >> 0.6042919754981995 Probability for Wyoming win
+Purdue vs Yale >> 0.6160266399383545 Probability for Purdue win
+Richmond vs Rutgers >> 0.587805449962616 Probability for Rutgers win
+Richmond vs S Dakota St >> 0.8734381198883057 Probability for S Dakota St win
+Richmond vs San Diego St >> 0.7640172243118286 Probability for San Diego St win
+Richmond vs San Francisco >> 0.7513231039047241 Probability for San Francisco win
+Richmond vs Seton Hall >> 0.5477707386016846 Probability for Seton Hall win
+Richmond vs St Mary's CA >> 0.839004635810852 Probability for St Mary's CA win
+Richmond vs St Peter's >> 0.641347348690033 Probability for St Peter's win
+Richmond vs TAM C. Christi >> 0.5534927845001221 Probability for TAM C. Christi win
+Richmond vs TCU >> 0.7211732864379883 Probability for TCU win
+Richmond vs Tennessee >> 0.8234270215034485 Probability for Tennessee win
+Richmond vs Texas >> 0.7833014130592346 Probability for Texas win
+Richmond vs Texas Tech >> 0.6637709140777588 Probability for Texas Tech win
+Richmond vs TX Southern >> 0.5752943158149719 Probability for TX Southern win
+Richmond vs UAB >> 0.7784403562545776 Probability for UAB win
+Richmond vs UCLA >> 0.8744513392448425 Probability for UCLA win
+Richmond vs USC >> 0.7774788737297058 Probability for USC win
+Richmond vs Vermont >> 0.9208670854568481 Probability for Vermont win
+Richmond vs Villanova >> 0.8075863718986511 Probability for Villanova win
+Richmond vs Virginia Tech >> 0.7868808507919312 Probability for Virginia Tech win
+Richmond vs Wisconsin >> 0.6291013360023499 Probability for Wisconsin win
+Richmond vs Wright St >> 0.5417020320892334 Probability for Wright St win
+Richmond vs Wyoming >> 0.7220491170883179 Probability for Wyoming win
+Richmond vs Yale >> 0.573157787322998 Probability for Yale win
+Rutgers vs S Dakota St >> 0.9471331834793091 Probability for S Dakota St win
+Rutgers vs San Diego St >> 0.8957982659339905 Probability for San Diego St win
+Rutgers vs San Francisco >> 0.884891152381897 Probability for San Francisco win
+Rutgers vs Seton Hall >> 0.7611387372016907 Probability for Seton Hall win
+Rutgers vs St Mary's CA >> 0.9283760190010071 Probability for St Mary's CA win
+Rutgers vs St Peter's >> 0.8143906593322754 Probability for St Peter's win
+Rutgers vs TAM C. Christi >> 0.7622480392456055 Probability for TAM C. Christi win
+Rutgers vs TCU >> 0.872107207775116 Probability for TCU win
+Rutgers vs Tennessee >> 0.9226397275924683 Probability for Tennessee win
+Rutgers vs Texas >> 0.9079826474189758 Probability for Texas win
+Rutgers vs Texas Tech >> 0.8583686947822571 Probability for Texas Tech win
+Rutgers vs TX Southern >> 0.7671899199485779 Probability for TX Southern win
+Rutgers vs UAB >> 0.9001734852790833 Probability for UAB win
+Rutgers vs UCLA >> 0.9489731192588806 Probability for UCLA win
+Rutgers vs USC >> 0.8972774147987366 Probability for USC win
+Rutgers vs Vermont >> 0.965796172618866 Probability for Vermont win
+Rutgers vs Villanova >> 0.9182343482971191 Probability for Villanova win
+Rutgers vs Virginia Tech >> 0.9015898108482361 Probability for Virginia Tech win
+Rutgers vs Wisconsin >> 0.8110839128494263 Probability for Wisconsin win
+Rutgers vs Wright St >> 0.7523852586746216 Probability for Wright St win
+Rutgers vs Wyoming >> 0.873255729675293 Probability for Wyoming win
+Rutgers vs Yale >> 0.777707576751709 Probability for Yale win
+S Dakota St vs San Diego St >> 0.5579413771629333 Probability for S Dakota St win
+S Dakota St vs San Francisco >> 0.5536969304084778 Probability for S Dakota St win
+S Dakota St vs Seton Hall >> 0.7534632682800293 Probability for S Dakota St win
+S Dakota St vs St Mary's CA >> 0.5860104560852051 Probability for St Mary's CA win
+S Dakota St vs St Peter's >> 0.6947310566902161 Probability for S Dakota St win
+S Dakota St vs TAM C. Christi >> 0.7635945081710815 Probability for S Dakota St win
+S Dakota St vs TCU >> 0.5796416401863098 Probability for S Dakota St win
+S Dakota St vs Tennessee >> 0.5335399508476257 Probability for Tennessee win
+S Dakota St vs Texas >> 0.5039923191070557 Probability for S Dakota St win
+S Dakota St vs Texas Tech >> 0.6533827185630798 Probability for S Dakota St win
+S Dakota St vs TX Southern >> 0.7514475584030151 Probability for S Dakota St win
+S Dakota St vs UAB >> 0.5215818285942078 Probability for S Dakota St win
+S Dakota St vs UCLA >> 0.6495848894119263 Probability for UCLA win
+S Dakota St vs USC >> 0.5172873139381409 Probability for S Dakota St win
+S Dakota St vs Vermont >> 0.7422124743461609 Probability for Vermont win
+S Dakota St vs Villanova >> 0.5103054046630859 Probability for S Dakota St win
+S Dakota St vs Virginia Tech >> 0.5159989595413208 Probability for S Dakota St win
+S Dakota St vs Wisconsin >> 0.6952623724937439 Probability for S Dakota St win
+S Dakota St vs Wright St >> 0.7653669714927673 Probability for S Dakota St win
+S Dakota St vs Wyoming >> 0.5869196057319641 Probability for S Dakota St win
+S Dakota St vs Yale >> 0.7401139140129089 Probability for S Dakota St win
+San Diego St vs San Francisco >> 0.6664859056472778 Probability for San Francisco win
+San Diego St vs Seton Hall >> 0.5691844820976257 Probability for San Diego St win
+San Diego St vs St Mary's CA >> 0.7749444842338562 Probability for St Mary's CA win
+San Diego St vs St Peter's >> 0.5325927734375 Probability for St Peter's win
+San Diego St vs TAM C. Christi >> 0.5323236584663391 Probability for San Diego St win
+San Diego St vs TCU >> 0.6352684497833252 Probability for TCU win
+San Diego St vs Tennessee >> 0.7548877000808716 Probability for Tennessee win
+San Diego St vs Texas >> 0.7056660056114197 Probability for Texas win
+San Diego St vs Texas Tech >> 0.5858242511749268 Probability for Texas Tech win
+San Diego St vs TX Southern >> 0.5348412394523621 Probability for San Diego St win
+San Diego St vs UAB >> 0.6843538880348206 Probability for UAB win
+San Diego St vs UCLA >> 0.8209691047668457 Probability for UCLA win
+San Diego St vs USC >> 0.6714320778846741 Probability for USC win
+San Diego St vs Vermont >> 0.8796366453170776 Probability for Vermont win
+San Diego St vs Villanova >> 0.7345744371414185 Probability for Villanova win
+San Diego St vs Virginia Tech >> 0.7042202949523926 Probability for Virginia Tech win
+San Diego St vs Wisconsin >> 0.5269033312797546 Probability for Wisconsin win
+San Diego St vs Wright St >> 0.5806396007537842 Probability for San Diego St win
+San Diego St vs Wyoming >> 0.6215499043464661 Probability for Wyoming win
+San Diego St vs Yale >> 0.5385450124740601 Probability for San Diego St win
+San Francisco vs Seton Hall >> 0.6119691729545593 Probability for San Francisco win
+San Francisco vs St Mary's CA >> 0.7252252697944641 Probability for St Mary's CA win
+San Francisco vs St Peter's >> 0.5277621150016785 Probability for San Francisco win
+San Francisco vs TAM C. Christi >> 0.6076877117156982 Probability for San Francisco win
+San Francisco vs TCU >> 0.5723158121109009 Probability for TCU win
+San Francisco vs Tennessee >> 0.7043144702911377 Probability for Tennessee win
+San Francisco vs Texas >> 0.6768331527709961 Probability for Texas win
+San Francisco vs Texas Tech >> 0.5108174681663513 Probability for Texas Tech win
+San Francisco vs TX Southern >> 0.5925655364990234 Probability for San Francisco win
+San Francisco vs UAB >> 0.6490995287895203 Probability for UAB win
+San Francisco vs UCLA >> 0.7793543934822083 Probability for UCLA win
+San Francisco vs USC >> 0.6302703022956848 Probability for USC win
+San Francisco vs Vermont >> 0.8534305095672607 Probability for Vermont win
+San Francisco vs Villanova >> 0.6691768765449524 Probability for Villanova win
+San Francisco vs Virginia Tech >> 0.6463029384613037 Probability for Virginia Tech win
+San Francisco vs Wisconsin >> 0.5285141468048096 Probability for San Francisco win
+San Francisco vs Wright St >> 0.642082929611206 Probability for San Francisco win
+San Francisco vs Wyoming >> 0.5796593427658081 Probability for Wyoming win
+San Francisco vs Yale >> 0.5990878939628601 Probability for San Francisco win
+Seton Hall vs St Mary's CA >> 0.9107420444488525 Probability for St Mary's CA win
+Seton Hall vs St Peter's >> 0.7725815176963806 Probability for St Peter's win
+Seton Hall vs TAM C. Christi >> 0.7071545720100403 Probability for TAM C. Christi win
+Seton Hall vs TCU >> 0.8271255493164062 Probability for TCU win
+Seton Hall vs Tennessee >> 0.9010450839996338 Probability for Tennessee win
+Seton Hall vs Texas >> 0.8812952637672424 Probability for Texas win
+Seton Hall vs Texas Tech >> 0.8030039072036743 Probability for Texas Tech win
+Seton Hall vs TX Southern >> 0.7175958156585693 Probability for TX Southern win
+Seton Hall vs UAB >> 0.8708845973014832 Probability for UAB win
+Seton Hall vs UCLA >> 0.9288339018821716 Probability for UCLA win
+Seton Hall vs USC >> 0.862766683101654 Probability for USC win
+Seton Hall vs Vermont >> 0.95799320936203 Probability for Vermont win
+Seton Hall vs Villanova >> 0.8863286972045898 Probability for Villanova win
+Seton Hall vs Virginia Tech >> 0.8736034631729126 Probability for Virginia Tech win
+Seton Hall vs Wisconsin >> 0.7574564218521118 Probability for Wisconsin win
+Seton Hall vs Wright St >> 0.6938916444778442 Probability for Wright St win
+Seton Hall vs Wyoming >> 0.8355039358139038 Probability for Wyoming win
+Seton Hall vs Yale >> 0.7180041670799255 Probability for Yale win
+St Mary's CA vs St Peter's >> 0.5192340016365051 Probability for St Peter's win
+St Mary's CA vs TAM C. Christi >> 0.5856854319572449 Probability for St Mary's CA win
+St Mary's CA vs TCU >> 0.6174854636192322 Probability for TCU win
+St Mary's CA vs Tennessee >> 0.7520464658737183 Probability for Tennessee win
+St Mary's CA vs Texas >> 0.7178570032119751 Probability for Texas win
+St Mary's CA vs Texas Tech >> 0.5615591406822205 Probability for Texas Tech win
+St Mary's CA vs TX Southern >> 0.5480409860610962 Probability for St Mary's CA win
+St Mary's CA vs UAB >> 0.6982658505439758 Probability for UAB win
+St Mary's CA vs UCLA >> 0.8086048364639282 Probability for UCLA win
+St Mary's CA vs USC >> 0.6715660691261292 Probability for USC win
+St Mary's CA vs Vermont >> 0.87967848777771 Probability for Vermont win
+St Mary's CA vs Villanova >> 0.7196640968322754 Probability for Villanova win
+St Mary's CA vs Virginia Tech >> 0.694823145866394 Probability for Virginia Tech win
+St Mary's CA vs Wisconsin >> 0.5188695788383484 Probability for Wisconsin win
+St Mary's CA vs Wright St >> 0.6124821305274963 Probability for St Mary's CA win
+St Mary's CA vs Wyoming >> 0.634333074092865 Probability for Wyoming win
+St Mary's CA vs Yale >> 0.5527538061141968 Probability for St Mary's CA win
+St Peter's vs TAM C. Christi >> 0.5622869729995728 Probability for TAM C. Christi win
+St Peter's vs TCU >> 0.7172650098800659 Probability for TCU win
+St Peter's vs Tennessee >> 0.8187122344970703 Probability for Tennessee win
+St Peter's vs Texas >> 0.7784264087677002 Probability for Texas win
+St Peter's vs Texas Tech >> 0.6588853597640991 Probability for Texas Tech win
+St Peter's vs TX Southern >> 0.5649846792221069 Probability for TX Southern win
+St Peter's vs UAB >> 0.7578087449073792 Probability for UAB win
+St Peter's vs UCLA >> 0.8675649762153625 Probability for UCLA win
+St Peter's vs USC >> 0.7677083015441895 Probability for USC win
+St Peter's vs Vermont >> 0.9158394932746887 Probability for Vermont win
+St Peter's vs Villanova >> 0.8033714294433594 Probability for Villanova win
+St Peter's vs Virginia Tech >> 0.7778679132461548 Probability for Virginia Tech win
+St Peter's vs Wisconsin >> 0.6262803673744202 Probability for Wisconsin win
+St Peter's vs Wright St >> 0.5334098935127258 Probability for Wright St win
+St Peter's vs Wyoming >> 0.7012263536453247 Probability for Wyoming win
+St Peter's vs Yale >> 0.572827160358429 Probability for Yale win
+TAM C. Christi vs TCU >> 0.857990562915802 Probability for TCU win
+TAM C. Christi vs Tennessee >> 0.9112117290496826 Probability for Tennessee win
+TAM C. Christi vs Texas >> 0.8872562050819397 Probability for Texas win
+TAM C. Christi vs Texas Tech >> 0.839698314666748 Probability for Texas Tech win
+TAM C. Christi vs TX Southern >> 0.7431700825691223 Probability for TX Southern win
+TAM C. Christi vs UAB >> 0.8868383169174194 Probability for UAB win
+TAM C. Christi vs UCLA >> 0.9405049085617065 Probability for UCLA win
+TAM C. Christi vs USC >> 0.8896413445472717 Probability for USC win
+TAM C. Christi vs Vermont >> 0.9640544652938843 Probability for Vermont win
+TAM C. Christi vs Villanova >> 0.9029383659362793 Probability for Villanova win
+TAM C. Christi vs Virginia Tech >> 0.8949651122093201 Probability for Virginia Tech win
+TAM C. Christi vs Wisconsin >> 0.7829580903053284 Probability for Wisconsin win
+TAM C. Christi vs Wright St >> 0.7302032709121704 Probability for Wright St win
+TAM C. Christi vs Wyoming >> 0.8425144553184509 Probability for Wyoming win
+TAM C. Christi vs Yale >> 0.7606899738311768 Probability for Yale win
+TCU vs Tennessee >> 0.8264020681381226 Probability for Tennessee win
+TCU vs Texas >> 0.7912084460258484 Probability for Texas win
+TCU vs Texas Tech >> 0.6813440322875977 Probability for Texas Tech win
+TCU vs TX Southern >> 0.5771546363830566 Probability for TX Southern win
+TCU vs UAB >> 0.7796229720115662 Probability for UAB win
+TCU vs UCLA >> 0.8817892074584961 Probability for UCLA win
+TCU vs USC >> 0.7879502177238464 Probability for USC win
+TCU vs Vermont >> 0.9229748249053955 Probability for Vermont win
+TCU vs Villanova >> 0.7977684140205383 Probability for Villanova win
+TCU vs Virginia Tech >> 0.7915648221969604 Probability for Virginia Tech win
+TCU vs Wisconsin >> 0.6426856517791748 Probability for Wisconsin win
+TCU vs Wright St >> 0.5709124207496643 Probability for Wright St win
+TCU vs Wyoming >> 0.7136389017105103 Probability for Wyoming win
+TCU vs Yale >> 0.5980703234672546 Probability for Yale win
+Tennessee vs Texas >> 0.5756481885910034 Probability for Texas win
+Tennessee vs Texas Tech >> 0.5802619457244873 Probability for Tennessee win
+Tennessee vs TX Southern >> 0.6780010461807251 Probability for Tennessee win
+Tennessee vs UAB >> 0.5405599474906921 Probability for UAB win
+Tennessee vs UCLA >> 0.6967588067054749 Probability for UCLA win
+Tennessee vs USC >> 0.528243899345398 Probability for USC win
+Tennessee vs Vermont >> 0.8048203587532043 Probability for Vermont win
+Tennessee vs Villanova >> 0.5935268402099609 Probability for Villanova win
+Tennessee vs Virginia Tech >> 0.5578382015228271 Probability for Virginia Tech win
+Tennessee vs Wisconsin >> 0.6237857341766357 Probability for Tennessee win
+Tennessee vs Wright St >> 0.7295112013816833 Probability for Tennessee win
+Tennessee vs Wyoming >> 0.529536247253418 Probability for Tennessee win
+Tennessee vs Yale >> 0.6992480158805847 Probability for Tennessee win
+Texas vs Texas Tech >> 0.5108823776245117 Probability for Texas win
+Texas vs TX Southern >> 0.6121076345443726 Probability for Texas win
+Texas vs UAB >> 0.6238350868225098 Probability for UAB win
+Texas vs UCLA >> 0.7619624733924866 Probability for UCLA win
+Texas vs USC >> 0.5880366563796997 Probability for USC win
+Texas vs Vermont >> 0.8429792523384094 Probability for Vermont win
+Texas vs Villanova >> 0.6682773232460022 Probability for Villanova win
+Texas vs Virginia Tech >> 0.64029860496521 Probability for Virginia Tech win
+Texas vs Wisconsin >> 0.5632359981536865 Probability for Texas win
+Texas vs Wright St >> 0.6916064620018005 Probability for Texas win
+Texas vs Wyoming >> 0.5598509907722473 Probability for Wyoming win
+Texas vs Yale >> 0.6281075477600098 Probability for Texas win
+Texas Tech vs TX Southern >> 0.5663520097732544 Probability for Texas Tech win
+Texas Tech vs UAB >> 0.6635591387748718 Probability for UAB win
+Texas Tech vs UCLA >> 0.7994908690452576 Probability for UCLA win
+Texas Tech vs USC >> 0.6453316807746887 Probability for USC win
+Texas Tech vs Vermont >> 0.8619452714920044 Probability for Vermont win
+Texas Tech vs Villanova >> 0.7115775942802429 Probability for Villanova win
+Texas Tech vs Virginia Tech >> 0.6860219836235046 Probability for Virginia Tech win
+Texas Tech vs Wisconsin >> 0.5086128115653992 Probability for Texas Tech win
+Texas Tech vs Wright St >> 0.6495298743247986 Probability for Texas Tech win
+Texas Tech vs Wyoming >> 0.5980208516120911 Probability for Wyoming win
+Texas Tech vs Yale >> 0.6086633801460266 Probability for Texas Tech win
+TX Southern vs UAB >> 0.8660785555839539 Probability for UAB win
+TX Southern vs UCLA >> 0.9258614182472229 Probability for UCLA win
+TX Southern vs USC >> 0.8479892611503601 Probability for USC win
+TX Southern vs Vermont >> 0.9544028043746948 Probability for Vermont win
+TX Southern vs Villanova >> 0.8787599205970764 Probability for Villanova win
+TX Southern vs Virginia Tech >> 0.8698928356170654 Probability for Virginia Tech win
+TX Southern vs Wisconsin >> 0.7555621862411499 Probability for Wisconsin win
+TX Southern vs Wright St >> 0.6656870245933533 Probability for Wright St win
+TX Southern vs Wyoming >> 0.8199065327644348 Probability for Wyoming win
+TX Southern vs Yale >> 0.7026172280311584 Probability for Yale win
+UAB vs UCLA >> 0.8302964568138123 Probability for UCLA win
+UAB vs USC >> 0.706159234046936 Probability for USC win
+UAB vs Vermont >> 0.8902522921562195 Probability for Vermont win
+UAB vs Villanova >> 0.7329387068748474 Probability for Villanova win
+UAB vs Virginia Tech >> 0.7245029807090759 Probability for Virginia Tech win
+UAB vs Wisconsin >> 0.5409330129623413 Probability for Wisconsin win
+UAB vs Wright St >> 0.563886821269989 Probability for UAB win
+UAB vs Wyoming >> 0.651606023311615 Probability for Wyoming win
+UAB vs Yale >> 0.5317752957344055 Probability for UAB win
+UCLA vs USC >> 0.5372984409332275 Probability for USC win
+UCLA vs Vermont >> 0.7923117280006409 Probability for Vermont win
+UCLA vs Villanova >> 0.564892053604126 Probability for Villanova win
+UCLA vs Virginia Tech >> 0.5426904559135437 Probability for Virginia Tech win
+UCLA vs Wisconsin >> 0.6250619888305664 Probability for UCLA win
+UCLA vs Wright St >> 0.7334411144256592 Probability for UCLA win
+UCLA vs Wyoming >> 0.5334540605545044 Probability for UCLA win
+UCLA vs Yale >> 0.6979761719703674 Probability for UCLA win
+USC vs Vermont >> 0.8585359454154968 Probability for Vermont win
+USC vs Villanova >> 0.6887919306755066 Probability for Villanova win
+USC vs Virginia Tech >> 0.661704957485199 Probability for Virginia Tech win
+USC vs Wisconsin >> 0.5309879779815674 Probability for Wisconsin win
+USC vs Wright St >> 0.5958419442176819 Probability for USC win
+USC vs Wyoming >> 0.5878512859344482 Probability for Wyoming win
+USC vs Yale >> 0.5467445850372314 Probability for USC win
+Vermont vs Villanova >> 0.6002024412155151 Probability for Vermont win
+Vermont vs Virginia Tech >> 0.6195803880691528 Probability for Vermont win
+Vermont vs Wisconsin >> 0.7714999914169312 Probability for Vermont win
+Vermont vs Wright St >> 0.8336961269378662 Probability for Vermont win
+Vermont vs Wyoming >> 0.6845390200614929 Probability for Vermont win
+Vermont vs Yale >> 0.8117499947547913 Probability for Vermont win
+Villanova vs Virginia Tech >> 0.7186715006828308 Probability for Virginia Tech win
+Villanova vs Wisconsin >> 0.5281791687011719 Probability for Wisconsin win
+Villanova vs Wright St >> 0.5916680693626404 Probability for Villanova win
+Villanova vs Wyoming >> 0.6490246057510376 Probability for Wyoming win
+Villanova vs Yale >> 0.5345515608787537 Probability for Villanova win
+Virginia Tech vs Wisconsin >> 0.6061626076698303 Probability for Wisconsin win
+Virginia Tech vs Wright St >> 0.550530731678009 Probability for Virginia Tech win
+Virginia Tech vs Wyoming >> 0.6986412405967712 Probability for Wyoming win
+Virginia Tech vs Yale >> 0.5022659301757812 Probability for Yale win
+Wisconsin vs Wright St >> 0.7241649627685547 Probability for Wright St win
+Wisconsin vs Wyoming >> 0.8401510119438171 Probability for Wyoming win
+Wisconsin vs Yale >> 0.7389355897903442 Probability for Yale win
+Wright St vs Wyoming >> 0.8410570025444031 Probability for Wyoming win
+Wright St vs Yale >> 0.7492676973342896 Probability for Yale win
+Wyoming vs Yale >> 0.5223948359489441 Probability for Yale win

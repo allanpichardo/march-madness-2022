@@ -9,10 +9,10 @@ def main():
     training_data = GamesTrainingDataset()
     val_data = GamesValidationDataset()
 
-    batch_size = 32
-    epochs = 100
-    version = '1'
-    learning_rate = 0.0001
+    batch_size = 200
+    epochs = 25
+    version = '4'
+    learning_rate = 0.001
     log_dir = os.path.join(os.path.dirname(__file__), 'logs')
     checkpoint_dir = os.path.join(os.path.dirname(__file__), 'checkpoints', version)
     save_path = os.path.join(os.path.dirname(__file__), 'saved_models', version)
@@ -38,7 +38,7 @@ def main():
 ), loss='categorical_crossentropy', metrics='accuracy')
 
     callbacks = [
-        tf.keras.callbacks.EarlyStopping(patience=5, monitor='val_accuracy'),
+        tf.keras.callbacks.EarlyStopping(patience=2, monitor='val_accuracy', restore_best_weights=True, verbose=1),
         tf.keras.callbacks.ModelCheckpoint(filepath=checkpoint_dir, monitor="val_accuracy",verbose=1,save_best_only=True),
         tf.keras.callbacks.TensorBoard(log_dir=log_dir)
     ]
