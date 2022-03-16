@@ -28,6 +28,10 @@ class GamesDatasetBuilder:
         print("Generating dataset...")
         self._load_raw_data()
 
+    def condense_stats_2022(self):
+        print("Generating dataset...")
+        self._load_current_data()
+
     def _bytes_feature(self, value):
         """Returns a bytes_list from a string / byte."""
         if isinstance(value, type(tf.constant(0))):
@@ -79,6 +83,43 @@ class GamesDatasetBuilder:
         self._connection.commit()
         print("Finished!")
 
+    def _load_current_data(self):
+        print("Loading database.")
+
+        max_games = self._cursor.execute(
+            'select count(TeamID) as c from SeasonStats group by TeamID, Season order by c desc limit 1').fetchone()[0]
+
+        all_stats = []
+
+        print("Iterating through team stats")
+        for row in self._cursor.execute('select * from Teams order by TeamID').fetchall():
+            id = row[0]
+            name = row[1]
+            first_season = 2022
+            last_season = 2022
+
+            print("Processing stats for {}".format(name))
+            for season in range(first_season, last_season + 1):
+                print("Season {}".format(season))
+                team_stats = np.array(self._get_stats(id, season))
+
+                if len(team_stats.shape) == 1:
+                    print("No games found. Skipping.")
+                    continue
+
+                matrix = team_stats[:, 5:-2]
+                matrix = np.resize(matrix, (max_games, matrix.shape[1]))
+                matrix = tf.convert_to_tensor(matrix, dtype=tf.float32)
+                matrix = tf.io.serialize_tensor(matrix)
+
+                all_stats.append((team_stats[0][0], team_stats[0][1], matrix.numpy()))
+
+        print("Got all stats.")
+        print("Bulk inserting...")
+        self._cursor.executemany("insert into CondensedStats2022 values (?, ?, ?)", all_stats)
+        self._connection.commit()
+        print("Finished!")
+
 
     def _get_stats(self, team_id, season):
         return self._cursor.execute("select * from SeasonStats where TeamID = ? and Season = ?",
@@ -103,9 +144,9 @@ class GamesTrainingDataset(tf.data.Dataset, ABC):
             (tf.int32, tf.int32, tf.string, tf.int32, tf.int32, tf.string, tf.int32, tf.int32)
         ).map(lambda season, teamA, statsA, homeA, teamB, statsB, homeB, outcome: ({
             "stats_1": tf.io.parse_tensor(statsA, tf.float32),
-            "home_1": homeA,
+            "home_1": tf.one_hot(homeA, 2),
             "stats_2": tf.io.parse_tensor(statsB, tf.float32),
-            "home_2": homeB
+            "home_2": tf.one_hot(homeB, 2)
         }, tf.one_hot(outcome, 2)) ,tf.data.AUTOTUNE).prefetch(tf.data.AUTOTUNE)
 
 class GamesValidationDataset(tf.data.Dataset, ABC):
@@ -126,17 +167,17 @@ class GamesValidationDataset(tf.data.Dataset, ABC):
             (tf.int32, tf.int32, tf.string, tf.int32, tf.int32, tf.string, tf.int32, tf.int32)
         ).map(lambda season, teamA, statsA, homeA, teamB, statsB, homeB, outcome: ({
             "stats_1": tf.io.parse_tensor(statsA, tf.float32),
-            "home_1": homeA,
+            "home_1": tf.one_hot(homeA, 2),
             "stats_2": tf.io.parse_tensor(statsB, tf.float32),
-            "home_2": homeB
+            "home_2": tf.one_hot(homeB, 2)
         }, tf.one_hot(outcome, 2)) ,tf.data.AUTOTUNE).prefetch(tf.data.AUTOTUNE)
 
 
 if __name__ == '__main__':
-    # builder = GamesDatasetBuilder()
-    # builder.condense_stats()
+    builder = GamesDatasetBuilder()
+    builder.condense_stats_2022()
 
-    data = GamesTrainingDataset()
-
-    for sample in data:
-        print(sample)
+    # data = GamesTrainingDataset()
+    #
+    # for sample in data:
+    #     print(sample)
