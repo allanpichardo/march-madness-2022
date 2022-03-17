@@ -11,8 +11,8 @@ def main():
 
     batch_size = 200
     epochs = 25
-    version = '4'
-    learning_rate = 0.001
+    version = '5'
+    learning_rate = 0.0001
     log_dir = os.path.join(os.path.dirname(__file__), 'logs')
     checkpoint_dir = os.path.join(os.path.dirname(__file__), 'checkpoints', version)
     save_path = os.path.join(os.path.dirname(__file__), 'saved_models', version)

@@ -34,14 +34,18 @@ class MatchPredictorModel(keras.Model, ABC):
         stats_b = layers.Input((36, 6))
         home_b = layers.Input((2,))
 
-        a = self._get_conv_block(stats_a)
-        b = self._get_conv_block(stats_b)
+        x = layers.Concatenate()([stats_a, stats_b])
+        x = layers.LSTM(256, return_sequences=True)(x)
+        x = layers.LSTM(256, return_sequences=False)(x)
 
-        ha = layers.Concatenate()([home_a, a])
-        hb = layers.Concatenate()([home_b, b])
+        # a = self._get_conv_block(stats_a)
+        # b = self._get_conv_block(stats_b)
 
-        x = layers.Concatenate()([ha, hb])
-        x = layers.Dense(128, activation='relu')(x)
+        # ha = layers.Concatenate()([home_a, a])
+        # hb = layers.Concatenate()([home_b, b])
+
+        x = layers.Concatenate()([x, home_a, home_b])
+        x = layers.Dense(512, activation='relu')(x)
         x = layers.Dense(2, activation='softmax')(x)
 
         return keras.Model([stats_a, home_a, stats_b, home_b], x)
