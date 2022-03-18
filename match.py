@@ -57,8 +57,8 @@ def get_team_name(id):
 
 
 def export_bracket(model, version):
-    sample_path = os.path.join(os.path.dirname(__file__), 'data', 'mens-march-mania-2022', 'MDataFiles_Stage2',
-                               'MSampleSubmissionStage2.csv')
+    sample_path = os.path.join(os.path.dirname(__file__), 'data', 'womens-march-mania-2022', 'WDataFiles_Stage2',
+                               'WSampleSubmissionStage2.csv')
     df = pd.read_csv(sample_path)
     plaintext = []
 

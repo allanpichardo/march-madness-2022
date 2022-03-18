@@ -15,37 +15,64 @@ class MatchPredictorModel(keras.Model, ABC):
         self.model = self._get_network()
 
     def _get_conv_block(self, inputs):
-        a = layers.Conv1D(64, 3, padding='same', activation='relu')(inputs)
-        a = layers.BatchNormalization()(a)
+        a = layers.Conv1D(64, 3, padding='same', activation='elu')(inputs)
+        a = layers.Conv1D(64, 3, padding='same', activation='elu')(a)
+        a = layers.BatchNormalization(1)(a)
+        a = layers.Dropout(0.5)(a)
         a = layers.MaxPool1D()(a)  # 36
-        a = layers.Conv1D(128, 3, padding='same', activation='relu')(a)
-        a = layers.BatchNormalization()(a)
+        a = layers.Conv1D(128, 3, padding='same', activation='elu')(a)
+        a = layers.Conv1D(128, 3, padding='same', activation='elu')(a)
+        a = layers.BatchNormalization(1)(a)
+        a = layers.Dropout(0.5)(a)
         a = layers.MaxPool1D()(a)  # 18
-        a = layers.Conv1D(256, 3, padding='same', activation='relu')(a)
-        a = layers.BatchNormalization()(a)
+        a = layers.Conv1D(256, 3, padding='same', activation='elu')(a)
+        a = layers.Conv1D(256, 3, padding='same', activation='elu')(a)
+        a = layers.BatchNormalization(1)(a)
+        a = layers.Dropout(0.5)(a)
         a = layers.MaxPool1D()(a)  # 18
-        a = layers.Conv1D(512, 3, padding='same', activation='relu')(a)
-        a = layers.GlobalMaxPooling1D()(a)  # 128
+        a = layers.Conv1D(512, 3, padding='same', activation='elu')(a)
+        a = layers.Dropout(0.5)(a)
+        a = layers.GlobalAveragePooling1D()(a)  # 128
         return a
 
     def _get_network(self):
-        stats_a = layers.Input((36, 6))
+        stats_a = layers.Input((35, 9))
         home_a = layers.Input((2,))
-        stats_b = layers.Input((36, 6))
+        stats_b = layers.Input((35, 9))
         home_b = layers.Input((2,))
 
         x = layers.Concatenate()([stats_a, stats_b])
-        x = layers.LSTM(256, return_sequences=True)(x)
-        x = layers.LSTM(256, return_sequences=False)(x)
-
+        x = layers.Conv1D(8, 7, padding='same')(x)
+        x = layers.BatchNormalization()(x)
+        x = layers.ReLU()(x)
+        x = layers.Conv1D(16, 5, padding='same')(x)
+        x = layers.BatchNormalization()(x)
+        x = layers.ReLU()(x)
+        x = layers.Conv1D(32, 3, padding='same')(x)
+        x = layers.BatchNormalization()(x)
+        x = layers.ReLU()(x)
+        x = layers.GlobalMaxPool1D()(x)
+        # x = layers.LSTM(256, return_sequences=True)(x)
+        # x = layers.LSTM(256, return_sequences=False)(x)
         # a = self._get_conv_block(stats_a)
         # b = self._get_conv_block(stats_b)
+
+        # x = tf.stack([a, b], 3)
+        # x = layers.Concatenate(3)([a, b])
+        # x = layers.Conv2D(64, 3, padding='same', activation='tanh')(x)
+        # x = layers.Flatten()(x)
+        # x = layers.LSTM(64, return_sequences=False)(x)
 
         # ha = layers.Concatenate()([home_a, a])
         # hb = layers.Concatenate()([home_b, b])
 
         x = layers.Concatenate()([x, home_a, home_b])
-        x = layers.Dense(512, activation='relu')(x)
+        x = layers.Dense(64, activation='elu')(x)
+        x = layers.Dropout(0.5)(x)
+        x = layers.Dense(64, activation='elu')(x)
+        x = layers.Dropout(0.5)(x)
+        x = layers.Dense(64, activation='elu')(x)
+        x = layers.Dropout(0.5)(x)
         x = layers.Dense(2, activation='softmax')(x)
 
         return keras.Model([stats_a, home_a, stats_b, home_b], x)

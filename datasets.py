@@ -58,7 +58,7 @@ class GamesDatasetBuilder:
         for row in self._cursor.execute('select * from Teams order by TeamID').fetchall():
             id = row[0]
             name = row[1]
-            first_season = row[2]
+            first_season = 2010
             last_season = 2021
 
             print("Processing stats for {}".format(name))
@@ -134,7 +134,7 @@ class GamesTrainingDataset(tf.data.Dataset, ABC):
 
     @staticmethod
     def get_sql_query():
-        return "select g.Season, g.TeamID as TeamA, ca.Stats as StatsA, g.Home as HomeA, g.OpponentID as TeamB, cb.Stats as StatsB, (select Home from SeasonStats where TeamID = cb.TeamID) as HomeB, g.Outcome from SeasonStats g left join CondensedStats ca on ca.TeamID = g.TeamID and ca.Season = g.Season left join CondensedStats cb on cb.TeamID = g.OpponentID and cb.Season = g.Season where ca.Season < 2020 order by ca.Season asc"
+        return "select g.Season, g.TeamID as TeamA, ca.Stats as StatsA, g.Home as HomeA, g.OpponentID as TeamB, cb.Stats as StatsB, (select Home from SeasonStats where TeamID = cb.TeamID) as HomeB, g.Outcome from SeasonStats g left join CondensedStats ca on ca.TeamID = g.TeamID and ca.Season = g.Season left join CondensedStats cb on cb.TeamID = g.OpponentID and cb.Season = g.Season where ca.Season < 2019 order by ca.Season asc"
 
     def __new__(cls, *args, **kwargs):
         return tf.data.experimental.SqlDataset(
@@ -157,7 +157,7 @@ class GamesValidationDataset(tf.data.Dataset, ABC):
 
     @staticmethod
     def get_sql_query():
-        return "select g.Season, g.TeamID as TeamA, ca.Stats as StatsA, g.Home as HomeA, g.OpponentID as TeamB, cb.Stats as StatsB, (select Home from SeasonStats where TeamID = cb.TeamID) as HomeB, g.Outcome from SeasonStats g left join CondensedStats ca on ca.TeamID = g.TeamID and ca.Season = g.Season left join CondensedStats cb on cb.TeamID = g.OpponentID and cb.Season = g.Season where ca.Season >= 2020 order by ca.Season asc"
+        return "select g.Season, g.TeamID as TeamA, ca.Stats as StatsA, g.Home as HomeA, g.OpponentID as TeamB, cb.Stats as StatsB, (select Home from SeasonStats where TeamID = cb.TeamID) as HomeB, g.Outcome from SeasonStats g left join CondensedStats ca on ca.TeamID = g.TeamID and ca.Season = g.Season left join CondensedStats cb on cb.TeamID = g.OpponentID and cb.Season = g.Season where ca.Season >= 2019 order by ca.Season asc"
 
     def __new__(cls, *args, **kwargs):
         return tf.data.experimental.SqlDataset(
@@ -175,6 +175,7 @@ class GamesValidationDataset(tf.data.Dataset, ABC):
 
 if __name__ == '__main__':
     builder = GamesDatasetBuilder()
+    builder.condense_stats()
     builder.condense_stats_2022()
 
     # data = GamesTrainingDataset()
